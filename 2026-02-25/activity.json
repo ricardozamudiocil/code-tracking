@@ -211,9 +211,9 @@
       "averageChangeSize": 1.1666666666666667
     },
     "CILReports (Workspace)": {
-      "totalLinesAdded": 224,
+      "totalLinesAdded": 323,
       "totalLinesRemoved": 0,
-      "totalActiveTime": 3,
+      "totalActiveTime": 4,
       "files": {
         "c:\\Workspace\\CILReports\\.settings\\org.eclipse.m2e.core.prefs": [
           {
@@ -261,6 +261,36 @@
             },
             "duration": 2,
             "language": "java"
+          }
+        ],
+        "c:\\Workspace\\CILReports\\src\\main\\resources\\jasper\\plantillas\\ase\\MASC_CABECERA.jrxml": [
+          {
+            "timestamp": "2026-02-25T15:05:47.938Z",
+            "fileName": "c:\\Workspace\\CILReports\\src\\main\\resources\\jasper\\plantillas\\ase\\MASC_CABECERA.jrxml",
+            "fileType": ".jrxml",
+            "linesAdded": 73,
+            "linesRemoved": 0,
+            "projectName": "CILReports (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "jrxml"
+          },
+          {
+            "timestamp": "2026-02-25T15:05:48.364Z",
+            "fileName": "c:\\Workspace\\CILReports\\src\\main\\resources\\jasper\\plantillas\\ase\\MASC_CABECERA.jrxml",
+            "fileType": ".jrxml",
+            "linesAdded": 26,
+            "linesRemoved": 0,
+            "projectName": "CILReports (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "jrxml"
           }
         ]
       },
