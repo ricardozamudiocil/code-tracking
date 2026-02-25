@@ -209,6 +209,57 @@
         "c:\\Users\\ricardo_zamudio\\AppData\\Roaming\\Code\\User\\settings.json"
       ],
       "averageChangeSize": 1.1666666666666667
+    },
+    "CILReports (Workspace)": {
+      "totalLinesAdded": 8,
+      "totalLinesRemoved": 0,
+      "totalActiveTime": 1,
+      "files": {
+        "c:\\Workspace\\CILReports\\.settings\\org.eclipse.m2e.core.prefs": [
+          {
+            "timestamp": "2026-02-25T14:55:04.616Z",
+            "fileName": "c:\\Workspace\\CILReports\\.settings\\org.eclipse.m2e.core.prefs",
+            "fileType": ".prefs",
+            "linesAdded": 5,
+            "linesRemoved": 0,
+            "projectName": "CILReports (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "prefs"
+          }
+        ],
+        "c:\\Workspace\\CILReports\\.vscode\\settings.json": [
+          {
+            "timestamp": "2026-02-25T14:55:10.526Z",
+            "fileName": "c:\\Workspace\\CILReports\\.vscode\\settings.json",
+            "fileType": ".json",
+            "linesAdded": 3,
+            "linesRemoved": 0,
+            "projectName": "CILReports (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "json"
+          }
+        ]
+      },
+      "languageStats": {
+        "prefs": 0,
+        "json": 1
+      },
+      "changeFrequency": {
+        "15": 1
+      },
+      "topFiles": [
+        "c:\\Workspace\\CILReports\\.settings\\org.eclipse.m2e.core.prefs",
+        "c:\\Workspace\\CILReports\\.vscode\\settings.json"
+      ],
+      "averageChangeSize": 4
     }
   },
   "totalActiveTime": 5,
