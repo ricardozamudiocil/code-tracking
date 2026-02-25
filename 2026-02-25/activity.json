@@ -211,9 +211,9 @@
       "averageChangeSize": 1.1666666666666667
     },
     "CILReports (Workspace)": {
-      "totalLinesAdded": 8,
+      "totalLinesAdded": 224,
       "totalLinesRemoved": 0,
-      "totalActiveTime": 1,
+      "totalActiveTime": 3,
       "files": {
         "c:\\Workspace\\CILReports\\.settings\\org.eclipse.m2e.core.prefs": [
           {
@@ -245,6 +245,22 @@
             },
             "duration": 1,
             "language": "json"
+          }
+        ],
+        "c:\\Workspace\\CILReports\\src\\main\\java\\cil\\web\\jasper\\repository\\cobros_repository\\JasperCobrosRepository.java": [
+          {
+            "timestamp": "2026-02-25T14:57:08.630Z",
+            "fileName": "c:\\Workspace\\CILReports\\src\\main\\java\\cil\\web\\jasper\\repository\\cobros_repository\\JasperCobrosRepository.java",
+            "fileType": ".java",
+            "linesAdded": 216,
+            "linesRemoved": 0,
+            "projectName": "CILReports (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "java"
           }
         ]
       },
