@@ -2,9 +2,9 @@
   "date": "2026-02-26",
   "projects": {
     "CILApp": {
-      "totalLinesAdded": 386,
+      "totalLinesAdded": 393,
       "totalLinesRemoved": 19,
-      "totalActiveTime": 19,
+      "totalActiveTime": 22,
       "files": {
         "c:\\CilAPPP\\CILApp\\src\\cil\\modulos\\asesoria\\datos\\GrupoPdfMasc.java": [
           {
@@ -161,6 +161,20 @@
               "removed": []
             },
             "duration": 1,
+            "language": "java"
+          },
+          {
+            "timestamp": "2026-02-26T08:02:16.422Z",
+            "fileName": "c:\\CilAPPP\\CILApp\\src\\cil\\modulos\\asesoria\\BatchServer\\PresentacionMonitorios.java",
+            "fileType": ".java",
+            "linesAdded": 7,
+            "linesRemoved": 0,
+            "projectName": "CILApp",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
             "language": "java"
           }
         ],
