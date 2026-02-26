@@ -2,7 +2,7 @@
   "date": "2026-02-26",
   "projects": {
     "CILApp": {
-      "totalLinesAdded": 826,
+      "totalLinesAdded": 943,
       "totalLinesRemoved": 27,
       "totalActiveTime": 36,
       "files": {
@@ -392,6 +392,22 @@
             },
             "duration": 0,
             "language": "backup"
+          }
+        ],
+        "c:\\CilAPPP\\CILApp\\src\\cil\\modulos\\asesoria\\datos\\ConsMonitoriosPtesEmpresa.java": [
+          {
+            "timestamp": "2026-02-26T14:53:29.267Z",
+            "fileName": "c:\\CilAPPP\\CILApp\\src\\cil\\modulos\\asesoria\\datos\\ConsMonitoriosPtesEmpresa.java",
+            "fileType": ".java",
+            "linesAdded": 117,
+            "linesRemoved": 0,
+            "projectName": "CILApp",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "java"
           }
         ]
       },
