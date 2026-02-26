@@ -2,9 +2,9 @@
   "date": "2026-02-26",
   "projects": {
     "CILApp": {
-      "totalLinesAdded": 944,
-      "totalLinesRemoved": 28,
-      "totalActiveTime": 38,
+      "totalLinesAdded": 1101,
+      "totalLinesRemoved": 1484,
+      "totalActiveTime": 40,
       "files": {
         "c:\\CilAPPP\\CILApp\\src\\cil\\modulos\\asesoria\\datos\\GrupoPdfMasc.java": [
           {
@@ -218,6 +218,20 @@
             },
             "duration": 1,
             "language": "java"
+          },
+          {
+            "timestamp": "2026-02-26T15:37:23.368Z",
+            "fileName": "c:\\CilAPPP\\CILApp\\src\\cil\\modulos\\asesoria\\BatchServer\\PresentacionMonitorios.java",
+            "fileType": ".java",
+            "linesAdded": 0,
+            "linesRemoved": 561,
+            "projectName": "CILApp",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "java"
           }
         ],
         "c:\\CilAPPP\\CILApp\\src\\cil\\modulos\\asesoria\\service\\MascSmsService.java": [
@@ -255,6 +269,20 @@
             "fileType": ".java",
             "linesAdded": 0,
             "linesRemoved": 2,
+            "projectName": "CILApp",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "java"
+          },
+          {
+            "timestamp": "2026-02-26T15:37:23.342Z",
+            "fileName": "c:\\CilAPPP\\CILApp\\src\\cil\\modulos\\asesoria\\service\\MascSmsService.java",
+            "fileType": ".java",
+            "linesAdded": 0,
+            "linesRemoved": 482,
             "projectName": "CILApp",
             "content": {
               "added": [],
@@ -376,6 +404,20 @@
             },
             "duration": 3,
             "language": "java"
+          },
+          {
+            "timestamp": "2026-02-26T15:37:23.393Z",
+            "fileName": "c:\\CilAPPP\\CILApp\\src\\cil\\modulos\\asesoria\\paneles\\PanelMonitoriosPtesImpresion.java",
+            "fileType": ".java",
+            "linesAdded": 0,
+            "linesRemoved": 116,
+            "projectName": "CILApp",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "java"
           }
         ],
         "c:\\Users\\ricardo_zamudio\\cartas_resto_2026-02-26_1.backup": [
@@ -436,6 +478,38 @@
             },
             "duration": 2,
             "language": "java"
+          }
+        ],
+        "c:\\CilAPPP\\CILApp\\src\\cil\\modulos\\asesoria\\BatchServer\\ProcMonitorioToMASC.java": [
+          {
+            "timestamp": "2026-02-26T15:37:23.311Z",
+            "fileName": "c:\\CilAPPP\\CILApp\\src\\cil\\modulos\\asesoria\\BatchServer\\ProcMonitorioToMASC.java",
+            "fileType": ".java",
+            "linesAdded": 0,
+            "linesRemoved": 297,
+            "projectName": "CILApp",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "java"
+          }
+        ],
+        "c:\\Pruebas\\Asesoria\\old\\tabla_metadata_access.csv": [
+          {
+            "timestamp": "2026-02-26T15:39:15.463Z",
+            "fileName": "c:\\Pruebas\\Asesoria\\old\\tabla_metadata_access.csv",
+            "fileType": ".csv",
+            "linesAdded": 157,
+            "linesRemoved": 0,
+            "projectName": "CILApp",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "csv"
           }
         ]
       },
