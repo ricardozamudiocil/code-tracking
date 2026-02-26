@@ -2,9 +2,9 @@
   "date": "2026-02-26",
   "projects": {
     "CILApp": {
-      "totalLinesAdded": 399,
+      "totalLinesAdded": 741,
       "totalLinesRemoved": 21,
-      "totalActiveTime": 22,
+      "totalActiveTime": 27,
       "files": {
         "c:\\CilAPPP\\CILApp\\src\\cil\\modulos\\asesoria\\datos\\GrupoPdfMasc.java": [
           {
@@ -233,6 +233,50 @@
               "removed": []
             },
             "duration": 0,
+            "language": "java"
+          }
+        ],
+        "c:\\CilAPPP\\CILApp\\src\\cil\\modulos\\asesoria\\paneles\\PanelMonitoriosPtesImpresion.java": [
+          {
+            "timestamp": "2026-02-26T10:30:23.232Z",
+            "fileName": "c:\\CilAPPP\\CILApp\\src\\cil\\modulos\\asesoria\\paneles\\PanelMonitoriosPtesImpresion.java",
+            "fileType": ".java",
+            "linesAdded": 259,
+            "linesRemoved": 0,
+            "projectName": "CILApp",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "java"
+          },
+          {
+            "timestamp": "2026-02-26T10:30:35.417Z",
+            "fileName": "c:\\CilAPPP\\CILApp\\src\\cil\\modulos\\asesoria\\paneles\\PanelMonitoriosPtesImpresion.java",
+            "fileType": ".java",
+            "linesAdded": 63,
+            "linesRemoved": 0,
+            "projectName": "CILApp",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "java"
+          },
+          {
+            "timestamp": "2026-02-26T10:34:07.784Z",
+            "fileName": "c:\\CilAPPP\\CILApp\\src\\cil\\modulos\\asesoria\\paneles\\PanelMonitoriosPtesImpresion.java",
+            "fileType": ".java",
+            "linesAdded": 20,
+            "linesRemoved": 0,
+            "projectName": "CILApp",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 4,
             "language": "java"
           }
         ]
