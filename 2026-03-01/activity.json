@@ -63,9 +63,9 @@
       "averageChangeSize": 121
     },
     "CILReports (Workspace)": {
-      "totalLinesAdded": 92,
+      "totalLinesAdded": 241,
       "totalLinesRemoved": 0,
-      "totalActiveTime": 4,
+      "totalActiveTime": 5,
       "files": {
         "c:\\Workspace\\CILReports\\src\\main\\java\\cil\\web\\jasper\\controller\\rest\\asesoria\\JasperAsesoriaRestController.java": [
           {
@@ -124,6 +124,22 @@
               "removed": []
             },
             "duration": 2,
+            "language": "java"
+          }
+        ],
+        "c:\\Workspace\\CILReports\\src\\main\\java\\cil\\web\\jasper\\service\\asesoria\\impl\\JasperAsesoriaServiceImp.java": [
+          {
+            "timestamp": "2026-03-01T19:03:40.227Z",
+            "fileName": "c:\\Workspace\\CILReports\\src\\main\\java\\cil\\web\\jasper\\service\\asesoria\\impl\\JasperAsesoriaServiceImp.java",
+            "fileType": ".java",
+            "linesAdded": 149,
+            "linesRemoved": 0,
+            "projectName": "CILReports (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
             "language": "java"
           }
         ]
