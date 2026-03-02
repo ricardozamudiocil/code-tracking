@@ -4,14 +4,14 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 1                                          |
+| **Lines Added** (➕)   | 6                                          |
 | **Lines Removed** (➖) | 0                                        |
-| **Net Change** (↕)    | 1                |
+| **Net Change** (↕)    | 6                |
 | **Active Time** (⌚)   | 0 minute |
 
 
 ## Modified Files
-- **PresentacionMonitorios.java** (+1, -0)
+- **PresentacionMonitorios.java** (+6, -0)
 
 ## Visualizations
 
@@ -20,7 +20,7 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".java" : 1
+".java" : 6
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -28,8 +28,8 @@ title Lines changed by file type
 ```mermaid
 pie showData
 title Coding activity by hour (count of changes)
-"12h" : 1
+"12h" : 2
 ```
 
 
-> **Last Updated:** 3/2/2026, 12:07:25 PM
+> **Last Updated:** 3/2/2026, 12:17:25 PM
