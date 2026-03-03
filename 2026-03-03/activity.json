@@ -2,9 +2,9 @@
   "date": "2026-03-03",
   "projects": {
     "CILReports (Workspace)": {
-      "totalLinesAdded": 357,
+      "totalLinesAdded": 384,
       "totalLinesRemoved": 2,
-      "totalActiveTime": 9,
+      "totalActiveTime": 13,
       "files": {
         "c:\\Workspace\\extraer_mis_commits.ps1": [
           {
@@ -98,6 +98,36 @@
             },
             "duration": 0,
             "language": "java"
+          }
+        ],
+        "c:\\Workspace\\CILReports\\src\\main\\resources\\jasper\\plantillas\\ase\\MON_AGRU.jrxml": [
+          {
+            "timestamp": "2026-03-03T11:04:29.567Z",
+            "fileName": "c:\\Workspace\\CILReports\\src\\main\\resources\\jasper\\plantillas\\ase\\MON_AGRU.jrxml",
+            "fileType": ".jrxml",
+            "linesAdded": 21,
+            "linesRemoved": 0,
+            "projectName": "CILReports (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "jrxml"
+          },
+          {
+            "timestamp": "2026-03-03T11:07:33.588Z",
+            "fileName": "c:\\Workspace\\CILReports\\src\\main\\resources\\jasper\\plantillas\\ase\\MON_AGRU.jrxml",
+            "fileType": ".jrxml",
+            "linesAdded": 6,
+            "linesRemoved": 0,
+            "projectName": "CILReports (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 4,
+            "language": "jrxml"
           }
         ]
       },
