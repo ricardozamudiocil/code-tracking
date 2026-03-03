@@ -5,9 +5,9 @@
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
 | **Lines Added** (➕)   | 393                                          |
-| **Lines Removed** (➖) | 35                                        |
-| **Net Change** (↕)    | 358                |
-| **Active Time** (⌚)   | 15 minutes |
+| **Lines Removed** (➖) | 53                                        |
+| **Net Change** (↕)    | 340                |
+| **Active Time** (⌚)   | 16 minutes |
 
 
 ## Modified Files
@@ -15,7 +15,7 @@
 - **mis_commits_20260303.txt** (+130, -0)
 - **mis_commits_220260303.txt** (+134, -0)
 - **CilJasperReportApplication.java** (+54, -0)
-- **JasperAsesoriaServiceImp.java** (+9, -8)
+- **JasperAsesoriaServiceImp.java** (+9, -26)
 - **MON_AGRU.jrxml** (+27, -27)
 
 ## Visualizations
@@ -27,7 +27,7 @@ pie showData
 title Lines changed by file type
 ".ps1" : 39
 ".txt" : 264
-".java" : 71
+".java" : 89
 ".jrxml" : 54
 ```
 
@@ -39,7 +39,8 @@ title Coding activity by hour (count of changes)
 "08h" : 4
 "11h" : 2
 "12h" : 7
+"13h" : 2
 ```
 
 
-> **Last Updated:** 3/3/2026, 12:53:08 PM
+> **Last Updated:** 3/3/2026, 1:13:08 PM
