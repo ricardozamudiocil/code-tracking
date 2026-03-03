@@ -214,8 +214,8 @@
     },
     "CILApp": {
       "totalLinesAdded": 130,
-      "totalLinesRemoved": 1,
-      "totalActiveTime": 8,
+      "totalLinesRemoved": 15,
+      "totalActiveTime": 9,
       "files": {
         "c:\\CilAPPP\\CILApp\\src\\cil\\modulos\\asesoria\\BatchServer\\PresentacionMonitorios.java": [
           {
@@ -301,6 +301,20 @@
             },
             "duration": 1,
             "language": "java"
+          },
+          {
+            "timestamp": "2026-03-03T11:58:58.061Z",
+            "fileName": "c:\\CilAPPP\\CILApp\\src\\cil\\modulos\\asesoria\\BatchServer\\PresentacionMonitorios.java",
+            "fileType": ".java",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "CILApp",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "java"
           }
         ],
         "c:\\CilAPPP\\CILApp\\resources\\log4j.properties": [
@@ -330,6 +344,20 @@
               "removed": []
             },
             "duration": 1,
+            "language": "properties"
+          },
+          {
+            "timestamp": "2026-03-03T11:58:40.508Z",
+            "fileName": "c:\\CilAPPP\\CILApp\\resources\\log4j.properties",
+            "fileType": ".properties",
+            "linesAdded": 0,
+            "linesRemoved": 13,
+            "projectName": "CILApp",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
             "language": "properties"
           }
         ]
