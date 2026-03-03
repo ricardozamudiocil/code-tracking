@@ -255,9 +255,9 @@
       "averageChangeSize": 39
     },
     "CILApp": {
-      "totalLinesAdded": 260,
+      "totalLinesAdded": 400,
       "totalLinesRemoved": 251,
-      "totalActiveTime": 10,
+      "totalActiveTime": 15,
       "files": {
         "c:\\CilAPPP\\CILApp\\src\\cil\\modulos\\asesoria\\BatchServer\\PresentacionMonitorios.java": [
           {
@@ -472,6 +472,38 @@
               "removed": []
             },
             "duration": 0,
+            "language": "txt"
+          }
+        ],
+        "c:\\Workspace\\extraer_mis_commits.ps1": [
+          {
+            "timestamp": "2026-03-03T13:33:56.573Z",
+            "fileName": "c:\\Workspace\\extraer_mis_commits.ps1",
+            "fileType": ".ps1",
+            "linesAdded": 39,
+            "linesRemoved": 0,
+            "projectName": "CILApp",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "ps1"
+          }
+        ],
+        "c:\\Workspace\\mis_commits_2_20260303.txt": [
+          {
+            "timestamp": "2026-03-03T13:36:09.267Z",
+            "fileName": "c:\\Workspace\\mis_commits_2_20260303.txt",
+            "fileType": ".txt",
+            "linesAdded": 101,
+            "linesRemoved": 0,
+            "projectName": "CILApp",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
             "language": "txt"
           }
         ]
