@@ -5,13 +5,13 @@
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
 | **Lines Added** (➕)   | 750                                          |
-| **Lines Removed** (➖) | 344                                        |
-| **Net Change** (↕)    | 406                |
+| **Lines Removed** (➖) | 601                                        |
+| **Net Change** (↕)    | 149                |
 | **Active Time** (⌚)   | 50 minutes |
 
 
 ## Modified Files
-- **PresentacionMonitorios.java** (+416, -327)
+- **PresentacionMonitorios.java** (+416, -584)
 - **log4j.properties** (+32, -13)
 - **mis_commits_20260303.txt** (+130, -0)
 - **extraer_mis_commits.ps1** (+39, -0)
@@ -27,7 +27,7 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".java" : 779
+".java" : 1036
 ".properties" : 45
 ".txt" : 231
 ".ps1" : 39
@@ -44,7 +44,8 @@ title Coding activity by hour (count of changes)
 "13h" : 4
 "14h" : 4
 "16h" : 23
+"19h" : 1
 ```
 
 
-> **Last Updated:** 3/3/2026, 6:59:29 PM
+> **Last Updated:** 3/3/2026, 7:14:28 PM

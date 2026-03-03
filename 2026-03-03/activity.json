@@ -2,7 +2,7 @@
   "date": "2026-03-03",
   "projects": {
     "CILReports (Workspace)": {
-      "totalLinesAdded": 732,
+      "totalLinesAdded": 742,
       "totalLinesRemoved": 53,
       "totalActiveTime": 43,
       "files": {
@@ -195,6 +195,20 @@
               "removed": []
             },
             "duration": 4,
+            "language": "java"
+          },
+          {
+            "timestamp": "2026-03-03T18:11:14.432Z",
+            "fileName": "c:\\Workspace\\CILReports\\src\\main\\java\\cil\\web\\jasper\\service\\asesoria\\impl\\JasperAsesoriaServiceImp.java",
+            "fileType": ".java",
+            "linesAdded": 10,
+            "linesRemoved": 0,
+            "projectName": "CILReports (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
             "language": "java"
           }
         ],
@@ -610,7 +624,7 @@
     },
     "CILApp": {
       "totalLinesAdded": 750,
-      "totalLinesRemoved": 344,
+      "totalLinesRemoved": 601,
       "totalActiveTime": 50,
       "files": {
         "c:\\CilAPPP\\CILApp\\src\\cil\\modulos\\asesoria\\BatchServer\\PresentacionMonitorios.java": [
@@ -1032,6 +1046,20 @@
               "removed": []
             },
             "duration": 2,
+            "language": "java"
+          },
+          {
+            "timestamp": "2026-03-03T18:11:31.855Z",
+            "fileName": "c:\\CilAPPP\\CILApp\\src\\cil\\modulos\\asesoria\\BatchServer\\PresentacionMonitorios.java",
+            "fileType": ".java",
+            "linesAdded": 0,
+            "linesRemoved": 257,
+            "projectName": "CILApp",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
             "language": "java"
           }
         ],
