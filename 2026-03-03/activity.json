@@ -140,6 +140,57 @@
         "c:\\CilAPPP\\CILApp\\src\\cil\\modulos\\asesoria\\BatchServer\\PresentacionMonitorios.java"
       ],
       "averageChangeSize": 11
+    },
+    "CILWebCustomerComunicationFront": {
+      "totalLinesAdded": 2815,
+      "totalLinesRemoved": 0,
+      "totalActiveTime": 1,
+      "files": {
+        "c:\\Pruebas\\MASC\\PresentaMASC\\backup\\Cartas_Asesoria_Resto2026-03-03_1.txt": [
+          {
+            "timestamp": "2026-03-03T08:51:30.701Z",
+            "fileName": "c:\\Pruebas\\MASC\\PresentaMASC\\backup\\Cartas_Asesoria_Resto2026-03-03_1.txt",
+            "fileType": ".txt",
+            "linesAdded": 1375,
+            "linesRemoved": 0,
+            "projectName": "CILWebCustomerComunicationFront",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "txt"
+          }
+        ],
+        "c:\\Pruebas\\MASC\\PresentaMASC\\backup\\cartas_resto_2026-03-03_16.backup": [
+          {
+            "timestamp": "2026-03-03T08:52:04.692Z",
+            "fileName": "c:\\Pruebas\\MASC\\PresentaMASC\\backup\\cartas_resto_2026-03-03_16.backup",
+            "fileType": ".backup",
+            "linesAdded": 1440,
+            "linesRemoved": 0,
+            "projectName": "CILWebCustomerComunicationFront",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "backup"
+          }
+        ]
+      },
+      "languageStats": {
+        "txt": 0,
+        "backup": 1
+      },
+      "changeFrequency": {
+        "9": 1
+      },
+      "topFiles": [
+        "c:\\Pruebas\\MASC\\PresentaMASC\\backup\\Cartas_Asesoria_Resto2026-03-03_1.txt",
+        "c:\\Pruebas\\MASC\\PresentaMASC\\backup\\cartas_resto_2026-03-03_16.backup"
+      ],
+      "averageChangeSize": 1407.5
     }
   },
   "totalActiveTime": 0,
