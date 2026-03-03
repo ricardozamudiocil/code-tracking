@@ -142,9 +142,9 @@
       "averageChangeSize": 11
     },
     "CILWebCustomerComunicationFront": {
-      "totalLinesAdded": 2815,
-      "totalLinesRemoved": 0,
-      "totalActiveTime": 1,
+      "totalLinesAdded": 4461,
+      "totalLinesRemoved": 1390,
+      "totalActiveTime": 8,
       "files": {
         "c:\\Pruebas\\MASC\\PresentaMASC\\backup\\Cartas_Asesoria_Resto2026-03-03_1.txt": [
           {
@@ -176,6 +176,100 @@
             },
             "duration": 1,
             "language": "backup"
+          },
+          {
+            "timestamp": "2026-03-03T08:53:09.347Z",
+            "fileName": "c:\\Pruebas\\MASC\\PresentaMASC\\backup\\cartas_resto_2026-03-03_16.backup",
+            "fileType": ".backup",
+            "linesAdded": 0,
+            "linesRemoved": 1390,
+            "projectName": "CILWebCustomerComunicationFront",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "backup"
+          }
+        ],
+        "c:\\Pruebas\\MASC\\PresentaMASC\\backup\\Certificado_Resto2026-03-03_1.txt": [
+          {
+            "timestamp": "2026-03-03T08:53:25.328Z",
+            "fileName": "c:\\Pruebas\\MASC\\PresentaMASC\\backup\\Certificado_Resto2026-03-03_1.txt",
+            "fileType": ".txt",
+            "linesAdded": 1440,
+            "linesRemoved": 0,
+            "projectName": "CILWebCustomerComunicationFront",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "txt"
+          }
+        ],
+        "c:\\Pruebas\\MASC\\PresentaMASC\\backup\\facturas_resto_2026-03-03_27.txt": [
+          {
+            "timestamp": "2026-03-03T08:54:24.281Z",
+            "fileName": "c:\\Pruebas\\MASC\\PresentaMASC\\backup\\facturas_resto_2026-03-03_27.txt",
+            "fileType": ".txt",
+            "linesAdded": 48,
+            "linesRemoved": 0,
+            "projectName": "CILWebCustomerComunicationFront",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "txt"
+          }
+        ],
+        "c:\\Pruebas\\MASC\\PresentaMASC\\backup\\facturas_resto_2026-03-03_28.txt": [
+          {
+            "timestamp": "2026-03-03T08:54:35.426Z",
+            "fileName": "c:\\Pruebas\\MASC\\PresentaMASC\\backup\\facturas_resto_2026-03-03_28.txt",
+            "fileType": ".txt",
+            "linesAdded": 58,
+            "linesRemoved": 0,
+            "projectName": "CILWebCustomerComunicationFront",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "txt"
+          }
+        ],
+        "c:\\Pruebas\\MASC\\PresentaMASC\\backup\\cartas_resto_2026-03-03_27.txt": [
+          {
+            "timestamp": "2026-03-03T08:54:45.242Z",
+            "fileName": "c:\\Pruebas\\MASC\\PresentaMASC\\backup\\cartas_resto_2026-03-03_27.txt",
+            "fileType": ".txt",
+            "linesAdded": 50,
+            "linesRemoved": 0,
+            "projectName": "CILWebCustomerComunicationFront",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "txt"
+          }
+        ],
+        "c:\\Pruebas\\MASC\\PresentaMASC\\backup\\cartas_resto_2026-03-03_28.txt": [
+          {
+            "timestamp": "2026-03-03T08:54:54.320Z",
+            "fileName": "c:\\Pruebas\\MASC\\PresentaMASC\\backup\\cartas_resto_2026-03-03_28.txt",
+            "fileType": ".txt",
+            "linesAdded": 50,
+            "linesRemoved": 0,
+            "projectName": "CILWebCustomerComunicationFront",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "txt"
           }
         ]
       },
