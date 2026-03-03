@@ -5,13 +5,13 @@
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
 | **Lines Added** (➕)   | 130                                          |
-| **Lines Removed** (➖) | 184                                        |
-| **Net Change** (↕)    | -54                |
+| **Lines Removed** (➖) | 251                                        |
+| **Net Change** (↕)    | -121                |
 | **Active Time** (⌚)   | 10 minutes |
 
 
 ## Modified Files
-- **PresentacionMonitorios.java** (+98, -171)
+- **PresentacionMonitorios.java** (+98, -238)
 - **log4j.properties** (+32, -13)
 
 ## Visualizations
@@ -21,7 +21,7 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".java" : 269
+".java" : 336
 ".properties" : 45
 ```
 
@@ -33,8 +33,8 @@ title Coding activity by hour (count of changes)
 "09h" : 3
 "11h" : 5
 "12h" : 2
-"13h" : 3
+"13h" : 4
 ```
 
 
-> **Last Updated:** 3/3/2026, 1:28:06 PM
+> **Last Updated:** 3/3/2026, 1:38:06 PM
