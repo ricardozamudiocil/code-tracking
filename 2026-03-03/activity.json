@@ -2,9 +2,9 @@
   "date": "2026-03-03",
   "projects": {
     "CILReports (Workspace)": {
-      "totalLinesAdded": 393,
+      "totalLinesAdded": 395,
       "totalLinesRemoved": 53,
-      "totalActiveTime": 16,
+      "totalActiveTime": 20,
       "files": {
         "c:\\Workspace\\extraer_mis_commits.ps1": [
           {
@@ -181,6 +181,20 @@
               "removed": []
             },
             "duration": 1,
+            "language": "java"
+          },
+          {
+            "timestamp": "2026-03-03T12:14:12.218Z",
+            "fileName": "c:\\Workspace\\CILReports\\src\\main\\java\\cil\\web\\jasper\\service\\asesoria\\impl\\JasperAsesoriaServiceImp.java",
+            "fileType": ".java",
+            "linesAdded": 2,
+            "linesRemoved": 0,
+            "projectName": "CILReports (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 4,
             "language": "java"
           }
         ],
