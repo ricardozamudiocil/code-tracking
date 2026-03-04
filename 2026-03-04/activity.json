@@ -312,7 +312,7 @@
     },
     "CILApp": {
       "totalLinesAdded": 5273,
-      "totalLinesRemoved": 1441,
+      "totalLinesRemoved": 2878,
       "totalActiveTime": 13,
       "files": {
         "c:\\CilAPPP\\CILApp\\src\\cil\\modulos\\asesoria\\BatchServer\\PresentacionMonitorios.java": [
@@ -357,6 +357,20 @@
             },
             "duration": 1,
             "language": "java"
+          },
+          {
+            "timestamp": "2026-03-04T14:33:03.479Z",
+            "fileName": "c:\\CilAPPP\\CILApp\\src\\cil\\modulos\\asesoria\\BatchServer\\PresentacionMonitorios.java",
+            "fileType": ".java",
+            "linesAdded": 0,
+            "linesRemoved": 546,
+            "projectName": "CILApp",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "java"
           }
         ],
         "c:\\CilAPPP\\CILApp\\src\\cil\\modulos\\asesoria\\BatchServer\\AsignacionProcurador.java": [
@@ -386,6 +400,20 @@
               "removed": []
             },
             "duration": 2,
+            "language": "java"
+          },
+          {
+            "timestamp": "2026-03-04T14:33:03.339Z",
+            "fileName": "c:\\CilAPPP\\CILApp\\src\\cil\\modulos\\asesoria\\BatchServer\\AsignacionProcurador.java",
+            "fileType": ".java",
+            "linesAdded": 0,
+            "linesRemoved": 18,
+            "projectName": "CILApp",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
             "language": "java"
           }
         ],
@@ -447,6 +475,20 @@
             },
             "duration": 2,
             "language": "java"
+          },
+          {
+            "timestamp": "2026-03-04T14:33:03.212Z",
+            "fileName": "c:\\CilAPPP\\CILApp\\src\\cil\\modulos\\asesoria\\service\\MascSmsService.java",
+            "fileType": ".java",
+            "linesAdded": 0,
+            "linesRemoved": 589,
+            "projectName": "CILApp",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "java"
           }
         ],
         "c:\\CilAPPP\\CILApp\\src\\cil\\modulos\\asesoria\\BatchServer\\ProcMonitorioToMASC.java": [
@@ -476,6 +518,20 @@
               "removed": []
             },
             "duration": 2,
+            "language": "java"
+          },
+          {
+            "timestamp": "2026-03-04T14:33:03.287Z",
+            "fileName": "c:\\CilAPPP\\CILApp\\src\\cil\\modulos\\asesoria\\BatchServer\\ProcMonitorioToMASC.java",
+            "fileType": ".java",
+            "linesAdded": 0,
+            "linesRemoved": 284,
+            "projectName": "CILApp",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
             "language": "java"
           }
         ],
