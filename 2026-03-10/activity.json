@@ -49,9 +49,9 @@
       "averageChangeSize": 518
     },
     "CILApp": {
-      "totalLinesAdded": 5603,
+      "totalLinesAdded": 5634,
       "totalLinesRemoved": 44,
-      "totalActiveTime": 18,
+      "totalActiveTime": 19,
       "files": {
         "c:\\CilAPPP\\CILApp\\src\\cil\\paneles\\cpt\\PanelCpPedidosMP.java": [
           {
@@ -280,6 +280,20 @@
               "removed": []
             },
             "duration": 4,
+            "language": "java"
+          },
+          {
+            "timestamp": "2026-03-10T15:16:47.430Z",
+            "fileName": "c:\\CilAPPP\\CILApp\\src\\cil\\modulos\\asesoria\\service\\MascSmsService.java",
+            "fileType": ".java",
+            "linesAdded": 31,
+            "linesRemoved": 0,
+            "projectName": "CILApp",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
             "language": "java"
           }
         ],
