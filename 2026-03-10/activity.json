@@ -49,9 +49,9 @@
       "averageChangeSize": 518
     },
     "CILApp": {
-      "totalLinesAdded": 4594,
-      "totalLinesRemoved": 13,
-      "totalActiveTime": 10,
+      "totalLinesAdded": 5603,
+      "totalLinesRemoved": 44,
+      "totalActiveTime": 18,
       "files": {
         "c:\\CilAPPP\\CILApp\\src\\cil\\paneles\\cpt\\PanelCpPedidosMP.java": [
           {
@@ -267,6 +267,20 @@
             },
             "duration": 1,
             "language": "java"
+          },
+          {
+            "timestamp": "2026-03-10T15:16:30.570Z",
+            "fileName": "c:\\CilAPPP\\CILApp\\src\\cil\\modulos\\asesoria\\service\\MascSmsService.java",
+            "fileType": ".java",
+            "linesAdded": 0,
+            "linesRemoved": 31,
+            "projectName": "CILApp",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 4,
+            "language": "java"
           }
         ],
         "c:\\CilAPPP\\CILApp\\.vscode\\launch.json": [
@@ -283,6 +297,38 @@
             },
             "duration": 0,
             "language": "json"
+          }
+        ],
+        "c:\\CilAPPP\\CILApp\\src\\cil\\modulos\\asesoria\\BatchServer\\ProcMonitorioToMASC.java": [
+          {
+            "timestamp": "2026-03-10T15:13:20.537Z",
+            "fileName": "c:\\CilAPPP\\CILApp\\src\\cil\\modulos\\asesoria\\BatchServer\\ProcMonitorioToMASC.java",
+            "fileType": ".java",
+            "linesAdded": 685,
+            "linesRemoved": 0,
+            "projectName": "CILApp",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "java"
+          }
+        ],
+        "c:\\CilAPPP\\CILApp\\src\\cil\\modulos\\notificaciones\\certifiedComponent\\EssendexCertComponentWrapper.java": [
+          {
+            "timestamp": "2026-03-10T15:16:30.604Z",
+            "fileName": "c:\\CilAPPP\\CILApp\\src\\cil\\modulos\\notificaciones\\certifiedComponent\\EssendexCertComponentWrapper.java",
+            "fileType": ".java",
+            "linesAdded": 324,
+            "linesRemoved": 0,
+            "projectName": "CILApp",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 4,
+            "language": "java"
           }
         ]
       },
