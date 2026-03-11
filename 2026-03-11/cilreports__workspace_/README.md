@@ -4,19 +4,19 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 138                                          |
-| **Lines Removed** (➖) | 412                                        |
-| **Net Change** (↕)    | -274                |
-| **Active Time** (⌚)   | 7 minutes |
+| **Lines Added** (➕)   | 545                                          |
+| **Lines Removed** (➖) | 418                                        |
+| **Net Change** (↕)    | 127                |
+| **Active Time** (⌚)   | 22 minutes |
 
 
 ## Modified Files
 - **JasperComprasServiceImpl.java** (+0, -14)
-- **JasperAsesoriaService.java** (+4, -8)
-- **ConstantsJasperAsesoria.java** (+2, -4)
-- **JasperRecoverRestController.java** (+132, -0)
-- **JasperCobrosRepository.java** (+0, -253)
-- **JasperAsesoriaServiceImp.java** (+0, -133)
+- **JasperAsesoriaService.java** (+8, -12)
+- **ConstantsJasperAsesoria.java** (+4, -6)
+- **JasperRecoverRestController.java** (+147, -0)
+- **JasperCobrosRepository.java** (+253, -253)
+- **JasperAsesoriaServiceImp.java** (+133, -133)
 
 ## Visualizations
 
@@ -25,7 +25,7 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".java" : 550
+".java" : 963
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -34,8 +34,8 @@ title Lines changed by file type
 pie showData
 title Coding activity by hour (count of changes)
 "09h" : 6
-"10h" : 5
+"10h" : 13
 ```
 
 
-> **Last Updated:** 3/11/2026, 10:08:27 AM
+> **Last Updated:** 3/11/2026, 10:13:27 AM
