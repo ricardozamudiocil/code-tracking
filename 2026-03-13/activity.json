@@ -50,6 +50,39 @@
         "c:\\CilAPPP\\CILApp\\src\\cil\\modulos\\asesoria\\BatchServer\\PresentacionMonitorios.java"
       ],
       "averageChangeSize": 313.5
+    },
+    "ObjetosBD": {
+      "totalLinesAdded": 99,
+      "totalLinesRemoved": 0,
+      "totalActiveTime": 0,
+      "files": {
+        "c:\\Workspace\\ObjetosBD\\vistas\\CPV_PED_REFSP_RP.VIEW": [
+          {
+            "timestamp": "2026-03-13T11:17:51.798Z",
+            "fileName": "c:\\Workspace\\ObjetosBD\\vistas\\CPV_PED_REFSP_RP.VIEW",
+            "fileType": ".VIEW",
+            "linesAdded": 99,
+            "linesRemoved": 0,
+            "projectName": "ObjetosBD",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "VIEW"
+          }
+        ]
+      },
+      "languageStats": {
+        "VIEW": 0
+      },
+      "changeFrequency": {
+        "12": 0
+      },
+      "topFiles": [
+        "c:\\Workspace\\ObjetosBD\\vistas\\CPV_PED_REFSP_RP.VIEW"
+      ],
+      "averageChangeSize": 99
     }
   },
   "totalActiveTime": 1,
