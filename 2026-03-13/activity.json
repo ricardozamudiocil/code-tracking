@@ -52,9 +52,9 @@
       "averageChangeSize": 313.5
     },
     "ObjetosBD": {
-      "totalLinesAdded": 258,
+      "totalLinesAdded": 286,
       "totalLinesRemoved": 19,
-      "totalActiveTime": 3,
+      "totalActiveTime": 9,
       "files": {
         "c:\\Workspace\\ObjetosBD\\vistas\\CPV_PED_REFSP_RP.VIEW": [
           {
@@ -114,6 +114,20 @@
             },
             "duration": 1,
             "language": "VIEW"
+          },
+          {
+            "timestamp": "2026-03-13T11:32:05.501Z",
+            "fileName": "c:\\Workspace\\ObjetosBD\\vistas\\AJV_MONIT_EMP_IMP.VIEW",
+            "fileType": ".VIEW",
+            "linesAdded": 15,
+            "linesRemoved": 0,
+            "projectName": "ObjetosBD",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "VIEW"
           }
         ],
         "c:\\Workspace\\ObjetosBD\\vistas\\AJV_MONITORIOS_IMP.VIEW": [
@@ -129,6 +143,20 @@
               "removed": []
             },
             "duration": 1,
+            "language": "VIEW"
+          },
+          {
+            "timestamp": "2026-03-13T11:31:43.670Z",
+            "fileName": "c:\\Workspace\\ObjetosBD\\vistas\\AJV_MONITORIOS_IMP.VIEW",
+            "fileType": ".VIEW",
+            "linesAdded": 13,
+            "linesRemoved": 0,
+            "projectName": "ObjetosBD",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 5,
             "language": "VIEW"
           }
         ]
