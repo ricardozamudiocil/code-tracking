@@ -52,7 +52,7 @@
       "averageChangeSize": 313.5
     },
     "ObjetosBD": {
-      "totalLinesAdded": 286,
+      "totalLinesAdded": 295,
       "totalLinesRemoved": 38,
       "totalActiveTime": 9,
       "files": {
@@ -135,6 +135,20 @@
             "fileType": ".VIEW",
             "linesAdded": 0,
             "linesRemoved": 15,
+            "projectName": "ObjetosBD",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "VIEW"
+          },
+          {
+            "timestamp": "2026-03-13T11:57:07.034Z",
+            "fileName": "c:\\Workspace\\ObjetosBD\\vistas\\AJV_MONIT_EMP_IMP.VIEW",
+            "fileType": ".VIEW",
+            "linesAdded": 9,
+            "linesRemoved": 0,
             "projectName": "ObjetosBD",
             "content": {
               "added": [],
