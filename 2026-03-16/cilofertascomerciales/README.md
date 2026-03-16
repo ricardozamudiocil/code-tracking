@@ -4,14 +4,16 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 973                                          |
+| **Lines Added** (➕)   | 1364                                          |
 | **Lines Removed** (➖) | 0                                        |
-| **Net Change** (↕)    | 973                |
-| **Active Time** (⌚)   | 0 minute |
+| **Net Change** (↕)    | 1364                |
+| **Active Time** (⌚)   | 1 minute |
 
 
 ## Modified Files
 - **OfferServiceImpl.java** (+973, -0)
+- **PromotionRestController.java** (+97, -0)
+- **PromotionServiceImpl.java** (+294, -0)
 
 ## Visualizations
 
@@ -20,7 +22,7 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".java" : 973
+".java" : 1364
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -28,8 +30,8 @@ title Lines changed by file type
 ```mermaid
 pie showData
 title Coding activity by hour (count of changes)
-"12h" : 1
+"12h" : 3
 ```
 
 
-> **Last Updated:** 3/16/2026, 12:46:15 PM
+> **Last Updated:** 3/16/2026, 12:56:15 PM
