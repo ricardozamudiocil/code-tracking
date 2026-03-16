@@ -2,7 +2,7 @@
   "date": "2026-03-16",
   "projects": {
     "CILOfertasComerciales": {
-      "totalLinesAdded": 1364,
+      "totalLinesAdded": 1383,
       "totalLinesRemoved": 0,
       "totalActiveTime": 1,
       "files": {
@@ -20,6 +20,20 @@
             },
             "duration": 0,
             "language": "java"
+          },
+          {
+            "timestamp": "2026-03-16T12:28:07.089Z",
+            "fileName": "c:\\Workspace\\CILOfertasComerciales\\src\\main\\java\\cil\\offers\\api\\service\\impl\\OfferServiceImpl.java",
+            "fileType": ".java",
+            "linesAdded": 4,
+            "linesRemoved": 0,
+            "projectName": "CILOfertasComerciales",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "java"
           }
         ],
         "c:\\Workspace\\CILOfertasComerciales\\src\\main\\java\\cil\\offers\\api\\controller\\PromotionRestController.java": [
@@ -28,6 +42,20 @@
             "fileName": "c:\\Workspace\\CILOfertasComerciales\\src\\main\\java\\cil\\offers\\api\\controller\\PromotionRestController.java",
             "fileType": ".java",
             "linesAdded": 97,
+            "linesRemoved": 0,
+            "projectName": "CILOfertasComerciales",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "java"
+          },
+          {
+            "timestamp": "2026-03-16T12:28:07.043Z",
+            "fileName": "c:\\Workspace\\CILOfertasComerciales\\src\\main\\java\\cil\\offers\\api\\controller\\PromotionRestController.java",
+            "fileType": ".java",
+            "linesAdded": 15,
             "linesRemoved": 0,
             "projectName": "CILOfertasComerciales",
             "content": {
