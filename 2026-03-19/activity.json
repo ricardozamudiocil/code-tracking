@@ -47,6 +47,56 @@
         "c:\\Workspace\\Scripts\\home\\cilcobol\\ftp\\FTP_ESENDEX_ASE.sh"
       ],
       "averageChangeSize": 82
+    },
+    "CILApp": {
+      "totalLinesAdded": 3924,
+      "totalLinesRemoved": 0,
+      "totalActiveTime": 2,
+      "files": {
+        "c:\\CilAPPP\\CILApp\\src\\cil\\modulos\\notificaciones\\BatchServer\\GestorBajadaSMSCertificados.java": [
+          {
+            "timestamp": "2026-03-19T10:29:57.067Z",
+            "fileName": "c:\\CilAPPP\\CILApp\\src\\cil\\modulos\\notificaciones\\BatchServer\\GestorBajadaSMSCertificados.java",
+            "fileType": ".java",
+            "linesAdded": 461,
+            "linesRemoved": 0,
+            "projectName": "CILApp",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "java"
+          }
+        ],
+        "c:\\CilAPPP\\CILApp\\src\\cil\\modulos\\asesoria\\BatchServer\\PresentacionMonitorios.java": [
+          {
+            "timestamp": "2026-03-19T10:30:57.347Z",
+            "fileName": "c:\\CilAPPP\\CILApp\\src\\cil\\modulos\\asesoria\\BatchServer\\PresentacionMonitorios.java",
+            "fileType": ".java",
+            "linesAdded": 3463,
+            "linesRemoved": 0,
+            "projectName": "CILApp",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "java"
+          }
+        ]
+      },
+      "languageStats": {
+        "java": 2
+      },
+      "changeFrequency": {
+        "11": 2
+      },
+      "topFiles": [
+        "c:\\CilAPPP\\CILApp\\src\\cil\\modulos\\notificaciones\\BatchServer\\GestorBajadaSMSCertificados.java",
+        "c:\\CilAPPP\\CILApp\\src\\cil\\modulos\\asesoria\\BatchServer\\PresentacionMonitorios.java"
+      ],
+      "averageChangeSize": 1962
     }
   },
   "totalActiveTime": 0,
