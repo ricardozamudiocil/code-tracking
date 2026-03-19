@@ -49,7 +49,7 @@
       "averageChangeSize": 82
     },
     "CILApp": {
-      "totalLinesAdded": 3929,
+      "totalLinesAdded": 4877,
       "totalLinesRemoved": 0,
       "totalActiveTime": 3,
       "files": {
@@ -113,6 +113,22 @@
             },
             "duration": 1,
             "language": "txt"
+          }
+        ],
+        "c:\\CilAPPP\\CILApp\\src\\cil\\modulos\\hojaCampana\\batch\\OfertasComerciales.java": [
+          {
+            "timestamp": "2026-03-19T14:40:45.959Z",
+            "fileName": "c:\\CilAPPP\\CILApp\\src\\cil\\modulos\\hojaCampana\\batch\\OfertasComerciales.java",
+            "fileType": ".java",
+            "linesAdded": 948,
+            "linesRemoved": 0,
+            "projectName": "CILApp",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "java"
           }
         ]
       },
