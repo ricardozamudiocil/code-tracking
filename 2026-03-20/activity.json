@@ -2,9 +2,9 @@
   "date": "2026-03-20",
   "projects": {
     "Scripts": {
-      "totalLinesAdded": 88,
-      "totalLinesRemoved": 0,
-      "totalActiveTime": 0,
+      "totalLinesAdded": 170,
+      "totalLinesRemoved": 88,
+      "totalActiveTime": 6,
       "files": {
         "c:\\Workspace\\Scripts\\home\\cilcobol\\ftp\\FTP_ESENDEX_ASE.sh": [
           {
@@ -19,6 +19,34 @@
               "removed": []
             },
             "duration": 0,
+            "language": "sh"
+          },
+          {
+            "timestamp": "2026-03-20T10:44:29.786Z",
+            "fileName": "c:\\Workspace\\Scripts\\home\\cilcobol\\ftp\\FTP_ESENDEX_ASE.sh",
+            "fileType": ".sh",
+            "linesAdded": 82,
+            "linesRemoved": 0,
+            "projectName": "Scripts",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 5,
+            "language": "sh"
+          },
+          {
+            "timestamp": "2026-03-20T10:44:41.332Z",
+            "fileName": "c:\\Workspace\\Scripts\\home\\cilcobol\\ftp\\FTP_ESENDEX_ASE.sh",
+            "fileType": ".sh",
+            "linesAdded": 0,
+            "linesRemoved": 88,
+            "projectName": "Scripts",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
             "language": "sh"
           }
         ]
