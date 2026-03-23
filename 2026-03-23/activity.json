@@ -3,8 +3,8 @@
   "projects": {
     "CILApp": {
       "totalLinesAdded": 1007,
-      "totalLinesRemoved": 1,
-      "totalActiveTime": 4,
+      "totalLinesRemoved": 24,
+      "totalActiveTime": 5,
       "files": {
         "c:\\CilAPPP\\CILApp\\src\\cil\\modulos\\notificaciones\\BatchServer\\ConstantesNotif.java": [
           {
@@ -65,6 +65,20 @@
               "removed": []
             },
             "duration": 2,
+            "language": "java"
+          },
+          {
+            "timestamp": "2026-03-23T10:20:47.138Z",
+            "fileName": "c:\\CilAPPP\\CILApp\\src\\cil\\modulos\\hojaCampana\\batch\\OfertasComerciales.java",
+            "fileType": ".java",
+            "linesAdded": 0,
+            "linesRemoved": 23,
+            "projectName": "CILApp",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
             "language": "java"
           }
         ]
