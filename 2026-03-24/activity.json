@@ -52,7 +52,7 @@
       "averageChangeSize": 286
     },
     "CILApp": {
-      "totalLinesAdded": 319,
+      "totalLinesAdded": 1720,
       "totalLinesRemoved": 1475,
       "totalActiveTime": 14,
       "files": {
@@ -234,6 +234,22 @@
             },
             "duration": 2,
             "language": "csv"
+          }
+        ],
+        "c:\\Pruebas\\Asesoria\\METADATA CILOWNER TABLAS-VIEWS AJT%-AJV%.txt": [
+          {
+            "timestamp": "2026-03-24T11:51:22.036Z",
+            "fileName": "c:\\Pruebas\\Asesoria\\METADATA CILOWNER TABLAS-VIEWS AJT%-AJV%.txt",
+            "fileType": ".txt",
+            "linesAdded": 1401,
+            "linesRemoved": 0,
+            "projectName": "CILApp",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "txt"
           }
         ]
       },
