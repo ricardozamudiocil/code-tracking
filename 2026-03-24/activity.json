@@ -52,7 +52,7 @@
       "averageChangeSize": 286
     },
     "CILApp": {
-      "totalLinesAdded": 3921,
+      "totalLinesAdded": 5974,
       "totalLinesRemoved": 1475,
       "totalActiveTime": 14,
       "files": {
@@ -274,6 +274,22 @@
             "fileName": "c:\\CilAPPP\\CILApp\\src\\cil\\modulos\\asesoria\\BatchServer\\insertaAsesoria.java",
             "fileType": ".java",
             "linesAdded": 2158,
+            "linesRemoved": 0,
+            "projectName": "CILApp",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "java"
+          }
+        ],
+        "c:\\CilAPPP\\CILApp\\src\\cil\\modulos\\recobro\\batch\\FicherosAgenciasRecobro.java": [
+          {
+            "timestamp": "2026-03-24T14:53:49.166Z",
+            "fileName": "c:\\CilAPPP\\CILApp\\src\\cil\\modulos\\recobro\\batch\\FicherosAgenciasRecobro.java",
+            "fileType": ".java",
+            "linesAdded": 2053,
             "linesRemoved": 0,
             "projectName": "CILApp",
             "content": {
