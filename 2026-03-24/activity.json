@@ -52,9 +52,9 @@
       "averageChangeSize": 286
     },
     "CILApp": {
-      "totalLinesAdded": 152,
+      "totalLinesAdded": 309,
       "totalLinesRemoved": 1439,
-      "totalActiveTime": 4,
+      "totalActiveTime": 6,
       "files": {
         "c:\\CilAPPP\\CILApp\\src\\cil\\modulos\\asesoria\\BatchServer\\ProcMonitorioToMASC.java": [
           {
@@ -134,6 +134,22 @@
             },
             "duration": 4,
             "language": "java"
+          }
+        ],
+        "c:\\Pruebas\\Asesoria\\tabla_metadata_copia-24_03_2026.csv": [
+          {
+            "timestamp": "2026-03-24T10:19:49.421Z",
+            "fileName": "c:\\Pruebas\\Asesoria\\tabla_metadata_copia-24_03_2026.csv",
+            "fileType": ".csv",
+            "linesAdded": 157,
+            "linesRemoved": 0,
+            "projectName": "CILApp",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "csv"
           }
         ]
       },
