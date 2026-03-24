@@ -52,7 +52,7 @@
       "averageChangeSize": 286
     },
     "CILApp": {
-      "totalLinesAdded": 1720,
+      "totalLinesAdded": 1763,
       "totalLinesRemoved": 1475,
       "totalActiveTime": 14,
       "files": {
@@ -250,6 +250,22 @@
             },
             "duration": 0,
             "language": "txt"
+          }
+        ],
+        "c:\\Pruebas\\Asesoria\\old\\mapeo_access_to_db2_ori.csv": [
+          {
+            "timestamp": "2026-03-24T12:04:32.681Z",
+            "fileName": "c:\\Pruebas\\Asesoria\\old\\mapeo_access_to_db2_ori.csv",
+            "fileType": ".csv",
+            "linesAdded": 43,
+            "linesRemoved": 0,
+            "projectName": "CILApp",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "csv"
           }
         ]
       },
