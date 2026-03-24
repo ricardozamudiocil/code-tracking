@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 6149                                          |
-| **Lines Removed** (➖) | 1475                                        |
-| **Net Change** (↕)    | 4674                |
-| **Active Time** (⌚)   | 14 minutes |
+| **Lines Added** (➕)   | 6160                                          |
+| **Lines Removed** (➖) | 1477                                        |
+| **Net Change** (↕)    | 4683                |
+| **Active Time** (⌚)   | 24 minutes |
 
 
 ## Modified Files
@@ -21,7 +21,8 @@
 - **mapeo_access_to_db2_ori.csv** (+43, -0)
 - **insertaAsesoria.java** (+2158, -0)
 - **FicherosAgenciasRecobro.java** (+2053, -0)
-- **AsignacionPartidosJudiciales.java** (+175, -0)
+- **AsignacionPartidosJudiciales.java** (+186, -0)
+- **launch.json** (+0, -2)
 
 ## Visualizations
 
@@ -30,9 +31,10 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".java" : 6023
+".java" : 6034
 ".csv" : 200
 ".txt" : 1401
+".json" : 2
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -45,8 +47,8 @@ title Coding activity by hour (count of changes)
 "13h" : 1
 "14h" : 1
 "15h" : 1
-"16h" : 1
+"16h" : 3
 ```
 
 
-> **Last Updated:** 3/24/2026, 4:39:45 PM
+> **Last Updated:** 3/24/2026, 4:44:45 PM
