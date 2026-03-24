@@ -52,7 +52,7 @@
       "averageChangeSize": 286
     },
     "CILApp": {
-      "totalLinesAdded": 5974,
+      "totalLinesAdded": 6149,
       "totalLinesRemoved": 1475,
       "totalActiveTime": 14,
       "files": {
@@ -290,6 +290,22 @@
             "fileName": "c:\\CilAPPP\\CILApp\\src\\cil\\modulos\\recobro\\batch\\FicherosAgenciasRecobro.java",
             "fileType": ".java",
             "linesAdded": 2053,
+            "linesRemoved": 0,
+            "projectName": "CILApp",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "java"
+          }
+        ],
+        "c:\\CilAPPP\\CILApp\\src\\cil\\modulos\\asesoria\\BatchServer\\AsignacionPartidosJudiciales.java": [
+          {
+            "timestamp": "2026-03-24T15:35:28.419Z",
+            "fileName": "c:\\CilAPPP\\CILApp\\src\\cil\\modulos\\asesoria\\BatchServer\\AsignacionPartidosJudiciales.java",
+            "fileType": ".java",
+            "linesAdded": 175,
             "linesRemoved": 0,
             "projectName": "CILApp",
             "content": {
