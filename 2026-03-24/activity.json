@@ -52,7 +52,7 @@
       "averageChangeSize": 286
     },
     "CILApp": {
-      "totalLinesAdded": 1763,
+      "totalLinesAdded": 3921,
       "totalLinesRemoved": 1475,
       "totalActiveTime": 14,
       "files": {
@@ -266,6 +266,22 @@
             },
             "duration": 0,
             "language": "csv"
+          }
+        ],
+        "c:\\CilAPPP\\CILApp\\src\\cil\\modulos\\asesoria\\BatchServer\\insertaAsesoria.java": [
+          {
+            "timestamp": "2026-03-24T13:40:22.190Z",
+            "fileName": "c:\\CilAPPP\\CILApp\\src\\cil\\modulos\\asesoria\\BatchServer\\insertaAsesoria.java",
+            "fileType": ".java",
+            "linesAdded": 2158,
+            "linesRemoved": 0,
+            "projectName": "CILApp",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "java"
           }
         ]
       },
