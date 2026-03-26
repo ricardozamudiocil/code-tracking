@@ -3,7 +3,7 @@
   "projects": {
     "CILApp": {
       "totalLinesAdded": 3561,
-      "totalLinesRemoved": 3,
+      "totalLinesRemoved": 5,
       "totalActiveTime": 17,
       "files": {
         "c:\\CilAPPP\\CILApp\\src\\cil\\modulos\\asesoria\\BatchServer\\AccessMetadataToCSV.java": [
@@ -103,6 +103,20 @@
             "fileType": ".java",
             "linesAdded": 2,
             "linesRemoved": 0,
+            "projectName": "CILApp",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "java"
+          },
+          {
+            "timestamp": "2026-03-26T15:10:47.479Z",
+            "fileName": "c:\\CilAPPP\\CILApp\\src\\cil\\modulos\\asesoria\\paneles\\PanelMascPtesImpresion.java",
+            "fileType": ".java",
+            "linesAdded": 0,
+            "linesRemoved": 2,
             "projectName": "CILApp",
             "content": {
               "added": [],
