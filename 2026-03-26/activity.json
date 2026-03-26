@@ -2,9 +2,9 @@
   "date": "2026-03-26",
   "projects": {
     "CILApp": {
-      "totalLinesAdded": 2951,
-      "totalLinesRemoved": 1,
-      "totalActiveTime": 5,
+      "totalLinesAdded": 3333,
+      "totalLinesRemoved": 2,
+      "totalActiveTime": 13,
       "files": {
         "c:\\CilAPPP\\CILApp\\src\\cil\\modulos\\asesoria\\BatchServer\\AccessMetadataToCSV.java": [
           {
@@ -67,6 +67,66 @@
               "removed": []
             },
             "duration": 5,
+            "language": "java"
+          },
+          {
+            "timestamp": "2026-03-26T11:06:38.406Z",
+            "fileName": "c:\\CilAPPP\\CILApp\\src\\cil\\modulos\\asesoria\\paneles\\PanelMascPtesImpresion.java",
+            "fileType": ".java",
+            "linesAdded": 160,
+            "linesRemoved": 0,
+            "projectName": "CILApp",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "java"
+          }
+        ],
+        "c:\\CilAPPP\\CILApp\\src\\cil\\modulos\\asesoria\\datos\\ConsMascPtesImpresion.java": [
+          {
+            "timestamp": "2026-03-26T11:06:09.117Z",
+            "fileName": "c:\\CilAPPP\\CILApp\\src\\cil\\modulos\\asesoria\\datos\\ConsMascPtesImpresion.java",
+            "fileType": ".java",
+            "linesAdded": 105,
+            "linesRemoved": 0,
+            "projectName": "CILApp",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 5,
+            "language": "java"
+          },
+          {
+            "timestamp": "2026-03-26T11:06:37.596Z",
+            "fileName": "c:\\CilAPPP\\CILApp\\src\\cil\\modulos\\asesoria\\datos\\ConsMascPtesImpresion.java",
+            "fileType": ".java",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "CILApp",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "java"
+          }
+        ],
+        "c:\\CilAPPP\\CILApp\\src\\cil\\modulos\\asesoria\\datos\\ConsMascPtesEmpresa.java": [
+          {
+            "timestamp": "2026-03-26T11:06:30.006Z",
+            "fileName": "c:\\CilAPPP\\CILApp\\src\\cil\\modulos\\asesoria\\datos\\ConsMascPtesEmpresa.java",
+            "fileType": ".java",
+            "linesAdded": 117,
+            "linesRemoved": 0,
+            "projectName": "CILApp",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
             "language": "java"
           }
         ]
