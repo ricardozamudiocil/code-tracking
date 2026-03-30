@@ -1,0 +1,47 @@
+{
+  "date": "2026-03-30",
+  "projects": {
+    "Scripts": {
+      "totalLinesAdded": 7,
+      "totalLinesRemoved": 0,
+      "totalActiveTime": 0,
+      "files": {
+        "c:\\Workspace\\Scripts\\home\\ciljava2\\oper1\\act_archivo_documental.sh": [
+          {
+            "timestamp": "2026-03-30T08:02:01.199Z",
+            "fileName": "c:\\Workspace\\Scripts\\home\\ciljava2\\oper1\\act_archivo_documental.sh",
+            "fileType": ".sh",
+            "linesAdded": 7,
+            "linesRemoved": 0,
+            "projectName": "Scripts",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "sh"
+          }
+        ]
+      },
+      "languageStats": {
+        "sh": 0
+      },
+      "changeFrequency": {
+        "10": 0
+      },
+      "topFiles": [
+        "c:\\Workspace\\Scripts\\home\\ciljava2\\oper1\\act_archivo_documental.sh"
+      ],
+      "averageChangeSize": 7
+    }
+  },
+  "totalActiveTime": 0,
+  "totalProjects": 1,
+  "totalFiles": 1,
+  "mostActiveHours": [
+    10
+  ],
+  "mostUsedLanguages": [
+    "sh"
+  ]
+}
