@@ -440,6 +440,39 @@
         "c:\\Workspace\\CILOfertasComerciales\\src\\main\\java\\cil\\offers\\api\\OffersAPIApplication.java"
       ],
       "averageChangeSize": 28
+    },
+    "CILReports (Workspace)": {
+      "totalLinesAdded": 619,
+      "totalLinesRemoved": 0,
+      "totalActiveTime": 0,
+      "files": {
+        "c:\\Workspace\\lib-CILWeb\\src\\main\\java\\cil\\lib\\web\\mail\\Mail.java": [
+          {
+            "timestamp": "2026-03-30T14:44:44.251Z",
+            "fileName": "c:\\Workspace\\lib-CILWeb\\src\\main\\java\\cil\\lib\\web\\mail\\Mail.java",
+            "fileType": ".java",
+            "linesAdded": 619,
+            "linesRemoved": 0,
+            "projectName": "CILReports (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "java"
+          }
+        ]
+      },
+      "languageStats": {
+        "java": 0
+      },
+      "changeFrequency": {
+        "16": 0
+      },
+      "topFiles": [
+        "c:\\Workspace\\lib-CILWeb\\src\\main\\java\\cil\\lib\\web\\mail\\Mail.java"
+      ],
+      "averageChangeSize": 619
     }
   },
   "totalActiveTime": 0,
