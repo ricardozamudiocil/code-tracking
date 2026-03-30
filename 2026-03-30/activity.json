@@ -2,9 +2,9 @@
   "date": "2026-03-30",
   "projects": {
     "Scripts": {
-      "totalLinesAdded": 340,
-      "totalLinesRemoved": 34,
-      "totalActiveTime": 2,
+      "totalLinesAdded": 341,
+      "totalLinesRemoved": 38,
+      "totalActiveTime": 8,
       "files": {
         "c:\\Workspace\\Scripts\\home\\ciljava2\\oper1\\act_archivo_documental.sh": [
           {
@@ -123,6 +123,34 @@
               "removed": []
             },
             "duration": 0,
+            "language": "unknown"
+          },
+          {
+            "timestamp": "2026-03-30T09:25:29.616Z",
+            "fileName": "c:\\Workspace\\Scripts\\home\\cilcobol\\ftp\\FTP_CP_ESMAD_TO_AIX_sh",
+            "fileType": "unknown",
+            "linesAdded": 0,
+            "linesRemoved": 4,
+            "projectName": "Scripts",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 5,
+            "language": "unknown"
+          },
+          {
+            "timestamp": "2026-03-30T09:25:38.172Z",
+            "fileName": "c:\\Workspace\\Scripts\\home\\cilcobol\\ftp\\FTP_CP_ESMAD_TO_AIX_sh",
+            "fileType": "unknown",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "Scripts",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
             "language": "unknown"
           }
         ]
