@@ -2,7 +2,7 @@
   "date": "2026-03-30",
   "projects": {
     "Scripts": {
-      "totalLinesAdded": 7,
+      "totalLinesAdded": 89,
       "totalLinesRemoved": 0,
       "totalActiveTime": 0,
       "files": {
@@ -12,6 +12,22 @@
             "fileName": "c:\\Workspace\\Scripts\\home\\ciljava2\\oper1\\act_archivo_documental.sh",
             "fileType": ".sh",
             "linesAdded": 7,
+            "linesRemoved": 0,
+            "projectName": "Scripts",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "sh"
+          }
+        ],
+        "c:\\Workspace\\Scripts\\home\\cilcobol\\ftp\\FTP_ESENDEX_ASE copy.sh": [
+          {
+            "timestamp": "2026-03-30T08:28:35.014Z",
+            "fileName": "c:\\Workspace\\Scripts\\home\\cilcobol\\ftp\\FTP_ESENDEX_ASE copy.sh",
+            "fileType": ".sh",
+            "linesAdded": 82,
             "linesRemoved": 0,
             "projectName": "Scripts",
             "content": {
