@@ -182,7 +182,7 @@
     },
     "CILApp": {
       "totalLinesAdded": 1274,
-      "totalLinesRemoved": 361,
+      "totalLinesRemoved": 362,
       "totalActiveTime": 16,
       "files": {
         "c:\\CilAPPP\\CILApp\\src\\cil\\modulos\\asesoria\\BatchServer\\DatosAdocAsesoria.java": [
@@ -376,6 +376,20 @@
               "removed": []
             },
             "duration": 1,
+            "language": "java"
+          },
+          {
+            "timestamp": "2026-03-30T14:36:05.526Z",
+            "fileName": "c:\\CilAPPP\\CILApp\\src\\cil\\modulos\\hojaCampana\\batch\\OfertasComerciales.java",
+            "fileType": ".java",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "CILApp",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
             "language": "java"
           }
         ]
