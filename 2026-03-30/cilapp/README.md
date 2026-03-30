@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 284                                          |
-| **Lines Removed** (➖) | 171                                        |
-| **Net Change** (↕)    | 113                |
-| **Active Time** (⌚)   | 6 minutes |
+| **Lines Added** (➕)   | 1232                                          |
+| **Lines Removed** (➖) | 320                                        |
+| **Net Change** (↕)    | 912                |
+| **Active Time** (⌚)   | 12 minutes |
 
 
 ## Modified Files
@@ -15,7 +15,8 @@
 - **ExtractorRutasMASC.java** (+111, -2)
 - **launch.json** (+23, -0)
 - **ProcMonitorioToMASC.java** (+0, -20)
-- **PresentacionMonitorios.java** (+149, -149)
+- **PresentacionMonitorios.java** (+149, -298)
+- **OfertasComerciales.java** (+948, -0)
 
 ## Visualizations
 
@@ -24,7 +25,7 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".java" : 432
+".java" : 1529
 ".json" : 23
 ```
 
@@ -34,8 +35,9 @@ title Lines changed by file type
 pie showData
 title Coding activity by hour (count of changes)
 "11h" : 5
-"15h" : 3
+"15h" : 4
+"16h" : 1
 ```
 
 
-> **Last Updated:** 3/30/2026, 3:59:36 PM
+> **Last Updated:** 3/30/2026, 4:04:36 PM
