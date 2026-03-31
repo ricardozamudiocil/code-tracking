@@ -4,9 +4,9 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 6259                                          |
+| **Lines Added** (➕)   | 6445                                          |
 | **Lines Removed** (➖) | 148                                        |
-| **Net Change** (↕)    | 6111                |
+| **Net Change** (↕)    | 6297                |
 | **Active Time** (⌚)   | 18 minutes |
 
 
@@ -16,6 +16,7 @@
 - **pom.xml** (+694, -0)
 - **PanelMonitoriosPtesImpresion.java** (+259, -0)
 - **insertaAsesoria.java** (+2158, -0)
+- **AsignacionPartidosJudiciales.java** (+186, -0)
 
 ## Visualizations
 
@@ -24,7 +25,7 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".java" : 4813
+".java" : 4999
 ".json" : 900
 ".xml" : 694
 ```
@@ -39,7 +40,8 @@ title Coding activity by hour (count of changes)
 "12h" : 1
 "15h" : 2
 "16h" : 4
+"17h" : 1
 ```
 
 
-> **Last Updated:** 3/31/2026, 4:44:18 PM
+> **Last Updated:** 3/31/2026, 5:09:18 PM
