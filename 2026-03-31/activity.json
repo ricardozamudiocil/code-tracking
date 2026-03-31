@@ -280,6 +280,39 @@
         "c:\\Workspace\\CILOfertasComerciales\\src\\main\\java\\cil\\offers\\api\\service\\impl\\FileProductServiceImpl.java"
       ],
       "averageChangeSize": 66
+    },
+    "lib-CILMKTArt": {
+      "totalLinesAdded": 201,
+      "totalLinesRemoved": 0,
+      "totalActiveTime": 0,
+      "files": {
+        "c:\\Workspace\\lib-CILMKTArt\\src\\main\\java\\cil\\lib\\mkt\\art\\domain\\OfferEntity.java": [
+          {
+            "timestamp": "2026-03-31T13:46:17.828Z",
+            "fileName": "c:\\Workspace\\lib-CILMKTArt\\src\\main\\java\\cil\\lib\\mkt\\art\\domain\\OfferEntity.java",
+            "fileType": ".java",
+            "linesAdded": 201,
+            "linesRemoved": 0,
+            "projectName": "lib-CILMKTArt",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "java"
+          }
+        ]
+      },
+      "languageStats": {
+        "java": 0
+      },
+      "changeFrequency": {
+        "15": 0
+      },
+      "topFiles": [
+        "c:\\Workspace\\lib-CILMKTArt\\src\\main\\java\\cil\\lib\\mkt\\art\\domain\\OfferEntity.java"
+      ],
+      "averageChangeSize": 201
     }
   },
   "totalActiveTime": 0,
