@@ -191,7 +191,7 @@
       "averageChangeSize": 19
     },
     "CILOfertasComerciales": {
-      "totalLinesAdded": 129,
+      "totalLinesAdded": 249,
       "totalLinesRemoved": 2,
       "totalActiveTime": 3,
       "files": {
@@ -267,6 +267,22 @@
             },
             "duration": 0,
             "language": "java"
+          }
+        ],
+        "c:\\Workspace\\CILOfertasComerciales\\pom.xml": [
+          {
+            "timestamp": "2026-03-31T13:50:43.063Z",
+            "fileName": "c:\\Workspace\\CILOfertasComerciales\\pom.xml",
+            "fileType": ".xml",
+            "linesAdded": 120,
+            "linesRemoved": 0,
+            "projectName": "CILOfertasComerciales",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "xml"
           }
         ]
       },
