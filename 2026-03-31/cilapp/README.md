@@ -4,15 +4,18 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 3148                                          |
-| **Lines Removed** (➖) | 48                                        |
-| **Net Change** (↕)    | 3100                |
-| **Active Time** (⌚)   | 12 minutes |
+| **Lines Added** (➕)   | 6259                                          |
+| **Lines Removed** (➖) | 148                                        |
+| **Net Change** (↕)    | 6111                |
+| **Active Time** (⌚)   | 18 minutes |
 
 
 ## Modified Files
-- **OfertasComerciales.java** (+2248, -48)
+- **OfertasComerciales.java** (+2248, -148)
 - **launch.json** (+900, -0)
+- **pom.xml** (+694, -0)
+- **PanelMonitoriosPtesImpresion.java** (+259, -0)
+- **insertaAsesoria.java** (+2158, -0)
 
 ## Visualizations
 
@@ -21,8 +24,9 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".java" : 2296
+".java" : 4813
 ".json" : 900
+".xml" : 694
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -34,7 +38,8 @@ title Coding activity by hour (count of changes)
 "11h" : 7
 "12h" : 1
 "15h" : 2
+"16h" : 4
 ```
 
 
-> **Last Updated:** 3/31/2026, 4:04:18 PM
+> **Last Updated:** 3/31/2026, 4:44:18 PM

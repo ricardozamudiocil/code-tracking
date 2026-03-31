@@ -2,9 +2,9 @@
   "date": "2026-03-31",
   "projects": {
     "CILApp": {
-      "totalLinesAdded": 3148,
-      "totalLinesRemoved": 48,
-      "totalActiveTime": 12,
+      "totalLinesAdded": 6259,
+      "totalLinesRemoved": 148,
+      "totalActiveTime": 18,
       "files": {
         "c:\\CilAPPP\\CILApp\\src\\cil\\modulos\\hojaCampana\\batch\\OfertasComerciales.java": [
           {
@@ -188,6 +188,20 @@
             },
             "duration": 1,
             "language": "java"
+          },
+          {
+            "timestamp": "2026-03-31T14:40:27.516Z",
+            "fileName": "c:\\CilAPPP\\CILApp\\src\\cil\\modulos\\hojaCampana\\batch\\OfertasComerciales.java",
+            "fileType": ".java",
+            "linesAdded": 0,
+            "linesRemoved": 100,
+            "projectName": "CILApp",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "java"
           }
         ],
         "c:\\CilAPPP\\CILApp\\.vscode\\launch.json": [
@@ -204,6 +218,54 @@
             },
             "duration": 0,
             "language": "json"
+          }
+        ],
+        "c:\\CilAPPP\\CILApp\\pom.xml": [
+          {
+            "timestamp": "2026-03-31T14:39:54.182Z",
+            "fileName": "c:\\CilAPPP\\CILApp\\pom.xml",
+            "fileType": ".xml",
+            "linesAdded": 694,
+            "linesRemoved": 0,
+            "projectName": "CILApp",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "xml"
+          }
+        ],
+        "c:\\CilAPPP\\CILApp\\src\\cil\\modulos\\asesoria\\paneles\\PanelMonitoriosPtesImpresion.java": [
+          {
+            "timestamp": "2026-03-31T14:42:49.591Z",
+            "fileName": "c:\\CilAPPP\\CILApp\\src\\cil\\modulos\\asesoria\\paneles\\PanelMonitoriosPtesImpresion.java",
+            "fileType": ".java",
+            "linesAdded": 259,
+            "linesRemoved": 0,
+            "projectName": "CILApp",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
+            "language": "java"
+          }
+        ],
+        "c:\\CilAPPP\\CILApp\\src\\cil\\modulos\\asesoria\\BatchServer\\insertaAsesoria.java": [
+          {
+            "timestamp": "2026-03-31T14:44:03.750Z",
+            "fileName": "c:\\CilAPPP\\CILApp\\src\\cil\\modulos\\asesoria\\BatchServer\\insertaAsesoria.java",
+            "fileType": ".java",
+            "linesAdded": 2158,
+            "linesRemoved": 0,
+            "projectName": "CILApp",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "java"
           }
         ]
       },
