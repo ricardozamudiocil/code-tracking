@@ -191,7 +191,7 @@
       "averageChangeSize": 19
     },
     "CILOfertasComerciales": {
-      "totalLinesAdded": 66,
+      "totalLinesAdded": 97,
       "totalLinesRemoved": 0,
       "totalActiveTime": 0,
       "files": {
@@ -201,6 +201,22 @@
             "fileName": "c:\\Workspace\\CILOfertasComerciales\\src\\main\\java\\cil\\offers\\api\\service\\impl\\FileProductServiceImpl.java",
             "fileType": ".java",
             "linesAdded": 66,
+            "linesRemoved": 0,
+            "projectName": "CILOfertasComerciales",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "java"
+          }
+        ],
+        "c:\\Workspace\\CILOfertasComerciales\\src\\main\\java\\cil\\offers\\api\\dao\\repository\\FileProductDao.java": [
+          {
+            "timestamp": "2026-03-31T10:42:05.480Z",
+            "fileName": "c:\\Workspace\\CILOfertasComerciales\\src\\main\\java\\cil\\offers\\api\\dao\\repository\\FileProductDao.java",
+            "fileType": ".java",
+            "linesAdded": 31,
             "linesRemoved": 0,
             "projectName": "CILOfertasComerciales",
             "content": {
