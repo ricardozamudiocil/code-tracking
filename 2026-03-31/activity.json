@@ -2,7 +2,7 @@
   "date": "2026-03-31",
   "projects": {
     "CILApp": {
-      "totalLinesAdded": 58,
+      "totalLinesAdded": 1063,
       "totalLinesRemoved": 1,
       "totalActiveTime": 2,
       "files": {
@@ -61,6 +61,20 @@
               "removed": []
             },
             "duration": 1,
+            "language": "java"
+          },
+          {
+            "timestamp": "2026-03-31T09:02:55.507Z",
+            "fileName": "c:\\CilAPPP\\CILApp\\src\\cil\\modulos\\hojaCampana\\batch\\OfertasComerciales.java",
+            "fileType": ".java",
+            "linesAdded": 1005,
+            "linesRemoved": 0,
+            "projectName": "CILApp",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
             "language": "java"
           }
         ]
