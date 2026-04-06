@@ -5,13 +5,13 @@
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
 | **Lines Added** (➕)   | 0                                          |
-| **Lines Removed** (➖) | 10                                        |
-| **Net Change** (↕)    | -10                |
+| **Lines Removed** (➖) | 16                                        |
+| **Net Change** (↕)    | -16                |
 | **Active Time** (⌚)   | 0 minute |
 
 
 ## Modified Files
-- **insertaAsesoria.java** (+0, -10)
+- **insertaAsesoria.java** (+0, -16)
 
 ## Visualizations
 
@@ -20,7 +20,7 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".java" : 10
+".java" : 16
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -29,7 +29,8 @@ title Lines changed by file type
 pie showData
 title Coding activity by hour (count of changes)
 "08h" : 1
+"13h" : 1
 ```
 
 
-> **Last Updated:** 4/6/2026, 8:47:16 AM
+> **Last Updated:** 4/6/2026, 1:42:17 PM

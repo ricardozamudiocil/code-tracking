@@ -3,7 +3,7 @@
   "projects": {
     "CILApp": {
       "totalLinesAdded": 0,
-      "totalLinesRemoved": 10,
+      "totalLinesRemoved": 16,
       "totalActiveTime": 0,
       "files": {
         "c:\\CilAPPP\\CILApp\\src\\cil\\modulos\\asesoria\\BatchServer\\insertaAsesoria.java": [
@@ -13,6 +13,20 @@
             "fileType": ".java",
             "linesAdded": 0,
             "linesRemoved": 10,
+            "projectName": "CILApp",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "java"
+          },
+          {
+            "timestamp": "2026-04-06T11:39:52.525Z",
+            "fileName": "c:\\CilAPPP\\CILApp\\src\\cil\\modulos\\asesoria\\BatchServer\\insertaAsesoria.java",
+            "fileType": ".java",
+            "linesAdded": 0,
+            "linesRemoved": 6,
             "projectName": "CILApp",
             "content": {
               "added": [],
