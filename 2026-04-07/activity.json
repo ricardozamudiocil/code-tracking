@@ -3,8 +3,8 @@
   "projects": {
     "CILApp": {
       "totalLinesAdded": 17336,
-      "totalLinesRemoved": 35,
-      "totalActiveTime": 19,
+      "totalLinesRemoved": 48,
+      "totalActiveTime": 24,
       "files": {
         "c:\\CilAPPP\\CILApp\\src\\cil\\modulos\\asesoria\\BatchServer\\ProcMonitorioToMASC.java": [
           {
@@ -159,6 +159,20 @@
               "removed": []
             },
             "duration": 0,
+            "language": "java"
+          },
+          {
+            "timestamp": "2026-04-07T10:53:40.772Z",
+            "fileName": "c:\\CilAPPP\\CILApp\\src\\cil\\modulos\\asesoria\\BatchServer\\ProcMonitorioToMASC.java",
+            "fileType": ".java",
+            "linesAdded": 0,
+            "linesRemoved": 13,
+            "projectName": "CILApp",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 5,
             "language": "java"
           }
         ],
