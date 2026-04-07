@@ -4,18 +4,20 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 17399                                          |
-| **Lines Removed** (➖) | 51                                        |
-| **Net Change** (↕)    | 17348                |
-| **Active Time** (⌚)   | 32 minutes |
+| **Lines Added** (➕)   | 17579                                          |
+| **Lines Removed** (➖) | 287                                        |
+| **Net Change** (↕)    | 17292                |
+| **Active Time** (⌚)   | 43 minutes |
 
 
 ## Modified Files
-- **ProcMonitorioToMASC.java** (+110, -50)
-- **AsignacionPartidosJudiciales.java** (+0, -1)
+- **ProcMonitorioToMASC.java** (+175, -120)
+- **AsignacionPartidosJudiciales.java** (+1, -1)
 - **MascSmsService.java** (+949, -0)
 - **cil-web-customer-com.log** (+16323, -0)
-- **PresentacionMonitorios.java** (+17, -0)
+- **PresentacionMonitorios.java** (+17, -166)
+- **insertaAsesoria.java** (+15, -0)
+- **OfertasComerciales.java** (+99, -0)
 
 ## Visualizations
 
@@ -24,7 +26,7 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".java" : 1127
+".java" : 1543
 ".log" : 16323
 ```
 
@@ -40,7 +42,8 @@ title Coding activity by hour (count of changes)
 "13h" : 1
 "14h" : 3
 "15h" : 3
+"16h" : 8
 ```
 
 
-> **Last Updated:** 4/7/2026, 3:05:26 PM
+> **Last Updated:** 4/7/2026, 4:10:26 PM
