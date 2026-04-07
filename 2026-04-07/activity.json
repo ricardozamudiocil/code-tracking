@@ -630,9 +630,9 @@
       "averageChangeSize": 4.5
     },
     "ObjetosBD": {
-      "totalLinesAdded": 95,
-      "totalLinesRemoved": 0,
-      "totalActiveTime": 3,
+      "totalLinesAdded": 205,
+      "totalLinesRemoved": 19,
+      "totalActiveTime": 7,
       "files": {
         "c:\\Workspace\\ObjetosBD\\vistas\\AJV_MONIT_EMP_IMP.VIEW": [
           {
@@ -675,6 +675,64 @@
               "removed": []
             },
             "duration": 2,
+            "language": "VIEW"
+          },
+          {
+            "timestamp": "2026-04-07T14:35:12.826Z",
+            "fileName": "c:\\Workspace\\ObjetosBD\\vistas\\AJV_MONIT_EMP_IMP.VIEW",
+            "fileType": ".VIEW",
+            "linesAdded": 0,
+            "linesRemoved": 19,
+            "projectName": "ObjetosBD",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "VIEW"
+          },
+          {
+            "timestamp": "2026-04-07T14:35:55.823Z",
+            "fileName": "c:\\Workspace\\ObjetosBD\\vistas\\AJV_MONIT_EMP_IMP.VIEW",
+            "fileType": ".VIEW",
+            "linesAdded": 15,
+            "linesRemoved": 0,
+            "projectName": "ObjetosBD",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "VIEW"
+          }
+        ],
+        "c:\\Workspace\\ObjetosBD\\vistas\\AJV_MONITORIOS_IMP.VIEW": [
+          {
+            "timestamp": "2026-04-07T14:35:27.735Z",
+            "fileName": "c:\\Workspace\\ObjetosBD\\vistas\\AJV_MONITORIOS_IMP.VIEW",
+            "fileType": ".VIEW",
+            "linesAdded": 82,
+            "linesRemoved": 0,
+            "projectName": "ObjetosBD",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "VIEW"
+          },
+          {
+            "timestamp": "2026-04-07T14:35:32.129Z",
+            "fileName": "c:\\Workspace\\ObjetosBD\\vistas\\AJV_MONITORIOS_IMP.VIEW",
+            "fileType": ".VIEW",
+            "linesAdded": 13,
+            "linesRemoved": 0,
+            "projectName": "ObjetosBD",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
             "language": "VIEW"
           }
         ]
