@@ -2,9 +2,9 @@
   "date": "2026-04-08",
   "projects": {
     "CILApp": {
-      "totalLinesAdded": 166,
-      "totalLinesRemoved": 170,
-      "totalActiveTime": 0,
+      "totalLinesAdded": 275,
+      "totalLinesRemoved": 171,
+      "totalActiveTime": 2,
       "files": {
         "c:\\CilAPPP\\CILApp\\src\\cil\\modulos\\asesoria\\BatchServer\\ProcMonitorioToMASC.java": [
           {
@@ -83,6 +83,36 @@
               "removed": []
             },
             "duration": 0,
+            "language": "java"
+          }
+        ],
+        "c:\\CilAPPP\\CILApp\\src\\cil\\modulos\\asesoria\\BatchServer\\ExtractorRutasMASC.java": [
+          {
+            "timestamp": "2026-04-08T15:00:13.451Z",
+            "fileName": "c:\\CilAPPP\\CILApp\\src\\cil\\modulos\\asesoria\\BatchServer\\ExtractorRutasMASC.java",
+            "fileType": ".java",
+            "linesAdded": 109,
+            "linesRemoved": 0,
+            "projectName": "CILApp",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "java"
+          },
+          {
+            "timestamp": "2026-04-08T15:01:24.637Z",
+            "fileName": "c:\\CilAPPP\\CILApp\\src\\cil\\modulos\\asesoria\\BatchServer\\ExtractorRutasMASC.java",
+            "fileType": ".java",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "CILApp",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
             "language": "java"
           }
         ]
