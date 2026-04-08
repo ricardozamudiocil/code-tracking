@@ -101,6 +101,39 @@
         "c:\\CilAPPP\\CILApp\\src\\cil\\modulos\\asesoria\\BatchServer\\PresentacionMonitorios.java"
       ],
       "averageChangeSize": 67.2
+    },
+    "Scripts": {
+      "totalLinesAdded": 82,
+      "totalLinesRemoved": 0,
+      "totalActiveTime": 0,
+      "files": {
+        "c:\\Workspace\\Scripts\\home\\cilcobol\\ftp\\FTP_ESENDEX_ASE.sh": [
+          {
+            "timestamp": "2026-04-08T10:55:40.756Z",
+            "fileName": "c:\\Workspace\\Scripts\\home\\cilcobol\\ftp\\FTP_ESENDEX_ASE.sh",
+            "fileType": ".sh",
+            "linesAdded": 82,
+            "linesRemoved": 0,
+            "projectName": "Scripts",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "sh"
+          }
+        ]
+      },
+      "languageStats": {
+        "sh": 0
+      },
+      "changeFrequency": {
+        "12": 0
+      },
+      "topFiles": [
+        "c:\\Workspace\\Scripts\\home\\cilcobol\\ftp\\FTP_ESENDEX_ASE.sh"
+      ],
+      "averageChangeSize": 82
     }
   },
   "totalActiveTime": 4,
