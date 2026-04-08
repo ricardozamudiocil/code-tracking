@@ -103,9 +103,9 @@
       "averageChangeSize": 67.2
     },
     "Scripts": {
-      "totalLinesAdded": 82,
-      "totalLinesRemoved": 0,
-      "totalActiveTime": 0,
+      "totalLinesAdded": 170,
+      "totalLinesRemoved": 1,
+      "totalActiveTime": 1,
       "files": {
         "c:\\Workspace\\Scripts\\home\\cilcobol\\ftp\\FTP_ESENDEX_ASE.sh": [
           {
@@ -121,6 +121,36 @@
             },
             "duration": 0,
             "language": "sh"
+          }
+        ],
+        "c:\\Workspace\\Scripts\\home\\cilcobol\\ftp\\FTP_CP_ESMAD_TO_AIX_sh": [
+          {
+            "timestamp": "2026-04-08T11:18:30.194Z",
+            "fileName": "c:\\Workspace\\Scripts\\home\\cilcobol\\ftp\\FTP_CP_ESMAD_TO_AIX_sh",
+            "fileType": "unknown",
+            "linesAdded": 88,
+            "linesRemoved": 0,
+            "projectName": "Scripts",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "unknown"
+          },
+          {
+            "timestamp": "2026-04-08T11:18:30.996Z",
+            "fileName": "c:\\Workspace\\Scripts\\home\\cilcobol\\ftp\\FTP_CP_ESMAD_TO_AIX_sh",
+            "fileType": "unknown",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "Scripts",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "unknown"
           }
         ]
       },
