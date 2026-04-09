@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 274                                          |
+| **Lines Added** (➕)   | 4200                                          |
 | **Lines Removed** (➖) | 504                                        |
-| **Net Change** (↕)    | -230                |
-| **Active Time** (⌚)   | 10 minutes |
+| **Net Change** (↕)    | 3696                |
+| **Active Time** (⌚)   | 13 minutes |
 
 
 ## Modified Files
@@ -17,6 +17,7 @@
 - **ExtractorRutasMASC.java** (+1, -1)
 - **insertaAsesoria.java** (+15, -0)
 - **AsignacionPartidosJudiciales.java** (+1, -0)
+- **PanelMantExpedientes.java** (+3926, -0)
 
 ## Visualizations
 
@@ -25,7 +26,7 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".java" : 778
+".java" : 4704
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -35,8 +36,8 @@ pie showData
 title Coding activity by hour (count of changes)
 "11h" : 7
 "12h" : 10
-"14h" : 5
+"14h" : 7
 ```
 
 
-> **Last Updated:** 4/9/2026, 2:16:30 PM
+> **Last Updated:** 4/9/2026, 2:41:30 PM
