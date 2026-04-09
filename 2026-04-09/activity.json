@@ -2,9 +2,9 @@
   "date": "2026-04-09",
   "projects": {
     "CILApp": {
-      "totalLinesAdded": 0,
-      "totalLinesRemoved": 62,
-      "totalActiveTime": 1,
+      "totalLinesAdded": 72,
+      "totalLinesRemoved": 78,
+      "totalActiveTime": 3,
       "files": {
         "c:\\CilAPPP\\CILApp\\src\\cil\\modulos\\asesoria\\BatchServer\\PresentacionMonitorios.java": [
           {
@@ -41,6 +41,48 @@
             "fileType": ".java",
             "linesAdded": 0,
             "linesRemoved": 2,
+            "projectName": "CILApp",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "java"
+          },
+          {
+            "timestamp": "2026-04-09T09:47:56.459Z",
+            "fileName": "c:\\CilAPPP\\CILApp\\src\\cil\\modulos\\asesoria\\BatchServer\\PresentacionMonitorios.java",
+            "fileType": ".java",
+            "linesAdded": 0,
+            "linesRemoved": 8,
+            "projectName": "CILApp",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "java"
+          },
+          {
+            "timestamp": "2026-04-09T09:48:40.779Z",
+            "fileName": "c:\\CilAPPP\\CILApp\\src\\cil\\modulos\\asesoria\\BatchServer\\PresentacionMonitorios.java",
+            "fileType": ".java",
+            "linesAdded": 0,
+            "linesRemoved": 8,
+            "projectName": "CILApp",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "java"
+          },
+          {
+            "timestamp": "2026-04-09T09:49:15.441Z",
+            "fileName": "c:\\CilAPPP\\CILApp\\src\\cil\\modulos\\asesoria\\BatchServer\\PresentacionMonitorios.java",
+            "fileType": ".java",
+            "linesAdded": 72,
+            "linesRemoved": 0,
             "projectName": "CILApp",
             "content": {
               "added": [],
