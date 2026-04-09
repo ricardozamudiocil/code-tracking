@@ -2,8 +2,8 @@
   "date": "2026-04-09",
   "projects": {
     "CILApp": {
-      "totalLinesAdded": 4970,
-      "totalLinesRemoved": 505,
+      "totalLinesAdded": 5045,
+      "totalLinesRemoved": 534,
       "totalActiveTime": 20,
       "files": {
         "c:\\CilAPPP\\CILApp\\src\\cil\\modulos\\asesoria\\BatchServer\\PresentacionMonitorios.java": [
@@ -232,6 +232,20 @@
             },
             "duration": 0,
             "language": "java"
+          },
+          {
+            "timestamp": "2026-04-09T14:00:52.375Z",
+            "fileName": "c:\\CilAPPP\\CILApp\\src\\cil\\modulos\\asesoria\\BatchServer\\ProcMonitorioToMASC.java",
+            "fileType": ".java",
+            "linesAdded": 75,
+            "linesRemoved": 0,
+            "projectName": "CILApp",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "java"
           }
         ],
         "c:\\CilAPPP\\CILApp\\src\\cil\\modulos\\hojaCampana\\batch\\OfertasComerciales.java": [
@@ -438,6 +452,20 @@
             },
             "duration": 1,
             "language": "java"
+          },
+          {
+            "timestamp": "2026-04-09T14:00:52.452Z",
+            "fileName": "c:\\CilAPPP\\CILApp\\src\\cil\\modulos\\asesoria\\paneles\\PanelMantExpedientes.java",
+            "fileType": ".java",
+            "linesAdded": 0,
+            "linesRemoved": 10,
+            "projectName": "CILApp",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "java"
           }
         ],
         "c:\\CilAPPP\\CILApp\\src\\cil\\modulos\\asesoria\\datos\\ConsExpedientesAltas.java": [
@@ -467,6 +495,20 @@
               "removed": []
             },
             "duration": 1,
+            "language": "java"
+          },
+          {
+            "timestamp": "2026-04-09T14:00:52.528Z",
+            "fileName": "c:\\CilAPPP\\CILApp\\src\\cil\\modulos\\asesoria\\datos\\ConsExpedientesAltas.java",
+            "fileType": ".java",
+            "linesAdded": 0,
+            "linesRemoved": 19,
+            "projectName": "CILApp",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
             "language": "java"
           }
         ]
