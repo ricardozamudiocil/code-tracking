@@ -263,6 +263,39 @@
         "c:\\CilAPPP\\CILApp\\src\\cil\\modulos\\asesoria\\BatchServer\\PresentacionMonitorios.java"
       ],
       "averageChangeSize": 2
+    },
+    "Scripts": {
+      "totalLinesAdded": 87,
+      "totalLinesRemoved": 0,
+      "totalActiveTime": 0,
+      "files": {
+        "c:\\Workspace\\Scripts\\home\\cilcobol\\ftp\\FTP_ESMAD_TO_AIX_ASE.sh": [
+          {
+            "timestamp": "2026-04-09T11:01:22.124Z",
+            "fileName": "c:\\Workspace\\Scripts\\home\\cilcobol\\ftp\\FTP_ESMAD_TO_AIX_ASE.sh",
+            "fileType": ".sh",
+            "linesAdded": 87,
+            "linesRemoved": 0,
+            "projectName": "Scripts",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "sh"
+          }
+        ]
+      },
+      "languageStats": {
+        "sh": 0
+      },
+      "changeFrequency": {
+        "13": 0
+      },
+      "topFiles": [
+        "c:\\Workspace\\Scripts\\home\\cilcobol\\ftp\\FTP_ESMAD_TO_AIX_ASE.sh"
+      ],
+      "averageChangeSize": 87
     }
   },
   "totalActiveTime": 0,
