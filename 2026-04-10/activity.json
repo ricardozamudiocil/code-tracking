@@ -2,9 +2,9 @@
   "date": "2026-04-10",
   "projects": {
     "CILApp": {
-      "totalLinesAdded": 217,
-      "totalLinesRemoved": 116,
-      "totalActiveTime": 13,
+      "totalLinesAdded": 223,
+      "totalLinesRemoved": 121,
+      "totalActiveTime": 16,
       "files": {
         "c:\\CilAPPP\\CILApp\\src\\cil\\modulos\\asesoria\\BatchServer\\ProcMonitorioToMASC.java": [
           {
@@ -122,6 +122,48 @@
             },
             "duration": 1,
             "language": "java"
+          },
+          {
+            "timestamp": "2026-04-10T13:30:26.524Z",
+            "fileName": "c:\\CilAPPP\\CILApp\\src\\cil\\modulos\\asesoria\\BatchServer\\AsignacionPartidosJudiciales.java",
+            "fileType": ".java",
+            "linesAdded": 0,
+            "linesRemoved": 2,
+            "projectName": "CILApp",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "java"
+          },
+          {
+            "timestamp": "2026-04-10T13:31:15.800Z",
+            "fileName": "c:\\CilAPPP\\CILApp\\src\\cil\\modulos\\asesoria\\BatchServer\\AsignacionPartidosJudiciales.java",
+            "fileType": ".java",
+            "linesAdded": 6,
+            "linesRemoved": 0,
+            "projectName": "CILApp",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "java"
+          },
+          {
+            "timestamp": "2026-04-10T13:32:11.859Z",
+            "fileName": "c:\\CilAPPP\\CILApp\\src\\cil\\modulos\\asesoria\\BatchServer\\AsignacionPartidosJudiciales.java",
+            "fileType": ".java",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "CILApp",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "java"
           }
         ],
         "c:\\CilAPPP\\CILApp\\src\\cil\\modulos\\asesoria\\BatchServer\\PresentacionMonitorios.java": [
@@ -186,6 +228,22 @@
             },
             "duration": 1,
             "language": "java"
+          }
+        ],
+        "c:\\CilAPPP\\CILApp\\.vscode\\launch.json": [
+          {
+            "timestamp": "2026-04-10T13:32:33.003Z",
+            "fileName": "c:\\CilAPPP\\CILApp\\.vscode\\launch.json",
+            "fileType": ".json",
+            "linesAdded": 0,
+            "linesRemoved": 2,
+            "projectName": "CILApp",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "json"
           }
         ]
       },
