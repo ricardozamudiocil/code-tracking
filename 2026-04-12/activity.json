@@ -2,9 +2,9 @@
   "date": "2026-04-12",
   "projects": {
     "ObjetosBD": {
-      "totalLinesAdded": 0,
+      "totalLinesAdded": 220,
       "totalLinesRemoved": 28,
-      "totalActiveTime": 0,
+      "totalActiveTime": 5,
       "files": {
         "c:\\Workspace\\ObjetosBD\\vistas\\AJV_MONIT_EMP_IMP.VIEW": [
           {
@@ -35,6 +35,66 @@
               "removed": []
             },
             "duration": 0,
+            "language": "VIEW"
+          }
+        ],
+        "c:\\Workspace\\ObjetosBD\\vistas\\AJV_EXPEDIENTES.VIEW": [
+          {
+            "timestamp": "2026-04-12T18:39:22.059Z",
+            "fileName": "c:\\Workspace\\ObjetosBD\\vistas\\AJV_EXPEDIENTES.VIEW",
+            "fileType": ".VIEW",
+            "linesAdded": 110,
+            "linesRemoved": 0,
+            "projectName": "ObjetosBD",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "VIEW"
+          },
+          {
+            "timestamp": "2026-04-12T18:39:54.092Z",
+            "fileName": "c:\\Workspace\\ObjetosBD\\vistas\\AJV_EXPEDIENTES.VIEW",
+            "fileType": ".VIEW",
+            "linesAdded": 2,
+            "linesRemoved": 0,
+            "projectName": "ObjetosBD",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "VIEW"
+          }
+        ],
+        "c:\\Workspace\\ObjetosBD\\vistas\\AJV_EXPEDIENTES_ALTAS.VIEW": [
+          {
+            "timestamp": "2026-04-12T18:40:03.190Z",
+            "fileName": "c:\\Workspace\\ObjetosBD\\vistas\\AJV_EXPEDIENTES_ALTAS.VIEW",
+            "fileType": ".VIEW",
+            "linesAdded": 106,
+            "linesRemoved": 0,
+            "projectName": "ObjetosBD",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "VIEW"
+          },
+          {
+            "timestamp": "2026-04-12T18:40:11.011Z",
+            "fileName": "c:\\Workspace\\ObjetosBD\\vistas\\AJV_EXPEDIENTES_ALTAS.VIEW",
+            "fileType": ".VIEW",
+            "linesAdded": 2,
+            "linesRemoved": 0,
+            "projectName": "ObjetosBD",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
             "language": "VIEW"
           }
         ]
