@@ -2,7 +2,7 @@
   "date": "2026-04-13",
   "projects": {
     "CILApp": {
-      "totalLinesAdded": 939,
+      "totalLinesAdded": 1016,
       "totalLinesRemoved": 645,
       "totalActiveTime": 30,
       "files": {
@@ -438,6 +438,22 @@
             },
             "duration": 1,
             "language": "java"
+          }
+        ],
+        "c:\\Users\\ricardo_zamudio\\Downloads\\csv alt_movalm.csv": [
+          {
+            "timestamp": "2026-04-13T10:42:39.477Z",
+            "fileName": "c:\\Users\\ricardo_zamudio\\Downloads\\csv alt_movalm.csv",
+            "fileType": ".csv",
+            "linesAdded": 77,
+            "linesRemoved": 0,
+            "projectName": "CILApp",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "csv"
           }
         ]
       },
