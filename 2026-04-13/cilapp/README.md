@@ -4,14 +4,14 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 938                                          |
+| **Lines Added** (➕)   | 939                                          |
 | **Lines Removed** (➖) | 645                                        |
-| **Net Change** (↕)    | 293                |
-| **Active Time** (⌚)   | 29 minutes |
+| **Net Change** (↕)    | 294                |
+| **Active Time** (⌚)   | 30 minutes |
 
 
 ## Modified Files
-- **ExportacionMonitoringPedidos.java** (+314, -1)
+- **ExportacionMonitoringPedidos.java** (+315, -1)
 - **insertaAsesoria.java** (+30, -30)
 - **ProcMonitorioToMASC.java** (+243, -263)
 - **PresentacionMonitorios.java** (+194, -194)
@@ -26,7 +26,7 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".java" : 1583
+".java" : 1584
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -36,8 +36,8 @@ pie showData
 title Coding activity by hour (count of changes)
 "08h" : 2
 "10h" : 21
-"12h" : 6
+"12h" : 7
 ```
 
 
-> **Last Updated:** 4/13/2026, 12:14:36 PM
+> **Last Updated:** 4/13/2026, 12:19:36 PM
