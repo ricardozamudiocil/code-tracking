@@ -2,7 +2,7 @@
   "date": "2026-04-13",
   "projects": {
     "CILApp": {
-      "totalLinesAdded": 1017,
+      "totalLinesAdded": 1021,
       "totalLinesRemoved": 645,
       "totalActiveTime": 30,
       "files": {
@@ -61,6 +61,20 @@
               "removed": []
             },
             "duration": 1,
+            "language": "java"
+          },
+          {
+            "timestamp": "2026-04-13T13:05:09.295Z",
+            "fileName": "c:\\CilAPPP\\CILApp\\src\\cil\\modulos\\cobros\\BatchServer\\compras\\ExportacionMonitoringPedidos.java",
+            "fileType": ".java",
+            "linesAdded": 4,
+            "linesRemoved": 0,
+            "projectName": "CILApp",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
             "language": "java"
           }
         ],
