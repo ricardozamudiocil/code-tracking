@@ -2,9 +2,9 @@
   "date": "2026-04-14",
   "projects": {
     "CILApp": {
-      "totalLinesAdded": 3864,
-      "totalLinesRemoved": 1754,
-      "totalActiveTime": 7,
+      "totalLinesAdded": 3907,
+      "totalLinesRemoved": 1769,
+      "totalActiveTime": 8,
       "files": {
         "c:\\CilAPPP\\CILApp\\src\\cil\\modulos\\cobros\\BatchServer\\compras\\ExportacionMonitoringPedidos.java": [
           {
@@ -236,6 +236,36 @@
             },
             "duration": 2,
             "language": "java"
+          }
+        ],
+        "c:\\Pruebas\\Asesoria\\old\\mapeo_access_to_db2.csv": [
+          {
+            "timestamp": "2026-04-14T14:03:34.307Z",
+            "fileName": "c:\\Pruebas\\Asesoria\\old\\mapeo_access_to_db2.csv",
+            "fileType": ".csv",
+            "linesAdded": 43,
+            "linesRemoved": 0,
+            "projectName": "CILApp",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "csv"
+          },
+          {
+            "timestamp": "2026-04-14T14:03:39.091Z",
+            "fileName": "c:\\Pruebas\\Asesoria\\old\\mapeo_access_to_db2.csv",
+            "fileType": ".csv",
+            "linesAdded": 0,
+            "linesRemoved": 15,
+            "projectName": "CILApp",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "csv"
           }
         ]
       },

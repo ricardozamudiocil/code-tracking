@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 3864                                          |
-| **Lines Removed** (➖) | 1754                                        |
-| **Net Change** (↕)    | 2110                |
-| **Active Time** (⌚)   | 7 minutes |
+| **Lines Added** (➕)   | 3907                                          |
+| **Lines Removed** (➖) | 1769                                        |
+| **Net Change** (↕)    | 2138                |
+| **Active Time** (⌚)   | 8 minutes |
 
 
 ## Modified Files
@@ -22,6 +22,7 @@
 - **ConsExpedientesAltas.java** (+0, -19)
 - **PanelMantExpedientes.java** (+0, -10)
 - **MigracionAccessToDb2.java** (+1394, -4)
+- **mapeo_access_to_db2.csv** (+43, -15)
 
 ## Visualizations
 
@@ -31,6 +32,7 @@
 pie showData
 title Lines changed by file type
 ".java" : 5618
+".csv" : 58
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -40,7 +42,8 @@ pie showData
 title Coding activity by hour (count of changes)
 "11h" : 1
 "15h" : 14
+"16h" : 2
 ```
 
 
-> **Last Updated:** 4/14/2026, 3:57:48 PM
+> **Last Updated:** 4/14/2026, 4:07:48 PM
