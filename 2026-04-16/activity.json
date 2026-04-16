@@ -309,9 +309,9 @@
       "averageChangeSize": 199.11111111111111
     },
     "Scripts": {
-      "totalLinesAdded": 344,
+      "totalLinesAdded": 346,
       "totalLinesRemoved": 276,
-      "totalActiveTime": 4,
+      "totalActiveTime": 9,
       "files": {
         "c:\\Pruebas\\MASC\\PresentaMASC\\rutas_masc.txt": [
           {
@@ -370,6 +370,20 @@
               "removed": []
             },
             "duration": 1,
+            "language": "sh"
+          },
+          {
+            "timestamp": "2026-04-16T12:59:23.216Z",
+            "fileName": "c:\\Workspace\\Scripts\\home\\cilcobol\\ftp\\FTP_ESMAD_TO_AIX_ASE.sh",
+            "fileType": ".sh",
+            "linesAdded": 2,
+            "linesRemoved": 0,
+            "projectName": "Scripts",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 5,
             "language": "sh"
           }
         ]
