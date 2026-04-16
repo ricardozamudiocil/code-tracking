@@ -307,6 +307,53 @@
         "c:\\CilAPPP\\CILApp\\src\\cil\\modulos\\asesoria\\service\\MascSmsService.java"
       ],
       "averageChangeSize": 199.11111111111111
+    },
+    "Scripts": {
+      "totalLinesAdded": 257,
+      "totalLinesRemoved": 254,
+      "totalActiveTime": 1,
+      "files": {
+        "c:\\Pruebas\\MASC\\PresentaMASC\\rutas_masc.txt": [
+          {
+            "timestamp": "2026-04-16T12:53:05.844Z",
+            "fileName": "c:\\Pruebas\\MASC\\PresentaMASC\\rutas_masc.txt",
+            "fileType": ".txt",
+            "linesAdded": 257,
+            "linesRemoved": 0,
+            "projectName": "Scripts",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "txt"
+          },
+          {
+            "timestamp": "2026-04-16T12:53:58.683Z",
+            "fileName": "c:\\Pruebas\\MASC\\PresentaMASC\\rutas_masc.txt",
+            "fileType": ".txt",
+            "linesAdded": 0,
+            "linesRemoved": 254,
+            "projectName": "Scripts",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "txt"
+          }
+        ]
+      },
+      "languageStats": {
+        "txt": 1
+      },
+      "changeFrequency": {
+        "14": 1
+      },
+      "topFiles": [
+        "c:\\Pruebas\\MASC\\PresentaMASC\\rutas_masc.txt"
+      ],
+      "averageChangeSize": 255.5
     }
   },
   "totalActiveTime": 6,
