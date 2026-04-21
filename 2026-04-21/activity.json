@@ -63,7 +63,7 @@
       "averageChangeSize": 1
     },
     "ConjuntoDatos": {
-      "totalLinesAdded": 431,
+      "totalLinesAdded": 437,
       "totalLinesRemoved": 0,
       "totalActiveTime": 0,
       "files": {
@@ -89,6 +89,20 @@
             "fileName": "c:\\Workspace\\ConjuntoDatos\\CARTAS_RCB\\CARTAS_RCB.SALDOS_CLIENTE.txt",
             "fileType": ".txt",
             "linesAdded": 237,
+            "linesRemoved": 0,
+            "projectName": "ConjuntoDatos",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "txt"
+          },
+          {
+            "timestamp": "2026-04-21T08:00:51.354Z",
+            "fileName": "c:\\Workspace\\ConjuntoDatos\\CARTAS_RCB\\CARTAS_RCB.SALDOS_CLIENTE.txt",
+            "fileType": ".txt",
+            "linesAdded": 6,
             "linesRemoved": 0,
             "projectName": "ConjuntoDatos",
             "content": {
