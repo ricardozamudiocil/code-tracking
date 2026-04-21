@@ -264,7 +264,7 @@
       "averageChangeSize": 91
     },
     "CILReports (Workspace)": {
-      "totalLinesAdded": 3,
+      "totalLinesAdded": 8,
       "totalLinesRemoved": 0,
       "totalActiveTime": 0,
       "files": {
@@ -282,6 +282,22 @@
             },
             "duration": 0,
             "language": "json"
+          }
+        ],
+        "c:\\Workspace\\CILReports\\.settings\\org.eclipse.m2e.core.prefs": [
+          {
+            "timestamp": "2026-04-21T13:56:19.572Z",
+            "fileName": "c:\\Workspace\\CILReports\\.settings\\org.eclipse.m2e.core.prefs",
+            "fileType": ".prefs",
+            "linesAdded": 5,
+            "linesRemoved": 0,
+            "projectName": "CILReports (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "prefs"
           }
         ]
       },
