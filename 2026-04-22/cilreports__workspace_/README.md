@@ -4,14 +4,15 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 452                                          |
-| **Lines Removed** (➖) | 0                                        |
-| **Net Change** (↕)    | 452                |
-| **Active Time** (⌚)   | 1 minute |
+| **Lines Added** (➕)   | 597                                          |
+| **Lines Removed** (➖) | 313                                        |
+| **Net Change** (↕)    | 284                |
+| **Active Time** (⌚)   | 4 minutes |
 
 
 ## Modified Files
-- **ListaVendedores.jrxml** (+452, -0)
+- **ListaVendedores.jrxml** (+455, -313)
+- **ListadoVendedores (2).jrxml** (+142, -0)
 
 ## Visualizations
 
@@ -20,7 +21,7 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".jrxml" : 452
+".jrxml" : 910
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -28,8 +29,8 @@ title Lines changed by file type
 ```mermaid
 pie showData
 title Coding activity by hour (count of changes)
-"15h" : 2
+"15h" : 5
 ```
 
 
-> **Last Updated:** 4/22/2026, 3:41:39 PM
+> **Last Updated:** 4/22/2026, 3:51:39 PM

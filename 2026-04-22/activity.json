@@ -53,9 +53,9 @@
       "averageChangeSize": 1089
     },
     "CILReports (Workspace)": {
-      "totalLinesAdded": 452,
-      "totalLinesRemoved": 0,
-      "totalActiveTime": 1,
+      "totalLinesAdded": 597,
+      "totalLinesRemoved": 313,
+      "totalActiveTime": 4,
       "files": {
         "c:\\Workspace\\CILReports\\src\\main\\resources\\jasper\\plantillas\\vendedores\\ListaVendedores.jrxml": [
           {
@@ -84,6 +84,50 @@
               "removed": []
             },
             "duration": 1,
+            "language": "jrxml"
+          },
+          {
+            "timestamp": "2026-04-22T13:47:41.765Z",
+            "fileName": "c:\\Workspace\\CILReports\\src\\main\\resources\\jasper\\plantillas\\vendedores\\ListaVendedores.jrxml",
+            "fileType": ".jrxml",
+            "linesAdded": 0,
+            "linesRemoved": 313,
+            "projectName": "CILReports (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "jrxml"
+          },
+          {
+            "timestamp": "2026-04-22T13:49:45.614Z",
+            "fileName": "c:\\Workspace\\CILReports\\src\\main\\resources\\jasper\\plantillas\\vendedores\\ListaVendedores.jrxml",
+            "fileType": ".jrxml",
+            "linesAdded": 3,
+            "linesRemoved": 0,
+            "projectName": "CILReports (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "jrxml"
+          }
+        ],
+        "c:\\Users\\ricardo_zamudio\\Downloads\\ListadoVendedores (2).jrxml": [
+          {
+            "timestamp": "2026-04-22T13:49:34.405Z",
+            "fileName": "c:\\Users\\ricardo_zamudio\\Downloads\\ListadoVendedores (2).jrxml",
+            "fileType": ".jrxml",
+            "linesAdded": 142,
+            "linesRemoved": 0,
+            "projectName": "CILReports (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
             "language": "jrxml"
           }
         ]
