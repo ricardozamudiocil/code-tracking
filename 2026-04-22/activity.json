@@ -51,6 +51,53 @@
         "c:\\Users\\ricardo_zamudio\\Downloads\\ListadoVendedores.jrxml"
       ],
       "averageChangeSize": 1089
+    },
+    "CILReports (Workspace)": {
+      "totalLinesAdded": 452,
+      "totalLinesRemoved": 0,
+      "totalActiveTime": 1,
+      "files": {
+        "c:\\Workspace\\CILReports\\src\\main\\resources\\jasper\\plantillas\\vendedores\\ListaVendedores.jrxml": [
+          {
+            "timestamp": "2026-04-22T13:39:03.059Z",
+            "fileName": "c:\\Workspace\\CILReports\\src\\main\\resources\\jasper\\plantillas\\vendedores\\ListaVendedores.jrxml",
+            "fileType": ".jrxml",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "CILReports (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "jrxml"
+          },
+          {
+            "timestamp": "2026-04-22T13:39:08.213Z",
+            "fileName": "c:\\Workspace\\CILReports\\src\\main\\resources\\jasper\\plantillas\\vendedores\\ListaVendedores.jrxml",
+            "fileType": ".jrxml",
+            "linesAdded": 451,
+            "linesRemoved": 0,
+            "projectName": "CILReports (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "jrxml"
+          }
+        ]
+      },
+      "languageStats": {
+        "jrxml": 1
+      },
+      "changeFrequency": {
+        "15": 1
+      },
+      "topFiles": [
+        "c:\\Workspace\\CILReports\\src\\main\\resources\\jasper\\plantillas\\vendedores\\ListaVendedores.jrxml"
+      ],
+      "averageChangeSize": 226
     }
   },
   "totalActiveTime": 2,
