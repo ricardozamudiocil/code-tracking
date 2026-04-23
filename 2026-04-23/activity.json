@@ -717,6 +717,39 @@
         "c:\\Workspace\\CILReports\\src\\main\\java\\cil\\web\\jasper\\service\\vendedores\\JasperVendedoresService.java"
       ],
       "averageChangeSize": 21.833333333333332
+    },
+    "Scripts": {
+      "totalLinesAdded": 271,
+      "totalLinesRemoved": 0,
+      "totalActiveTime": 0,
+      "files": {
+        "c:\\Users\\ricardo_zamudio\\AppData\\Roaming\\DBeaverData\\workspace6\\General\\Scripts\\ADD POSTI CARTAS.sql": [
+          {
+            "timestamp": "2026-04-23T13:15:43.901Z",
+            "fileName": "c:\\Users\\ricardo_zamudio\\AppData\\Roaming\\DBeaverData\\workspace6\\General\\Scripts\\ADD POSTI CARTAS.sql",
+            "fileType": ".sql",
+            "linesAdded": 271,
+            "linesRemoved": 0,
+            "projectName": "Scripts",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "sql"
+          }
+        ]
+      },
+      "languageStats": {
+        "sql": 0
+      },
+      "changeFrequency": {
+        "15": 0
+      },
+      "topFiles": [
+        "c:\\Users\\ricardo_zamudio\\AppData\\Roaming\\DBeaverData\\workspace6\\General\\Scripts\\ADD POSTI CARTAS.sql"
+      ],
+      "averageChangeSize": 271
     }
   },
   "totalActiveTime": 2,
