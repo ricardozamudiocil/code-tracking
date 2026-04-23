@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 1834                                          |
+| **Lines Added** (➕)   | 1900                                          |
 | **Lines Removed** (➖) | 187                                        |
-| **Net Change** (↕)    | 1647                |
-| **Active Time** (⌚)   | 41 minutes |
+| **Net Change** (↕)    | 1713                |
+| **Active Time** (⌚)   | 44 minutes |
 
 
 ## Modified Files
@@ -21,7 +21,7 @@
 - **MetadataBuilder.java** (+20, -0)
 - **MetadataBuilder.java** (+20, -0)
 - **CustomerComBatchClient.java** (+79, -0)
-- **SeleccionVendedoresDC.java** (+158, -7)
+- **SeleccionVendedoresDC.java** (+224, -7)
 - **launch.json** (+38, -3)
 
 ## Visualizations
@@ -31,7 +31,7 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".java" : 1980
+".java" : 2046
 ".json" : 41
 ```
 
@@ -46,8 +46,8 @@ title Coding activity by hour (count of changes)
 "13h" : 2
 "14h" : 3
 "15h" : 3
-"16h" : 1
+"16h" : 4
 ```
 
 
-> **Last Updated:** 4/23/2026, 4:35:06 PM
+> **Last Updated:** 4/23/2026, 4:40:06 PM
