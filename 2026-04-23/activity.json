@@ -507,9 +507,9 @@
       "averageChangeSize": 163
     },
     "CILWebCustomerComunication": {
-      "totalLinesAdded": 260,
+      "totalLinesAdded": 285,
       "totalLinesRemoved": 0,
-      "totalActiveTime": 2,
+      "totalActiveTime": 13,
       "files": {
         "c:\\Workspace\\CILWebCustomerComunication\\src\\main\\java\\cil\\web\\cilcustomercom\\infrastructure\\generate_document_service\\GeneratePdfServiceAdapter.java": [
           {
@@ -524,6 +524,20 @@
               "removed": []
             },
             "duration": 0,
+            "language": "java"
+          },
+          {
+            "timestamp": "2026-04-23T12:37:19.003Z",
+            "fileName": "c:\\Workspace\\CILWebCustomerComunication\\src\\main\\java\\cil\\web\\cilcustomercom\\infrastructure\\generate_document_service\\GeneratePdfServiceAdapter.java",
+            "fileType": ".java",
+            "linesAdded": 15,
+            "linesRemoved": 0,
+            "projectName": "CILWebCustomerComunication",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 4,
             "language": "java"
           }
         ],
@@ -540,6 +554,34 @@
               "removed": []
             },
             "duration": 2,
+            "language": "java"
+          },
+          {
+            "timestamp": "2026-04-23T12:37:19.101Z",
+            "fileName": "c:\\Workspace\\CILWebCustomerComunication\\src\\main\\java\\cil\\web\\cilcustomercom\\infrastructure\\generate_document_service\\CilReportGenerateWebClient.java",
+            "fileType": ".java",
+            "linesAdded": 7,
+            "linesRemoved": 0,
+            "projectName": "CILWebCustomerComunication",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 4,
+            "language": "java"
+          },
+          {
+            "timestamp": "2026-04-23T12:39:53.046Z",
+            "fileName": "c:\\Workspace\\CILWebCustomerComunication\\src\\main\\java\\cil\\web\\cilcustomercom\\infrastructure\\generate_document_service\\CilReportGenerateWebClient.java",
+            "fileType": ".java",
+            "linesAdded": 3,
+            "linesRemoved": 0,
+            "projectName": "CILWebCustomerComunication",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
             "language": "java"
           }
         ]
