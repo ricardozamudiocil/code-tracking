@@ -79,9 +79,9 @@
       "averageChangeSize": 1726
     },
     "CILWebCustomerComunication": {
-      "totalLinesAdded": 727,
-      "totalLinesRemoved": 0,
-      "totalActiveTime": 6,
+      "totalLinesAdded": 728,
+      "totalLinesRemoved": 1,
+      "totalActiveTime": 10,
       "files": {
         "c:\\Workspace\\CILWebCustomerComunication\\src\\main\\java\\cil\\web\\cilcustomercom\\CilCustomerComunication.java": [
           {
@@ -145,6 +145,20 @@
             },
             "duration": 5,
             "language": "java"
+          },
+          {
+            "timestamp": "2026-04-24T10:30:21.755Z",
+            "fileName": "c:\\Workspace\\CILWebCustomerComunication\\src\\main\\java\\cil\\web\\cilcustomercom\\infrastructure\\generate_document_service\\GeneratePdfServiceAdapter.java",
+            "fileType": ".java",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "CILWebCustomerComunication",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "java"
           }
         ],
         "c:\\Workspace\\CILWebCustomerComunication\\src\\main\\java\\cil\\web\\cilcustomercom\\infrastructure\\generate_document_service\\CilReportGenerateWebClient.java": [
@@ -160,6 +174,20 @@
               "removed": []
             },
             "duration": 0,
+            "language": "java"
+          },
+          {
+            "timestamp": "2026-04-24T10:28:40.058Z",
+            "fileName": "c:\\Workspace\\CILWebCustomerComunication\\src\\main\\java\\cil\\web\\cilcustomercom\\infrastructure\\generate_document_service\\CilReportGenerateWebClient.java",
+            "fileType": ".java",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "CILWebCustomerComunication",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
             "language": "java"
           }
         ],
