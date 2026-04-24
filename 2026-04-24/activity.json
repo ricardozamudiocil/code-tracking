@@ -80,6 +80,56 @@
         "c:\\Workspace\\CILWebCustomerComunication\\src\\main\\java\\cil\\web\\cilcustomercom\\CilCustomerComunication.java"
       ],
       "averageChangeSize": 52
+    },
+    "CILReports (Workspace)": {
+      "totalLinesAdded": 147,
+      "totalLinesRemoved": 0,
+      "totalActiveTime": 2,
+      "files": {
+        "c:\\Workspace\\CILReports\\src\\main\\java\\cil\\web\\jasper\\CilJasperReportApplication.java": [
+          {
+            "timestamp": "2026-04-24T09:53:19.079Z",
+            "fileName": "c:\\Workspace\\CILReports\\src\\main\\java\\cil\\web\\jasper\\CilJasperReportApplication.java",
+            "fileType": ".java",
+            "linesAdded": 54,
+            "linesRemoved": 0,
+            "projectName": "CILReports (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "java"
+          }
+        ],
+        "c:\\Workspace\\CILReports\\src\\main\\java\\cil\\web\\jasper\\service\\vendedores\\JasperVendedoresService.java": [
+          {
+            "timestamp": "2026-04-24T09:54:28.573Z",
+            "fileName": "c:\\Workspace\\CILReports\\src\\main\\java\\cil\\web\\jasper\\service\\vendedores\\JasperVendedoresService.java",
+            "fileType": ".java",
+            "linesAdded": 93,
+            "linesRemoved": 0,
+            "projectName": "CILReports (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "java"
+          }
+        ]
+      },
+      "languageStats": {
+        "java": 2
+      },
+      "changeFrequency": {
+        "11": 2
+      },
+      "topFiles": [
+        "c:\\Workspace\\CILReports\\src\\main\\java\\cil\\web\\jasper\\CilJasperReportApplication.java",
+        "c:\\Workspace\\CILReports\\src\\main\\java\\cil\\web\\jasper\\service\\vendedores\\JasperVendedoresService.java"
+      ],
+      "averageChangeSize": 73.5
     }
   },
   "totalActiveTime": 0,
