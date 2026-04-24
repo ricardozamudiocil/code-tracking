@@ -79,7 +79,7 @@
       "averageChangeSize": 1726
     },
     "CILWebCustomerComunication": {
-      "totalLinesAdded": 207,
+      "totalLinesAdded": 346,
       "totalLinesRemoved": 0,
       "totalActiveTime": 6,
       "files": {
@@ -144,6 +144,22 @@
               "removed": []
             },
             "duration": 5,
+            "language": "java"
+          }
+        ],
+        "c:\\Workspace\\CILWebCustomerComunication\\src\\main\\java\\cil\\web\\cilcustomercom\\infrastructure\\generate_document_service\\CilReportGenerateWebClient.java": [
+          {
+            "timestamp": "2026-04-24T10:20:01.244Z",
+            "fileName": "c:\\Workspace\\CILWebCustomerComunication\\src\\main\\java\\cil\\web\\cilcustomercom\\infrastructure\\generate_document_service\\CilReportGenerateWebClient.java",
+            "fileType": ".java",
+            "linesAdded": 139,
+            "linesRemoved": 0,
+            "projectName": "CILWebCustomerComunication",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
             "language": "java"
           }
         ]
