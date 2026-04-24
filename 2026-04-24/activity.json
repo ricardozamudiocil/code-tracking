@@ -79,7 +79,7 @@
       "averageChangeSize": 1726
     },
     "CILWebCustomerComunication": {
-      "totalLinesAdded": 346,
+      "totalLinesAdded": 727,
       "totalLinesRemoved": 0,
       "totalActiveTime": 6,
       "files": {
@@ -153,6 +153,22 @@
             "fileName": "c:\\Workspace\\CILWebCustomerComunication\\src\\main\\java\\cil\\web\\cilcustomercom\\infrastructure\\generate_document_service\\CilReportGenerateWebClient.java",
             "fileType": ".java",
             "linesAdded": 139,
+            "linesRemoved": 0,
+            "projectName": "CILWebCustomerComunication",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "java"
+          }
+        ],
+        "c:\\Workspace\\CILWebCustomerComunication\\src\\main\\java\\cil\\web\\cilcustomercom\\application\\service\\impl\\SendServiceImpl.java": [
+          {
+            "timestamp": "2026-04-24T10:27:10.134Z",
+            "fileName": "c:\\Workspace\\CILWebCustomerComunication\\src\\main\\java\\cil\\web\\cilcustomercom\\application\\service\\impl\\SendServiceImpl.java",
+            "fileType": ".java",
+            "linesAdded": 381,
             "linesRemoved": 0,
             "projectName": "CILWebCustomerComunication",
             "content": {
