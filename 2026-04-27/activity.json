@@ -2,9 +2,9 @@
   "date": "2026-04-27",
   "projects": {
     "CILApp": {
-      "totalLinesAdded": 38,
-      "totalLinesRemoved": 0,
-      "totalActiveTime": 0,
+      "totalLinesAdded": 49,
+      "totalLinesRemoved": 257,
+      "totalActiveTime": 2,
       "files": {
         "c:\\CilAPPP\\CILApp\\src\\cil\\modulos\\promociones\\batch\\SeleccionVendedoresDC.java": [
           {
@@ -20,6 +20,50 @@
             },
             "duration": 0,
             "language": "java"
+          },
+          {
+            "timestamp": "2026-04-27T12:29:38.723Z",
+            "fileName": "c:\\CilAPPP\\CILApp\\src\\cil\\modulos\\promociones\\batch\\SeleccionVendedoresDC.java",
+            "fileType": ".java",
+            "linesAdded": 0,
+            "linesRemoved": 26,
+            "projectName": "CILApp",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "java"
+          },
+          {
+            "timestamp": "2026-04-27T12:30:05.647Z",
+            "fileName": "c:\\CilAPPP\\CILApp\\src\\cil\\modulos\\promociones\\batch\\SeleccionVendedoresDC.java",
+            "fileType": ".java",
+            "linesAdded": 0,
+            "linesRemoved": 231,
+            "projectName": "CILApp",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "java"
+          }
+        ],
+        "c:\\CilAPPP\\CILApp\\.git\\COMMIT_EDITMSG": [
+          {
+            "timestamp": "2026-04-27T12:29:45.182Z",
+            "fileName": "c:\\CilAPPP\\CILApp\\.git\\COMMIT_EDITMSG",
+            "fileType": "unknown",
+            "linesAdded": 11,
+            "linesRemoved": 0,
+            "projectName": "CILApp",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "unknown"
           }
         ]
       },
