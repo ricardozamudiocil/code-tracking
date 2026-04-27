@@ -5,15 +5,15 @@
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
 | **Lines Added** (➕)   | 428                                          |
-| **Lines Removed** (➖) | 446                                        |
-| **Net Change** (↕)    | -18                |
+| **Lines Removed** (➖) | 635                                        |
+| **Net Change** (↕)    | -207                |
 | **Active Time** (⌚)   | 13 minutes |
 
 
 ## Modified Files
 - **SeleccionVendedoresDC.java** (+38, -257)
 - **COMMIT_EDITMSG** (+11, -0)
-- **PanelConsultaGeneralNew.java** (+379, -189)
+- **PanelConsultaGeneralNew.java** (+379, -378)
 
 ## Visualizations
 
@@ -22,7 +22,7 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".java" : 863
+".java" : 1052
 "unknown" : 11
 ```
 
@@ -34,8 +34,8 @@ title Coding activity by hour (count of changes)
 "13h" : 1
 "14h" : 3
 "16h" : 8
-"17h" : 1
+"17h" : 2
 ```
 
 
-> **Last Updated:** 4/27/2026, 5:02:29 PM
+> **Last Updated:** 4/27/2026, 5:17:29 PM
