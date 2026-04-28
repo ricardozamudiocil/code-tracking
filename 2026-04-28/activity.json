@@ -2,9 +2,9 @@
   "date": "2026-04-28",
   "projects": {
     "CILApp": {
-      "totalLinesAdded": 117,
-      "totalLinesRemoved": 0,
-      "totalActiveTime": 0,
+      "totalLinesAdded": 349,
+      "totalLinesRemoved": 232,
+      "totalActiveTime": 2,
       "files": {
         "c:\\CilAPPP\\CILApp\\src\\cil\\modulos\\asesoria\\datos\\ConsMonitoriosPtesEmpresa.java": [
           {
@@ -19,6 +19,66 @@
               "removed": []
             },
             "duration": 0,
+            "language": "java"
+          }
+        ],
+        "c:\\CilAPPP\\CILApp\\src\\cil\\modulos\\promociones\\batch\\SeleccionVendedoresDC.java": [
+          {
+            "timestamp": "2026-04-28T06:17:46.424Z",
+            "fileName": "c:\\CilAPPP\\CILApp\\src\\cil\\modulos\\promociones\\batch\\SeleccionVendedoresDC.java",
+            "fileType": ".java",
+            "linesAdded": 231,
+            "linesRemoved": 0,
+            "projectName": "CILApp",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "java"
+          },
+          {
+            "timestamp": "2026-04-28T06:18:03.243Z",
+            "fileName": "c:\\CilAPPP\\CILApp\\src\\cil\\modulos\\promociones\\batch\\SeleccionVendedoresDC.java",
+            "fileType": ".java",
+            "linesAdded": 0,
+            "linesRemoved": 231,
+            "projectName": "CILApp",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "java"
+          }
+        ],
+        "c:\\CilAPPP\\CILApp\\src\\cil\\modulos\\atc\\paneles\\PanelConsultaGeneralNew.java": [
+          {
+            "timestamp": "2026-04-28T06:17:46.457Z",
+            "fileName": "c:\\CilAPPP\\CILApp\\src\\cil\\modulos\\atc\\paneles\\PanelConsultaGeneralNew.java",
+            "fileType": ".java",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "CILApp",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "java"
+          },
+          {
+            "timestamp": "2026-04-28T06:18:03.268Z",
+            "fileName": "c:\\CilAPPP\\CILApp\\src\\cil\\modulos\\atc\\paneles\\PanelConsultaGeneralNew.java",
+            "fileType": ".java",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "CILApp",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
             "language": "java"
           }
         ]
