@@ -228,9 +228,9 @@
       "averageChangeSize": 1957
     },
     "CILReports (Workspace)": {
-      "totalLinesAdded": 338,
-      "totalLinesRemoved": 0,
-      "totalActiveTime": 0,
+      "totalLinesAdded": 434,
+      "totalLinesRemoved": 96,
+      "totalActiveTime": 4,
       "files": {
         "c:\\Workspace\\CILReports\\src\\main\\resources\\jasper\\plantillas\\vendedores\\ListaVendedores.jrxml": [
           {
@@ -245,6 +245,34 @@
               "removed": []
             },
             "duration": 0,
+            "language": "jrxml"
+          },
+          {
+            "timestamp": "2026-04-28T10:32:51.355Z",
+            "fileName": "c:\\Workspace\\CILReports\\src\\main\\resources\\jasper\\plantillas\\vendedores\\ListaVendedores.jrxml",
+            "fileType": ".jrxml",
+            "linesAdded": 0,
+            "linesRemoved": 96,
+            "projectName": "CILReports (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "jrxml"
+          },
+          {
+            "timestamp": "2026-04-28T10:36:21.024Z",
+            "fileName": "c:\\Workspace\\CILReports\\src\\main\\resources\\jasper\\plantillas\\vendedores\\ListaVendedores.jrxml",
+            "fileType": ".jrxml",
+            "linesAdded": 96,
+            "linesRemoved": 0,
+            "projectName": "CILReports (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 4,
             "language": "jrxml"
           }
         ]
