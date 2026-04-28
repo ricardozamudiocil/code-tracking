@@ -3,7 +3,7 @@
   "projects": {
     "CILApp": {
       "totalLinesAdded": 3253,
-      "totalLinesRemoved": 264,
+      "totalLinesRemoved": 265,
       "totalActiveTime": 4,
       "files": {
         "c:\\CilAPPP\\CILApp\\src\\cil\\modulos\\asesoria\\datos\\ConsMonitoriosPtesEmpresa.java": [
@@ -187,6 +187,20 @@
             "fileType": ".json",
             "linesAdded": 940,
             "linesRemoved": 0,
+            "projectName": "CILApp",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "json"
+          },
+          {
+            "timestamp": "2026-04-28T12:47:05.921Z",
+            "fileName": "c:\\CilAPPP\\CILApp\\.vscode\\launch.json",
+            "fileType": ".json",
+            "linesAdded": 0,
+            "linesRemoved": 1,
             "projectName": "CILApp",
             "content": {
               "added": [],
