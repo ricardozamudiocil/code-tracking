@@ -415,9 +415,9 @@
       "averageChangeSize": 338
     },
     "CILWebCustomerComunication": {
-      "totalLinesAdded": 181,
+      "totalLinesAdded": 373,
       "totalLinesRemoved": 12,
-      "totalActiveTime": 3,
+      "totalActiveTime": 4,
       "files": {
         "c:\\Workspace\\CILWebCustomerComunication\\src\\main\\java\\cil\\web\\cilcustomercom\\infrastructure\\generate_document_service\\GeneratePdfServiceAdapter.java": [
           {
@@ -496,6 +496,38 @@
             "fileType": ".java",
             "linesAdded": 0,
             "linesRemoved": 1,
+            "projectName": "CILWebCustomerComunication",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "java"
+          }
+        ],
+        "c:\\Workspace\\CILWebCustomerComunication\\src\\main\\java\\cil\\web\\cilcustomercom\\infrastructure\\generate_document_service\\CilReportGenerateWebClient.java": [
+          {
+            "timestamp": "2026-04-28T12:54:32.427Z",
+            "fileName": "c:\\Workspace\\CILWebCustomerComunication\\src\\main\\java\\cil\\web\\cilcustomercom\\infrastructure\\generate_document_service\\CilReportGenerateWebClient.java",
+            "fileType": ".java",
+            "linesAdded": 140,
+            "linesRemoved": 0,
+            "projectName": "CILWebCustomerComunication",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "java"
+          }
+        ],
+        "c:\\Workspace\\CILWebCustomerComunication\\src\\main\\java\\cil\\web\\cilcustomercom\\CilCustomerComunication.java": [
+          {
+            "timestamp": "2026-04-28T12:54:57.902Z",
+            "fileName": "c:\\Workspace\\CILWebCustomerComunication\\src\\main\\java\\cil\\web\\cilcustomercom\\CilCustomerComunication.java",
+            "fileType": ".java",
+            "linesAdded": 52,
+            "linesRemoved": 0,
             "projectName": "CILWebCustomerComunication",
             "content": {
               "added": [],
