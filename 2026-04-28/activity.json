@@ -2,9 +2,9 @@
   "date": "2026-04-28",
   "projects": {
     "CILApp": {
-      "totalLinesAdded": 3246,
-      "totalLinesRemoved": 257,
-      "totalActiveTime": 3,
+      "totalLinesAdded": 3247,
+      "totalLinesRemoved": 258,
+      "totalActiveTime": 4,
       "files": {
         "c:\\CilAPPP\\CILApp\\src\\cil\\modulos\\asesoria\\datos\\ConsMonitoriosPtesEmpresa.java": [
           {
@@ -81,6 +81,34 @@
           },
           {
             "timestamp": "2026-04-28T10:11:55.715Z",
+            "fileName": "c:\\CilAPPP\\CILApp\\src\\cil\\modulos\\promociones\\batch\\SeleccionVendedoresDC.java",
+            "fileType": ".java",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "CILApp",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "java"
+          },
+          {
+            "timestamp": "2026-04-28T10:21:10.282Z",
+            "fileName": "c:\\CilAPPP\\CILApp\\src\\cil\\modulos\\promociones\\batch\\SeleccionVendedoresDC.java",
+            "fileType": ".java",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "CILApp",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "java"
+          },
+          {
+            "timestamp": "2026-04-28T10:21:46.099Z",
             "fileName": "c:\\CilAPPP\\CILApp\\src\\cil\\modulos\\promociones\\batch\\SeleccionVendedoresDC.java",
             "fileType": ".java",
             "linesAdded": 0,
