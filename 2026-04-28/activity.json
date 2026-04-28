@@ -402,8 +402,8 @@
     },
     "CILWebCustomerComunication": {
       "totalLinesAdded": 181,
-      "totalLinesRemoved": 2,
-      "totalActiveTime": 1,
+      "totalLinesRemoved": 4,
+      "totalActiveTime": 2,
       "files": {
         "c:\\Workspace\\CILWebCustomerComunication\\src\\main\\java\\cil\\web\\cilcustomercom\\infrastructure\\generate_document_service\\GeneratePdfServiceAdapter.java": [
           {
@@ -426,6 +426,34 @@
             "fileType": ".java",
             "linesAdded": 0,
             "linesRemoved": 2,
+            "projectName": "CILWebCustomerComunication",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "java"
+          },
+          {
+            "timestamp": "2026-04-28T11:27:29.752Z",
+            "fileName": "c:\\Workspace\\CILWebCustomerComunication\\src\\main\\java\\cil\\web\\cilcustomercom\\infrastructure\\generate_document_service\\GeneratePdfServiceAdapter.java",
+            "fileType": ".java",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "CILWebCustomerComunication",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "java"
+          },
+          {
+            "timestamp": "2026-04-28T11:27:30.659Z",
+            "fileName": "c:\\Workspace\\CILWebCustomerComunication\\src\\main\\java\\cil\\web\\cilcustomercom\\infrastructure\\generate_document_service\\GeneratePdfServiceAdapter.java",
+            "fileType": ".java",
+            "linesAdded": 0,
+            "linesRemoved": 1,
             "projectName": "CILWebCustomerComunication",
             "content": {
               "added": [],
