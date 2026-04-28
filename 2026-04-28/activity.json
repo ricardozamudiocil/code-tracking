@@ -242,9 +242,9 @@
       "averageChangeSize": 1957
     },
     "CILReports (Workspace)": {
-      "totalLinesAdded": 436,
-      "totalLinesRemoved": 129,
-      "totalActiveTime": 8,
+      "totalLinesAdded": 438,
+      "totalLinesRemoved": 134,
+      "totalActiveTime": 15,
       "files": {
         "c:\\Workspace\\CILReports\\src\\main\\resources\\jasper\\plantillas\\vendedores\\ListaVendedores.jrxml": [
           {
@@ -309,6 +309,48 @@
             "fileType": ".jrxml",
             "linesAdded": 2,
             "linesRemoved": 0,
+            "projectName": "CILReports (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 4,
+            "language": "jrxml"
+          },
+          {
+            "timestamp": "2026-04-28T10:47:48.318Z",
+            "fileName": "c:\\Workspace\\CILReports\\src\\main\\resources\\jasper\\plantillas\\vendedores\\ListaVendedores.jrxml",
+            "fileType": ".jrxml",
+            "linesAdded": 2,
+            "linesRemoved": 0,
+            "projectName": "CILReports (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "jrxml"
+          },
+          {
+            "timestamp": "2026-04-28T10:48:12.361Z",
+            "fileName": "c:\\Workspace\\CILReports\\src\\main\\resources\\jasper\\plantillas\\vendedores\\ListaVendedores.jrxml",
+            "fileType": ".jrxml",
+            "linesAdded": 0,
+            "linesRemoved": 2,
+            "projectName": "CILReports (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "jrxml"
+          },
+          {
+            "timestamp": "2026-04-28T10:51:44.259Z",
+            "fileName": "c:\\Workspace\\CILReports\\src\\main\\resources\\jasper\\plantillas\\vendedores\\ListaVendedores.jrxml",
+            "fileType": ".jrxml",
+            "linesAdded": 0,
+            "linesRemoved": 3,
             "projectName": "CILReports (Workspace)",
             "content": {
               "added": [],
