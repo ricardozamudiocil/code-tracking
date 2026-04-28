@@ -3,7 +3,7 @@
   "projects": {
     "CILApp": {
       "totalLinesAdded": 3247,
-      "totalLinesRemoved": 258,
+      "totalLinesRemoved": 264,
       "totalActiveTime": 4,
       "files": {
         "c:\\CilAPPP\\CILApp\\src\\cil\\modulos\\asesoria\\datos\\ConsMonitoriosPtesEmpresa.java": [
@@ -119,6 +119,20 @@
               "removed": []
             },
             "duration": 1,
+            "language": "java"
+          },
+          {
+            "timestamp": "2026-04-28T10:34:45.828Z",
+            "fileName": "c:\\CilAPPP\\CILApp\\src\\cil\\modulos\\promociones\\batch\\SeleccionVendedoresDC.java",
+            "fileType": ".java",
+            "linesAdded": 0,
+            "linesRemoved": 6,
+            "projectName": "CILApp",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
             "language": "java"
           }
         ],
