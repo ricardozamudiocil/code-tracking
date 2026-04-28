@@ -93,6 +93,39 @@
         "c:\\CilAPPP\\CILApp\\src\\cil\\modulos\\asesoria\\datos\\ConsMonitoriosPtesEmpresa.java"
       ],
       "averageChangeSize": 117
+    },
+    "lista-vendedores-process": {
+      "totalLinesAdded": 1957,
+      "totalLinesRemoved": 0,
+      "totalActiveTime": 0,
+      "files": {
+        "c:\\Tools\\Git\\lista-vendedores-process\\src\\cil\\modulos\\promociones\\batch\\SeleccionVendedoresDC.java": [
+          {
+            "timestamp": "2026-04-28T06:33:58.122Z",
+            "fileName": "c:\\Tools\\Git\\lista-vendedores-process\\src\\cil\\modulos\\promociones\\batch\\SeleccionVendedoresDC.java",
+            "fileType": ".java",
+            "linesAdded": 1957,
+            "linesRemoved": 0,
+            "projectName": "lista-vendedores-process",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "java"
+          }
+        ]
+      },
+      "languageStats": {
+        "java": 0
+      },
+      "changeFrequency": {
+        "8": 0
+      },
+      "topFiles": [
+        "c:\\Tools\\Git\\lista-vendedores-process\\src\\cil\\modulos\\promociones\\batch\\SeleccionVendedoresDC.java"
+      ],
+      "averageChangeSize": 1957
     }
   },
   "totalActiveTime": 0,
