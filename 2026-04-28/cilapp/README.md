@@ -4,15 +4,15 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 1289                                          |
+| **Lines Added** (➕)   | 3246                                          |
 | **Lines Removed** (➖) | 232                                        |
-| **Net Change** (↕)    | 1057                |
+| **Net Change** (↕)    | 3014                |
 | **Active Time** (⌚)   | 2 minutes |
 
 
 ## Modified Files
 - **ConsMonitoriosPtesEmpresa.java** (+117, -0)
-- **SeleccionVendedoresDC.java** (+231, -231)
+- **SeleccionVendedoresDC.java** (+2188, -231)
 - **PanelConsultaGeneralNew.java** (+1, -1)
 - **launch.json** (+940, -0)
 
@@ -23,7 +23,7 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".java" : 581
+".java" : 2538
 ".json" : 940
 ```
 
@@ -34,7 +34,8 @@ pie showData
 title Coding activity by hour (count of changes)
 "08h" : 5
 "10h" : 1
+"11h" : 1
 ```
 
 
-> **Last Updated:** 4/28/2026, 10:06:48 AM
+> **Last Updated:** 4/28/2026, 11:21:49 AM
