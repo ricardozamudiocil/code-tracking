@@ -2,7 +2,7 @@
   "date": "2026-04-29",
   "projects": {
     "CILApp": {
-      "totalLinesAdded": 293,
+      "totalLinesAdded": 457,
       "totalLinesRemoved": 54,
       "totalActiveTime": 7,
       "files": {
@@ -79,6 +79,22 @@
               "removed": []
             },
             "duration": 2,
+            "language": "java"
+          }
+        ],
+        "c:\\CilAPPP\\CILApp\\src\\cil\\modulos\\promociones\\batch\\SeleccionVendedoresDC.java": [
+          {
+            "timestamp": "2026-04-29T10:26:19.212Z",
+            "fileName": "c:\\CilAPPP\\CILApp\\src\\cil\\modulos\\promociones\\batch\\SeleccionVendedoresDC.java",
+            "fileType": ".java",
+            "linesAdded": 164,
+            "linesRemoved": 0,
+            "projectName": "CILApp",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
             "language": "java"
           }
         ]
