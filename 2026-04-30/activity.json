@@ -93,6 +93,84 @@
         "c:\\CilAPPP\\CILApp\\src\\cil\\modulos\\promociones\\batch\\SeleccionVendedoresDC.java"
       ],
       "averageChangeSize": 163
+    },
+    "ObjetosBD": {
+      "totalLinesAdded": 183,
+      "totalLinesRemoved": 6,
+      "totalActiveTime": 4,
+      "files": {
+        "c:\\Workspace\\ObjetosBD\\vistas\\AJV_MONIT_EMP_IMP.VIEW": [
+          {
+            "timestamp": "2026-04-30T10:41:56.058Z",
+            "fileName": "c:\\Workspace\\ObjetosBD\\vistas\\AJV_MONIT_EMP_IMP.VIEW",
+            "fileType": ".VIEW",
+            "linesAdded": 91,
+            "linesRemoved": 0,
+            "projectName": "ObjetosBD",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "VIEW"
+          },
+          {
+            "timestamp": "2026-04-30T10:42:05.138Z",
+            "fileName": "c:\\Workspace\\ObjetosBD\\vistas\\AJV_MONIT_EMP_IMP.VIEW",
+            "fileType": ".VIEW",
+            "linesAdded": 0,
+            "linesRemoved": 6,
+            "projectName": "ObjetosBD",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "VIEW"
+          }
+        ],
+        "c:\\Workspace\\ObjetosBD\\vistas\\AJV_MONITORIOS_IMP.VIEW": [
+          {
+            "timestamp": "2026-04-30T10:43:28.825Z",
+            "fileName": "c:\\Workspace\\ObjetosBD\\vistas\\AJV_MONITORIOS_IMP.VIEW",
+            "fileType": ".VIEW",
+            "linesAdded": 89,
+            "linesRemoved": 0,
+            "projectName": "ObjetosBD",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "VIEW"
+          },
+          {
+            "timestamp": "2026-04-30T10:44:02.741Z",
+            "fileName": "c:\\Workspace\\ObjetosBD\\vistas\\AJV_MONITORIOS_IMP.VIEW",
+            "fileType": ".VIEW",
+            "linesAdded": 3,
+            "linesRemoved": 0,
+            "projectName": "ObjetosBD",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "VIEW"
+          }
+        ]
+      },
+      "languageStats": {
+        "VIEW": 4
+      },
+      "changeFrequency": {
+        "12": 4
+      },
+      "topFiles": [
+        "c:\\Workspace\\ObjetosBD\\vistas\\AJV_MONIT_EMP_IMP.VIEW",
+        "c:\\Workspace\\ObjetosBD\\vistas\\AJV_MONITORIOS_IMP.VIEW"
+      ],
+      "averageChangeSize": 47.25
     }
   },
   "totalActiveTime": 0,
