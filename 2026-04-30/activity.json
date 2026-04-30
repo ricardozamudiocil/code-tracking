@@ -2,7 +2,7 @@
   "date": "2026-04-30",
   "projects": {
     "CILApp": {
-      "totalLinesAdded": 0,
+      "totalLinesAdded": 10,
       "totalLinesRemoved": 163,
       "totalActiveTime": 0,
       "files": {
@@ -13,6 +13,22 @@
             "fileType": ".java",
             "linesAdded": 0,
             "linesRemoved": 163,
+            "projectName": "CILApp",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "java"
+          }
+        ],
+        "c:\\CilAPPP\\CILApp\\src\\cil\\modulos\\asesoria\\datos\\ConsMonitoriosPtesImpresion.java": [
+          {
+            "timestamp": "2026-04-30T09:24:49.870Z",
+            "fileName": "c:\\CilAPPP\\CILApp\\src\\cil\\modulos\\asesoria\\datos\\ConsMonitoriosPtesImpresion.java",
+            "fileType": ".java",
+            "linesAdded": 10,
+            "linesRemoved": 0,
             "projectName": "CILApp",
             "content": {
               "added": [],
