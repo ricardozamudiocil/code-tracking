@@ -4,16 +4,18 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 29                                          |
-| **Lines Removed** (➖) | 192                                        |
-| **Net Change** (↕)    | -163                |
-| **Active Time** (⌚)   | 5 minutes |
+| **Lines Added** (➕)   | 1419                                          |
+| **Lines Removed** (➖) | 604                                        |
+| **Net Change** (↕)    | 815                |
+| **Active Time** (⌚)   | 6 minutes |
 
 
 ## Modified Files
 - **SeleccionVendedoresDC.java** (+0, -163)
 - **ConsMonitoriosPtesImpresion.java** (+10, -10)
 - **ConsMonitoriosPtesEmpresa.java** (+19, -19)
+- **ProcMonitorioToMASC.java** (+0, -412)
+- **MigracionAccessToDb2.java** (+1390, -0)
 
 ## Visualizations
 
@@ -22,7 +24,7 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".java" : 221
+".java" : 2023
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -34,7 +36,8 @@ title Coding activity by hour (count of changes)
 "11h" : 3
 "12h" : 1
 "13h" : 2
+"14h" : 2
 ```
 
 
-> **Last Updated:** 4/30/2026, 1:58:02 PM
+> **Last Updated:** 4/30/2026, 2:18:02 PM
