@@ -3,7 +3,7 @@
   "projects": {
     "CILApp": {
       "totalLinesAdded": 4061,
-      "totalLinesRemoved": 0,
+      "totalLinesRemoved": 10,
       "totalActiveTime": 16,
       "files": {
         "c:\\Users\\ricardo_zamudio\\AppData\\Roaming\\Code\\User\\settings.json": [
@@ -143,6 +143,20 @@
               "removed": []
             },
             "duration": 1,
+            "language": "java"
+          },
+          {
+            "timestamp": "2026-05-04T13:07:59.482Z",
+            "fileName": "c:\\CilAPPP\\CILApp\\src\\cil\\modulos\\distribucion\\BatchServer\\cilcustomercom\\util\\http\\CilReportClient.java",
+            "fileType": ".java",
+            "linesAdded": 0,
+            "linesRemoved": 10,
+            "projectName": "CILApp",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
             "language": "java"
           }
         ],
