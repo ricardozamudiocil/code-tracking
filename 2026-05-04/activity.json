@@ -248,8 +248,8 @@
     },
     "CILReports (Workspace)": {
       "totalLinesAdded": 162,
-      "totalLinesRemoved": 16,
-      "totalActiveTime": 10,
+      "totalLinesRemoved": 17,
+      "totalActiveTime": 11,
       "files": {
         "c:\\Workspace\\CILReports\\src\\main\\java\\cil\\web\\jasper\\controller\\rest\\vendedores\\JasperVendedoresRestController.java": [
           {
@@ -392,6 +392,20 @@
               "removed": []
             },
             "duration": 2,
+            "language": "java"
+          },
+          {
+            "timestamp": "2026-05-04T14:49:30.182Z",
+            "fileName": "c:\\Workspace\\CILReports\\src\\main\\java\\cil\\web\\jasper\\service\\vendedores\\JasperVendedoresService.java",
+            "fileType": ".java",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "CILReports (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
             "language": "java"
           }
         ]
