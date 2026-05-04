@@ -5,9 +5,9 @@
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
 | **Lines Added** (➕)   | 4105                                          |
-| **Lines Removed** (➖) | 36                                        |
-| **Net Change** (↕)    | 4069                |
-| **Active Time** (⌚)   | 25 minutes |
+| **Lines Removed** (➖) | 50                                        |
+| **Net Change** (↕)    | 4055                |
+| **Active Time** (⌚)   | 27 minutes |
 
 
 ## Modified Files
@@ -15,7 +15,7 @@
 - **MascSmsService.java** (+949, -0)
 - **ProcMonitorioToMASC.java** (+417, -0)
 - **insertaAsesoria.java** (+2143, -0)
-- **SeleccionVendedoresDC.java** (+169, -26)
+- **SeleccionVendedoresDC.java** (+169, -40)
 - **CustomerComBatchClient.java** (+87, -0)
 - **CilReportClient.java** (+65, -10)
 - **RequestPreviewDTO.java** (+6, -0)
@@ -29,7 +29,7 @@
 pie showData
 title Lines changed by file type
 ".json" : 227
-".java" : 3914
+".java" : 3928
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -41,8 +41,8 @@ title Coding activity by hour (count of changes)
 "14h" : 2
 "15h" : 5
 "16h" : 5
-"17h" : 3
+"17h" : 5
 ```
 
 
-> **Last Updated:** 5/4/2026, 5:04:08 PM
+> **Last Updated:** 5/4/2026, 5:29:08 PM
