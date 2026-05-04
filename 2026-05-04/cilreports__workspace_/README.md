@@ -5,14 +5,14 @@
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
 | **Lines Added** (➕)   | 162                                          |
-| **Lines Removed** (➖) | 17                                        |
-| **Net Change** (↕)    | 145                |
+| **Lines Removed** (➖) | 26                                        |
+| **Net Change** (↕)    | 136                |
 | **Active Time** (⌚)   | 11 minutes |
 
 
 ## Modified Files
 - **JasperVendedoresRestController.java** (+65, -16)
-- **JasperVendedoresService.java** (+97, -1)
+- **JasperVendedoresService.java** (+97, -10)
 
 ## Visualizations
 
@@ -21,7 +21,7 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".java" : 179
+".java" : 188
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -31,7 +31,8 @@ pie showData
 title Coding activity by hour (count of changes)
 "15h" : 6
 "16h" : 5
+"17h" : 1
 ```
 
 
-> **Last Updated:** 5/4/2026, 4:54:12 PM
+> **Last Updated:** 5/4/2026, 5:14:12 PM
