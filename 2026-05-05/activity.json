@@ -3,7 +3,7 @@
   "projects": {
     "CILApp": {
       "totalLinesAdded": 4150,
-      "totalLinesRemoved": 1130,
+      "totalLinesRemoved": 1333,
       "totalActiveTime": 4,
       "files": {
         "c:\\CilAPPP\\CILApp\\src\\cil\\util\\Constantes.java": [
@@ -141,6 +141,20 @@
               "removed": []
             },
             "duration": 3,
+            "language": "java"
+          },
+          {
+            "timestamp": "2026-05-05T09:15:41.901Z",
+            "fileName": "c:\\CilAPPP\\CILApp\\src\\cil\\modulos\\asesoria\\paneles\\PanelMantExpedientes.java",
+            "fileType": ".java",
+            "linesAdded": 0,
+            "linesRemoved": 203,
+            "projectName": "CILApp",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
             "language": "java"
           }
         ]
