@@ -2,8 +2,8 @@
   "date": "2026-05-05",
   "projects": {
     "CILApp": {
-      "totalLinesAdded": 4288,
-      "totalLinesRemoved": 1363,
+      "totalLinesAdded": 4491,
+      "totalLinesRemoved": 1471,
       "totalActiveTime": 11,
       "files": {
         "c:\\CilAPPP\\CILApp\\src\\cil\\util\\Constantes.java": [
@@ -105,6 +105,20 @@
               "removed": []
             },
             "duration": 4,
+            "language": "java"
+          },
+          {
+            "timestamp": "2026-05-05T10:23:05.258Z",
+            "fileName": "c:\\CilAPPP\\CILApp\\src\\cil\\modulos\\promociones\\batch\\SeleccionVendedoresDC.java",
+            "fileType": ".java",
+            "linesAdded": 0,
+            "linesRemoved": 108,
+            "projectName": "CILApp",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
             "language": "java"
           }
         ],
@@ -219,6 +233,20 @@
             "fileType": ".java",
             "linesAdded": 0,
             "linesRemoved": 203,
+            "projectName": "CILApp",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "java"
+          },
+          {
+            "timestamp": "2026-05-05T10:23:05.364Z",
+            "fileName": "c:\\CilAPPP\\CILApp\\src\\cil\\modulos\\asesoria\\paneles\\PanelMantExpedientes.java",
+            "fileType": ".java",
+            "linesAdded": 203,
+            "linesRemoved": 0,
             "projectName": "CILApp",
             "content": {
               "added": [],
