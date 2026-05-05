@@ -320,6 +320,39 @@
         "c:\\Workspace\\CILReports\\src\\main\\java\\cil\\web\\jasper\\CilJasperReportApplication.java"
       ],
       "averageChangeSize": 54
+    },
+    "Scripts": {
+      "totalLinesAdded": 2,
+      "totalLinesRemoved": 0,
+      "totalActiveTime": 0,
+      "files": {
+        "c:\\Workspace\\Scripts\\home\\cilcobol\\scripts\\sleep5.sh": [
+          {
+            "timestamp": "2026-05-05T10:28:49.046Z",
+            "fileName": "c:\\Workspace\\Scripts\\home\\cilcobol\\scripts\\sleep5.sh",
+            "fileType": ".sh",
+            "linesAdded": 2,
+            "linesRemoved": 0,
+            "projectName": "Scripts",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "sh"
+          }
+        ]
+      },
+      "languageStats": {
+        "sh": 0
+      },
+      "changeFrequency": {
+        "12": 0
+      },
+      "topFiles": [
+        "c:\\Workspace\\Scripts\\home\\cilcobol\\scripts\\sleep5.sh"
+      ],
+      "averageChangeSize": 2
     }
   },
   "totalActiveTime": 0,
