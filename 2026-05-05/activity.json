@@ -3,7 +3,7 @@
   "projects": {
     "CILApp": {
       "totalLinesAdded": 4522,
-      "totalLinesRemoved": 1471,
+      "totalLinesRemoved": 1500,
       "totalActiveTime": 16,
       "files": {
         "c:\\CilAPPP\\CILApp\\src\\cil\\util\\Constantes.java": [
@@ -277,6 +277,20 @@
             "fileType": ".java",
             "linesAdded": 25,
             "linesRemoved": 0,
+            "projectName": "CILApp",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "java"
+          },
+          {
+            "timestamp": "2026-05-05T13:10:45.301Z",
+            "fileName": "c:\\CilAPPP\\CILApp\\src\\cil\\modulos\\asesoria\\BatchServer\\MigracionAccessToDb2.java",
+            "fileType": ".java",
+            "linesAdded": 0,
+            "linesRemoved": 29,
             "projectName": "CILApp",
             "content": {
               "added": [],
