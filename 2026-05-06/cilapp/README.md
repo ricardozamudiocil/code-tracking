@@ -4,9 +4,9 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 419                                          |
+| **Lines Added** (➕)   | 1757                                          |
 | **Lines Removed** (➖) | 255                                        |
-| **Net Change** (↕)    | 164                |
+| **Net Change** (↕)    | 1502                |
 | **Active Time** (⌚)   | 0 minute |
 
 
@@ -14,6 +14,7 @@
 - **SeleccionVendedoresDC.java** (+7, -0)
 - **ProcMonitorioToMASC.java** (+412, -0)
 - **PanelMantExpedientes.java** (+0, -255)
+- **PanelAltaExpedientes.java** (+1338, -0)
 
 ## Visualizations
 
@@ -22,7 +23,7 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".java" : 674
+".java" : 2012
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -30,8 +31,8 @@ title Lines changed by file type
 ```mermaid
 pie showData
 title Coding activity by hour (count of changes)
-"12h" : 3
+"12h" : 4
 ```
 
 
-> **Last Updated:** 5/6/2026, 12:17:50 PM
+> **Last Updated:** 5/6/2026, 12:22:50 PM
