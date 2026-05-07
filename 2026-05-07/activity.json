@@ -3,7 +3,7 @@
   "projects": {
     "CILApp": {
       "totalLinesAdded": 573,
-      "totalLinesRemoved": 0,
+      "totalLinesRemoved": 1,
       "totalActiveTime": 0,
       "files": {
         "c:\\CilAPPP\\CILApp\\src\\cil\\modulos\\asesoria\\service\\MascSmsService.java": [
@@ -13,6 +13,20 @@
             "fileType": ".java",
             "linesAdded": 573,
             "linesRemoved": 0,
+            "projectName": "CILApp",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "java"
+          },
+          {
+            "timestamp": "2026-05-07T10:06:40.122Z",
+            "fileName": "c:\\CilAPPP\\CILApp\\src\\cil\\modulos\\asesoria\\service\\MascSmsService.java",
+            "fileType": ".java",
+            "linesAdded": 0,
+            "linesRemoved": 1,
             "projectName": "CILApp",
             "content": {
               "added": [],
