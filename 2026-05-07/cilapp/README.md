@@ -5,14 +5,14 @@
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
 | **Lines Added** (➕)   | 2240                                          |
-| **Lines Removed** (➖) | 338                                        |
-| **Net Change** (↕)    | 1902                |
+| **Lines Removed** (➖) | 410                                        |
+| **Net Change** (↕)    | 1830                |
 | **Active Time** (⌚)   | 7 minutes |
 
 
 ## Modified Files
 - **MascSmsService.java** (+574, -1)
-- **PanelConsultaGeneralNew.java** (+1650, -332)
+- **PanelConsultaGeneralNew.java** (+1650, -404)
 - **ProcMonitorioToMASC.java** (+5, -5)
 - **COMMIT_EDITMSG** (+11, -0)
 
@@ -23,7 +23,7 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".java" : 2567
+".java" : 2639
 "unknown" : 11
 ```
 
@@ -35,8 +35,8 @@ title Coding activity by hour (count of changes)
 "11h" : 1
 "12h" : 9
 "13h" : 1
-"15h" : 1
+"15h" : 2
 ```
 
 
-> **Last Updated:** 5/7/2026, 3:48:43 PM
+> **Last Updated:** 5/7/2026, 3:53:43 PM
