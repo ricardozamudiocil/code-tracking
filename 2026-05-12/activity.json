@@ -3,8 +3,8 @@
   "projects": {
     "CILApp": {
       "totalLinesAdded": 1212,
-      "totalLinesRemoved": 1616,
-      "totalActiveTime": 40,
+      "totalLinesRemoved": 1617,
+      "totalActiveTime": 41,
       "files": {
         "c:\\CilAPPP\\CILApp\\src\\cil\\modulos\\promociones\\batch\\SeleccionVendedoresDC.java": [
           {
@@ -693,6 +693,20 @@
               "removed": []
             },
             "duration": 3,
+            "language": "java"
+          },
+          {
+            "timestamp": "2026-05-12T14:13:56.328Z",
+            "fileName": "c:\\CilAPPP\\CILApp\\src\\cil\\modulos\\asesoria\\paneles\\PanelMantExpedientes.java",
+            "fileType": ".java",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "CILApp",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
             "language": "java"
           }
         ]
