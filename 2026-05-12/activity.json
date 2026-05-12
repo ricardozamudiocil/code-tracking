@@ -2,8 +2,8 @@
   "date": "2026-05-12",
   "projects": {
     "CILApp": {
-      "totalLinesAdded": 948,
-      "totalLinesRemoved": 441,
+      "totalLinesAdded": 1203,
+      "totalLinesRemoved": 1616,
       "totalActiveTime": 37,
       "files": {
         "c:\\CilAPPP\\CILApp\\src\\cil\\modulos\\promociones\\batch\\SeleccionVendedoresDC.java": [
@@ -55,6 +55,20 @@
             "fileType": ".java",
             "linesAdded": 0,
             "linesRemoved": 133,
+            "projectName": "CILApp",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "java"
+          },
+          {
+            "timestamp": "2026-05-12T13:53:01.902Z",
+            "fileName": "c:\\CilAPPP\\CILApp\\src\\cil\\modulos\\promociones\\batch\\SeleccionVendedoresDC.java",
+            "fileType": ".java",
+            "linesAdded": 0,
+            "linesRemoved": 7,
             "projectName": "CILApp",
             "content": {
               "added": [],
@@ -372,6 +386,20 @@
             },
             "duration": 2,
             "language": "java"
+          },
+          {
+            "timestamp": "2026-05-12T13:53:01.945Z",
+            "fileName": "c:\\CilAPPP\\CILApp\\src\\cil\\modulos\\asesoria\\BatchServer\\ProcMonitorioToMASC.java",
+            "fileType": ".java",
+            "linesAdded": 0,
+            "linesRemoved": 465,
+            "projectName": "CILApp",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "java"
           }
         ],
         "c:\\CilAPPP\\CILApp\\src\\cil\\modulos\\asesoria\\service\\MascSmsService.java": [
@@ -430,6 +458,20 @@
             },
             "duration": 0,
             "language": "java"
+          },
+          {
+            "timestamp": "2026-05-12T13:53:02.034Z",
+            "fileName": "c:\\CilAPPP\\CILApp\\src\\cil\\modulos\\asesoria\\service\\MascSmsService.java",
+            "fileType": ".java",
+            "linesAdded": 0,
+            "linesRemoved": 573,
+            "projectName": "CILApp",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "java"
           }
         ],
         "c:\\CilAPPP\\CILApp\\src\\cil\\modulos\\atc\\paneles\\PanelConsultaGeneralNew.java": [
@@ -481,6 +523,20 @@
             "fileType": ".java",
             "linesAdded": 0,
             "linesRemoved": 72,
+            "projectName": "CILApp",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "java"
+          },
+          {
+            "timestamp": "2026-05-12T13:53:02.089Z",
+            "fileName": "c:\\CilAPPP\\CILApp\\src\\cil\\modulos\\atc\\paneles\\PanelConsultaGeneralNew.java",
+            "fileType": ".java",
+            "linesAdded": 0,
+            "linesRemoved": 130,
             "projectName": "CILApp",
             "content": {
               "added": [],
@@ -593,6 +649,22 @@
               "removed": []
             },
             "duration": 3,
+            "language": "java"
+          }
+        ],
+        "c:\\CilAPPP\\CILApp\\src\\cil\\modulos\\asesoria\\paneles\\PanelMantExpedientes.java": [
+          {
+            "timestamp": "2026-05-12T13:53:01.855Z",
+            "fileName": "c:\\CilAPPP\\CILApp\\src\\cil\\modulos\\asesoria\\paneles\\PanelMantExpedientes.java",
+            "fileType": ".java",
+            "linesAdded": 255,
+            "linesRemoved": 0,
+            "projectName": "CILApp",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
             "language": "java"
           }
         ]
