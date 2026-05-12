@@ -2,9 +2,9 @@
   "date": "2026-05-12",
   "projects": {
     "CILApp": {
-      "totalLinesAdded": 931,
+      "totalLinesAdded": 943,
       "totalLinesRemoved": 441,
-      "totalActiveTime": 24,
+      "totalActiveTime": 30,
       "files": {
         "c:\\CilAPPP\\CILApp\\src\\cil\\modulos\\promociones\\batch\\SeleccionVendedoresDC.java": [
           {
@@ -315,6 +315,34 @@
               "removed": []
             },
             "duration": 1,
+            "language": "java"
+          },
+          {
+            "timestamp": "2026-05-12T13:03:56.747Z",
+            "fileName": "c:\\CilAPPP\\CILApp\\src\\cil\\modulos\\asesoria\\BatchServer\\ProcMonitorioToMASC.java",
+            "fileType": ".java",
+            "linesAdded": 2,
+            "linesRemoved": 0,
+            "projectName": "CILApp",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "java"
+          },
+          {
+            "timestamp": "2026-05-12T13:07:19.930Z",
+            "fileName": "c:\\CilAPPP\\CILApp\\src\\cil\\modulos\\asesoria\\BatchServer\\ProcMonitorioToMASC.java",
+            "fileType": ".java",
+            "linesAdded": 10,
+            "linesRemoved": 0,
+            "projectName": "CILApp",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 4,
             "language": "java"
           }
         ],
