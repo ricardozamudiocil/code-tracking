@@ -4,17 +4,17 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 819                                          |
-| **Lines Removed** (➖) | 214                                        |
-| **Net Change** (↕)    | 605                |
+| **Lines Added** (➕)   | 820                                          |
+| **Lines Removed** (➖) | 426                                        |
+| **Net Change** (↕)    | 394                |
 | **Active Time** (⌚)   | 4 minutes |
 
 
 ## Modified Files
-- **SeleccionVendedoresDC.java** (+266, -133)
-- **ProcMonitorioToMASC.java** (+14, -7)
-- **MascSmsService.java** (+1, -2)
-- **PanelConsultaGeneralNew.java** (+144, -72)
+- **SeleccionVendedoresDC.java** (+266, -266)
+- **ProcMonitorioToMASC.java** (+14, -14)
+- **MascSmsService.java** (+2, -2)
+- **PanelConsultaGeneralNew.java** (+144, -144)
 - **ProcesoMarcajeCertificacion.java** (+294, -0)
 - **keybindings.json** (+100, -0)
 
@@ -25,7 +25,7 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".java" : 933
+".java" : 1146
 ".json" : 100
 ```
 
@@ -36,8 +36,8 @@ pie showData
 title Coding activity by hour (count of changes)
 "09h" : 8
 "10h" : 4
-"11h" : 2
+"11h" : 6
 ```
 
 
-> **Last Updated:** 5/12/2026, 11:33:16 AM
+> **Last Updated:** 5/12/2026, 11:53:16 AM
