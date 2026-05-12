@@ -2,9 +2,9 @@
   "date": "2026-05-12",
   "projects": {
     "CILApp": {
-      "totalLinesAdded": 820,
-      "totalLinesRemoved": 426,
-      "totalActiveTime": 4,
+      "totalLinesAdded": 874,
+      "totalLinesRemoved": 433,
+      "totalActiveTime": 8,
       "files": {
         "c:\\CilAPPP\\CILApp\\src\\cil\\modulos\\promociones\\batch\\SeleccionVendedoresDC.java": [
           {
@@ -119,6 +119,20 @@
               "removed": []
             },
             "duration": 0,
+            "language": "java"
+          },
+          {
+            "timestamp": "2026-05-12T11:07:24.426Z",
+            "fileName": "c:\\CilAPPP\\CILApp\\src\\cil\\modulos\\asesoria\\BatchServer\\ProcMonitorioToMASC.java",
+            "fileType": ".java",
+            "linesAdded": 2,
+            "linesRemoved": 0,
+            "projectName": "CILApp",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
             "language": "java"
           }
         ],
@@ -268,6 +282,52 @@
             },
             "duration": 4,
             "language": "json"
+          }
+        ],
+        "c:\\CilAPPP\\CILApp\\src\\cil\\modulos\\asesoria\\util\\EstadoEssendexSMS.java": [
+          {
+            "timestamp": "2026-05-12T11:05:23.137Z",
+            "fileName": "c:\\CilAPPP\\CILApp\\src\\cil\\modulos\\asesoria\\util\\EstadoEssendexSMS.java",
+            "fileType": ".java",
+            "linesAdded": 26,
+            "linesRemoved": 0,
+            "projectName": "CILApp",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "java"
+          }
+        ],
+        "c:\\CilAPPP\\CILApp\\src\\cil\\modulos\\asesoria\\util\\EstadisticasMASC.java": [
+          {
+            "timestamp": "2026-05-12T11:05:45.141Z",
+            "fileName": "c:\\CilAPPP\\CILApp\\src\\cil\\modulos\\asesoria\\util\\EstadisticasMASC.java",
+            "fileType": ".java",
+            "linesAdded": 26,
+            "linesRemoved": 0,
+            "projectName": "CILApp",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "java"
+          },
+          {
+            "timestamp": "2026-05-12T11:05:59.897Z",
+            "fileName": "c:\\CilAPPP\\CILApp\\src\\cil\\modulos\\asesoria\\util\\EstadisticasMASC.java",
+            "fileType": ".java",
+            "linesAdded": 0,
+            "linesRemoved": 7,
+            "projectName": "CILApp",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "java"
           }
         ]
       },
