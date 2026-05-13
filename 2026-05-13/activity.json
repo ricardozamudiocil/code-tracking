@@ -175,7 +175,7 @@
       "averageChangeSize": 318.6
     },
     "CILReports (Workspace)": {
-      "totalLinesAdded": 356,
+      "totalLinesAdded": 509,
       "totalLinesRemoved": 0,
       "totalActiveTime": 0,
       "files": {
@@ -255,6 +255,22 @@
             },
             "duration": 0,
             "language": "properties"
+          }
+        ],
+        "c:\\Workspace\\CILReports\\src\\main\\java\\cil\\web\\jasper\\controller\\rest\\recobros\\JasperRecoverRestController.java": [
+          {
+            "timestamp": "2026-05-13T09:25:01.239Z",
+            "fileName": "c:\\Workspace\\CILReports\\src\\main\\java\\cil\\web\\jasper\\controller\\rest\\recobros\\JasperRecoverRestController.java",
+            "fileType": ".java",
+            "linesAdded": 153,
+            "linesRemoved": 0,
+            "projectName": "CILReports (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "java"
           }
         ]
       },
