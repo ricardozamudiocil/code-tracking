@@ -173,6 +173,104 @@
         "c:\\CilAPPP\\CILApp\\src\\cil\\modulos\\promociones\\batch\\SeleccionVendedoresDC.java"
       ],
       "averageChangeSize": 318.6
+    },
+    "CILReports (Workspace)": {
+      "totalLinesAdded": 356,
+      "totalLinesRemoved": 0,
+      "totalActiveTime": 0,
+      "files": {
+        "c:\\Workspace\\CILReports\\src\\main\\resources\\jasper\\properties\\compras\\Label_fr_FR.properties": [
+          {
+            "timestamp": "2026-05-13T09:08:09.395Z",
+            "fileName": "c:\\Workspace\\CILReports\\src\\main\\resources\\jasper\\properties\\compras\\Label_fr_FR.properties",
+            "fileType": ".properties",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "CILReports (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "properties"
+          },
+          {
+            "timestamp": "2026-05-13T09:08:09.709Z",
+            "fileName": "c:\\Workspace\\CILReports\\src\\main\\resources\\jasper\\properties\\compras\\Label_fr_FR.properties",
+            "fileType": ".properties",
+            "linesAdded": 91,
+            "linesRemoved": 0,
+            "projectName": "CILReports (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "properties"
+          }
+        ],
+        "c:\\Workspace\\CILReports\\src\\main\\resources\\jasper\\properties\\compras\\Label_en_GB.properties": [
+          {
+            "timestamp": "2026-05-13T09:08:09.296Z",
+            "fileName": "c:\\Workspace\\CILReports\\src\\main\\resources\\jasper\\properties\\compras\\Label_en_GB.properties",
+            "fileType": ".properties",
+            "linesAdded": 87,
+            "linesRemoved": 0,
+            "projectName": "CILReports (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "properties"
+          }
+        ],
+        "c:\\Workspace\\CILReports\\src\\main\\resources\\jasper\\properties\\compras\\Label_de_DE.properties": [
+          {
+            "timestamp": "2026-05-13T09:08:09.543Z",
+            "fileName": "c:\\Workspace\\CILReports\\src\\main\\resources\\jasper\\properties\\compras\\Label_de_DE.properties",
+            "fileType": ".properties",
+            "linesAdded": 83,
+            "linesRemoved": 0,
+            "projectName": "CILReports (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "properties"
+          }
+        ],
+        "c:\\Workspace\\CILReports\\src\\main\\resources\\jasper\\properties\\compras\\Label_es_ES.properties": [
+          {
+            "timestamp": "2026-05-13T09:08:09.489Z",
+            "fileName": "c:\\Workspace\\CILReports\\src\\main\\resources\\jasper\\properties\\compras\\Label_es_ES.properties",
+            "fileType": ".properties",
+            "linesAdded": 94,
+            "linesRemoved": 0,
+            "projectName": "CILReports (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "properties"
+          }
+        ]
+      },
+      "languageStats": {
+        "properties": 0
+      },
+      "changeFrequency": {
+        "11": 0
+      },
+      "topFiles": [
+        "c:\\Workspace\\CILReports\\src\\main\\resources\\jasper\\properties\\compras\\Label_fr_FR.properties",
+        "c:\\Workspace\\CILReports\\src\\main\\resources\\jasper\\properties\\compras\\Label_en_GB.properties",
+        "c:\\Workspace\\CILReports\\src\\main\\resources\\jasper\\properties\\compras\\Label_de_DE.properties",
+        "c:\\Workspace\\CILReports\\src\\main\\resources\\jasper\\properties\\compras\\Label_es_ES.properties"
+      ],
+      "averageChangeSize": 71.2
     }
   },
   "totalActiveTime": 1,
