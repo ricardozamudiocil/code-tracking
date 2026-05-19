@@ -2,9 +2,9 @@
   "date": "2026-05-19",
   "projects": {
     "CILApp": {
-      "totalLinesAdded": 27253,
+      "totalLinesAdded": 27358,
       "totalLinesRemoved": 982,
-      "totalActiveTime": 6,
+      "totalActiveTime": 9,
       "files": {
         "c:\\CilAPPP\\CILApp\\src\\cil\\modulos\\entradapedidos\\paneles\\entradaPedidos\\PanelEntradaPedidos.java": [
           {
@@ -314,6 +314,64 @@
             "fileName": "c:\\CilAPPP\\CILApp\\src\\cil\\modulos\\asesoria\\BatchServer\\IntroDatosAsesoriaAutomatico.java",
             "fileType": ".java",
             "linesAdded": 7,
+            "linesRemoved": 0,
+            "projectName": "CILApp",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "java"
+          },
+          {
+            "timestamp": "2026-05-19T14:04:03.575Z",
+            "fileName": "c:\\CilAPPP\\CILApp\\src\\cil\\modulos\\asesoria\\BatchServer\\IntroDatosAsesoriaAutomatico.java",
+            "fileType": ".java",
+            "linesAdded": 94,
+            "linesRemoved": 0,
+            "projectName": "CILApp",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "java"
+          }
+        ],
+        "c:\\CilAPPP\\CILApp\\src\\cil\\persistencia\\model\\AjtTiposProced.java": [
+          {
+            "timestamp": "2026-05-19T14:03:36.701Z",
+            "fileName": "c:\\CilAPPP\\CILApp\\src\\cil\\persistencia\\model\\AjtTiposProced.java",
+            "fileType": ".java",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "CILApp",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "java"
+          },
+          {
+            "timestamp": "2026-05-19T14:03:37.857Z",
+            "fileName": "c:\\CilAPPP\\CILApp\\src\\cil\\persistencia\\model\\AjtTiposProced.java",
+            "fileType": ".java",
+            "linesAdded": 5,
+            "linesRemoved": 0,
+            "projectName": "CILApp",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "java"
+          },
+          {
+            "timestamp": "2026-05-19T14:04:03.514Z",
+            "fileName": "c:\\CilAPPP\\CILApp\\src\\cil\\persistencia\\model\\AjtTiposProced.java",
+            "fileType": ".java",
+            "linesAdded": 5,
             "linesRemoved": 0,
             "projectName": "CILApp",
             "content": {
