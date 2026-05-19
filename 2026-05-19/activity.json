@@ -3,7 +3,7 @@
   "projects": {
     "CILApp": {
       "totalLinesAdded": 24910,
-      "totalLinesRemoved": 138,
+      "totalLinesRemoved": 139,
       "totalActiveTime": 4,
       "files": {
         "c:\\CilAPPP\\CILApp\\src\\cil\\modulos\\entradapedidos\\paneles\\entradaPedidos\\PanelEntradaPedidos.java": [
@@ -103,6 +103,20 @@
               "removed": []
             },
             "duration": 1,
+            "language": "java"
+          },
+          {
+            "timestamp": "2026-05-19T07:32:37.090Z",
+            "fileName": "c:\\CilAPPP\\CILApp\\src\\cil\\modulos\\entradapedidos\\paneles\\entradaPedidos\\PanelEntradaPedidos.java",
+            "fileType": ".java",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "CILApp",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
             "language": "java"
           }
         ],
