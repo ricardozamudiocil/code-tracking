@@ -4,17 +4,17 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 25604                                          |
-| **Lines Removed** (➖) | 272                                        |
-| **Net Change** (↕)    | 25332                |
+| **Lines Added** (➕)   | 25737                                          |
+| **Lines Removed** (➖) | 982                                        |
+| **Net Change** (↕)    | 24755                |
 | **Active Time** (⌚)   | 5 minutes |
 
 
 ## Modified Files
-- **PanelEntradaPedidos.java** (+25353, -21)
-- **PanelConsultaGeneralNew.java** (+117, -117)
-- **MascSmsService.java** (+1, -1)
-- **SeleccionVendedoresDC.java** (+133, -133)
+- **PanelEntradaPedidos.java** (+25353, -613)
+- **PanelConsultaGeneralNew.java** (+117, -234)
+- **MascSmsService.java** (+1, -2)
+- **SeleccionVendedoresDC.java** (+266, -133)
 
 ## Visualizations
 
@@ -23,7 +23,7 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".java" : 25876
+".java" : 26719
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -33,7 +33,8 @@ pie showData
 title Coding activity by hour (count of changes)
 "08h" : 10
 "09h" : 6
+"15h" : 4
 ```
 
 
-> **Last Updated:** 5/19/2026, 10:00:14 AM
+> **Last Updated:** 5/19/2026, 3:25:15 PM
