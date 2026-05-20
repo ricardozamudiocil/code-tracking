@@ -2,9 +2,9 @@
   "date": "2026-05-20",
   "projects": {
     "CILApp": {
-      "totalLinesAdded": 0,
-      "totalLinesRemoved": 137,
-      "totalActiveTime": 0,
+      "totalLinesAdded": 3979,
+      "totalLinesRemoved": 149,
+      "totalActiveTime": 2,
       "files": {
         "c:\\CilAPPP\\CILApp\\src\\cil\\modulos\\asesoria\\BatchServer\\IntroDatosAsesoriaAutomatico.java": [
           {
@@ -19,6 +19,52 @@
               "removed": []
             },
             "duration": 0,
+            "language": "java"
+          }
+        ],
+        "c:\\CilAPPP\\CILApp\\src\\cil\\modulos\\cobros\\paneles\\PanelPedidosCobros.java": [
+          {
+            "timestamp": "2026-05-20T07:03:45.255Z",
+            "fileName": "c:\\CilAPPP\\CILApp\\src\\cil\\modulos\\cobros\\paneles\\PanelPedidosCobros.java",
+            "fileType": ".java",
+            "linesAdded": 3979,
+            "linesRemoved": 0,
+            "projectName": "CILApp",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "java"
+          },
+          {
+            "timestamp": "2026-05-20T07:03:54.177Z",
+            "fileName": "c:\\CilAPPP\\CILApp\\src\\cil\\modulos\\cobros\\paneles\\PanelPedidosCobros.java",
+            "fileType": ".java",
+            "linesAdded": 0,
+            "linesRemoved": 10,
+            "projectName": "CILApp",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "java"
+          }
+        ],
+        "c:\\CilAPPP\\CILApp\\src\\cil\\util\\Constantes.java": [
+          {
+            "timestamp": "2026-05-20T07:03:54.237Z",
+            "fileName": "c:\\CilAPPP\\CILApp\\src\\cil\\util\\Constantes.java",
+            "fileType": ".java",
+            "linesAdded": 0,
+            "linesRemoved": 2,
+            "projectName": "CILApp",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
             "language": "java"
           }
         ]
