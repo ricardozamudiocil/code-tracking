@@ -4,15 +4,15 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 225                                          |
+| **Lines Added** (➕)   | 237                                          |
 | **Lines Removed** (➖) | 132                                        |
-| **Net Change** (↕)    | 93                |
-| **Active Time** (⌚)   | 31 minutes |
+| **Net Change** (↕)    | 105                |
+| **Active Time** (⌚)   | 32 minutes |
 
 
 ## Modified Files
 - **IntroDatosAsesoriaAutomatico.java** (+197, -132)
-- **AjtTiposProced.java** (+28, -0)
+- **AjtTiposProced.java** (+40, -0)
 
 ## Visualizations
 
@@ -21,7 +21,7 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".java" : 357
+".java" : 369
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -31,8 +31,8 @@ pie showData
 title Coding activity by hour (count of changes)
 "12h" : 5
 "13h" : 15
-"14h" : 1
+"14h" : 2
 ```
 
 
-> **Last Updated:** 5/22/2026, 2:14:13 PM
+> **Last Updated:** 5/22/2026, 2:19:13 PM
