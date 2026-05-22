@@ -4,15 +4,16 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 237                                          |
+| **Lines Added** (➕)   | 303                                          |
 | **Lines Removed** (➖) | 132                                        |
-| **Net Change** (↕)    | 105                |
-| **Active Time** (⌚)   | 32 minutes |
+| **Net Change** (↕)    | 171                |
+| **Active Time** (⌚)   | 35 minutes |
 
 
 ## Modified Files
 - **IntroDatosAsesoriaAutomatico.java** (+197, -132)
 - **AjtTiposProced.java** (+40, -0)
+- **launch.json** (+66, -0)
 
 ## Visualizations
 
@@ -22,6 +23,7 @@
 pie showData
 title Lines changed by file type
 ".java" : 369
+".json" : 66
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -31,8 +33,8 @@ pie showData
 title Coding activity by hour (count of changes)
 "12h" : 5
 "13h" : 15
-"14h" : 2
+"14h" : 4
 ```
 
 
-> **Last Updated:** 5/22/2026, 2:19:13 PM
+> **Last Updated:** 5/22/2026, 2:34:13 PM
