@@ -2,7 +2,7 @@
   "date": "2026-05-22",
   "projects": {
     "CILApp": {
-      "totalLinesAdded": 197,
+      "totalLinesAdded": 225,
       "totalLinesRemoved": 132,
       "totalActiveTime": 31,
       "files": {
@@ -285,6 +285,22 @@
               "removed": []
             },
             "duration": 5,
+            "language": "java"
+          }
+        ],
+        "c:\\CilAPPP\\CILApp\\src\\cil\\persistencia\\model\\AjtTiposProced.java": [
+          {
+            "timestamp": "2026-05-22T12:14:05.845Z",
+            "fileName": "c:\\CilAPPP\\CILApp\\src\\cil\\persistencia\\model\\AjtTiposProced.java",
+            "fileType": ".java",
+            "linesAdded": 28,
+            "linesRemoved": 0,
+            "projectName": "CILApp",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
             "language": "java"
           }
         ]
