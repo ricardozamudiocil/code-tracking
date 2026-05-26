@@ -4,14 +4,15 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 149                                          |
-| **Lines Removed** (➖) | 125                                        |
-| **Net Change** (↕)    | 24                |
+| **Lines Added** (➕)   | 165                                          |
+| **Lines Removed** (➖) | 214                                        |
+| **Net Change** (↕)    | -49                |
 | **Active Time** (⌚)   | 15 minutes |
 
 
 ## Modified Files
-- **IntroDatosAsesoriaAutomatico.java** (+149, -125)
+- **IntroDatosAsesoriaAutomatico.java** (+149, -214)
+- **PanelEntradaPedidos.java** (+16, -0)
 
 ## Visualizations
 
@@ -20,7 +21,7 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".java" : 274
+".java" : 379
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -31,7 +32,8 @@ title Coding activity by hour (count of changes)
 "08h" : 1
 "12h" : 8
 "13h" : 6
+"14h" : 2
 ```
 
 
-> **Last Updated:** 5/26/2026, 1:56:59 PM
+> **Last Updated:** 5/26/2026, 2:06:59 PM

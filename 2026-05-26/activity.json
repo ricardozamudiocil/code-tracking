@@ -2,8 +2,8 @@
   "date": "2026-05-26",
   "projects": {
     "CILApp": {
-      "totalLinesAdded": 149,
-      "totalLinesRemoved": 125,
+      "totalLinesAdded": 165,
+      "totalLinesRemoved": 214,
       "totalActiveTime": 15,
       "files": {
         "c:\\CilAPPP\\CILApp\\src\\cil\\modulos\\asesoria\\BatchServer\\IntroDatosAsesoriaAutomatico.java": [
@@ -215,6 +215,36 @@
               "removed": []
             },
             "duration": 4,
+            "language": "java"
+          },
+          {
+            "timestamp": "2026-05-26T12:06:18.398Z",
+            "fileName": "c:\\CilAPPP\\CILApp\\src\\cil\\modulos\\asesoria\\BatchServer\\IntroDatosAsesoriaAutomatico.java",
+            "fileType": ".java",
+            "linesAdded": 0,
+            "linesRemoved": 89,
+            "projectName": "CILApp",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "java"
+          }
+        ],
+        "c:\\CilAPPP\\CILApp\\src\\cil\\modulos\\entradapedidos\\paneles\\entradaPedidos\\PanelEntradaPedidos.java": [
+          {
+            "timestamp": "2026-05-26T12:06:18.346Z",
+            "fileName": "c:\\CilAPPP\\CILApp\\src\\cil\\modulos\\entradapedidos\\paneles\\entradaPedidos\\PanelEntradaPedidos.java",
+            "fileType": ".java",
+            "linesAdded": 16,
+            "linesRemoved": 0,
+            "projectName": "CILApp",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
             "language": "java"
           }
         ]
