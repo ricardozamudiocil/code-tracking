@@ -2,7 +2,7 @@
   "date": "2026-05-26",
   "projects": {
     "CILApp": {
-      "totalLinesAdded": 148,
+      "totalLinesAdded": 149,
       "totalLinesRemoved": 123,
       "totalActiveTime": 11,
       "files": {
@@ -173,6 +173,20 @@
               "removed": []
             },
             "duration": 4,
+            "language": "java"
+          },
+          {
+            "timestamp": "2026-05-26T11:42:24.099Z",
+            "fileName": "c:\\CilAPPP\\CILApp\\src\\cil\\modulos\\asesoria\\BatchServer\\IntroDatosAsesoriaAutomatico.java",
+            "fileType": ".java",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "CILApp",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
             "language": "java"
           }
         ]
