@@ -2,9 +2,9 @@
   "date": "2026-05-26",
   "projects": {
     "CILApp": {
-      "totalLinesAdded": 165,
-      "totalLinesRemoved": 214,
-      "totalActiveTime": 15,
+      "totalLinesAdded": 303,
+      "totalLinesRemoved": 284,
+      "totalActiveTime": 18,
       "files": {
         "c:\\CilAPPP\\CILApp\\src\\cil\\modulos\\asesoria\\BatchServer\\IntroDatosAsesoriaAutomatico.java": [
           {
@@ -246,6 +246,68 @@
             },
             "duration": 0,
             "language": "java"
+          },
+          {
+            "timestamp": "2026-05-26T13:42:58.361Z",
+            "fileName": "c:\\CilAPPP\\CILApp\\src\\cil\\modulos\\entradapedidos\\paneles\\entradaPedidos\\PanelEntradaPedidos.java",
+            "fileType": ".java",
+            "linesAdded": 0,
+            "linesRemoved": 16,
+            "projectName": "CILApp",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "java"
+          }
+        ],
+        "c:\\CilAPPP\\CILApp\\src\\cil\\modulos\\almacen\\web\\enviosBraax\\app\\implementation\\SendServiceImpl.java": [
+          {
+            "timestamp": "2026-05-26T13:42:58.409Z",
+            "fileName": "c:\\CilAPPP\\CILApp\\src\\cil\\modulos\\almacen\\web\\enviosBraax\\app\\implementation\\SendServiceImpl.java",
+            "fileType": ".java",
+            "linesAdded": 138,
+            "linesRemoved": 0,
+            "projectName": "CILApp",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "java"
+          }
+        ],
+        "c:\\CilAPPP\\CILApp\\src\\cil\\modulos\\asesoria\\BatchServer\\ProcMonitorioToMASC.java": [
+          {
+            "timestamp": "2026-05-26T13:42:58.437Z",
+            "fileName": "c:\\CilAPPP\\CILApp\\src\\cil\\modulos\\asesoria\\BatchServer\\ProcMonitorioToMASC.java",
+            "fileType": ".java",
+            "linesAdded": 0,
+            "linesRemoved": 53,
+            "projectName": "CILApp",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "java"
+          }
+        ],
+        "c:\\CilAPPP\\CILApp\\.vscode\\launch.json": [
+          {
+            "timestamp": "2026-05-26T13:45:05.393Z",
+            "fileName": "c:\\CilAPPP\\CILApp\\.vscode\\launch.json",
+            "fileType": ".json",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "CILApp",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
+            "language": "json"
           }
         ]
       },
