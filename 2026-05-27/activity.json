@@ -1,0 +1,66 @@
+{
+  "date": "2026-05-27",
+  "projects": {
+    "CILApp": {
+      "totalLinesAdded": 85,
+      "totalLinesRemoved": 0,
+      "totalActiveTime": 2,
+      "files": {
+        "c:\\Pruebas\\SqlExporter\\ExportDatosVendedores_ES.sql": [
+          {
+            "timestamp": "2026-05-27T15:37:15.852Z",
+            "fileName": "c:\\Pruebas\\SqlExporter\\ExportDatosVendedores_ES.sql",
+            "fileType": ".sql",
+            "linesAdded": 56,
+            "linesRemoved": 0,
+            "projectName": "CILApp",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "sql"
+          }
+        ],
+        "c:\\CilAPPP\\CILApp\\.vscode\\launch.json": [
+          {
+            "timestamp": "2026-05-27T15:38:29.780Z",
+            "fileName": "c:\\CilAPPP\\CILApp\\.vscode\\launch.json",
+            "fileType": ".json",
+            "linesAdded": 29,
+            "linesRemoved": 0,
+            "projectName": "CILApp",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "json"
+          }
+        ]
+      },
+      "languageStats": {
+        "sql": 0,
+        "json": 2
+      },
+      "changeFrequency": {
+        "17": 2
+      },
+      "topFiles": [
+        "c:\\Pruebas\\SqlExporter\\ExportDatosVendedores_ES.sql",
+        "c:\\CilAPPP\\CILApp\\.vscode\\launch.json"
+      ],
+      "averageChangeSize": 42.5
+    }
+  },
+  "totalActiveTime": 2,
+  "totalProjects": 1,
+  "totalFiles": 2,
+  "mostActiveHours": [
+    17
+  ],
+  "mostUsedLanguages": [
+    "json",
+    "sql"
+  ]
+}
