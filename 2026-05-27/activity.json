@@ -3,8 +3,8 @@
   "projects": {
     "CILApp": {
       "totalLinesAdded": 85,
-      "totalLinesRemoved": 0,
-      "totalActiveTime": 2,
+      "totalLinesRemoved": 1,
+      "totalActiveTime": 5,
       "files": {
         "c:\\Pruebas\\SqlExporter\\ExportDatosVendedores_ES.sql": [
           {
@@ -35,6 +35,20 @@
               "removed": []
             },
             "duration": 2,
+            "language": "json"
+          },
+          {
+            "timestamp": "2026-05-27T15:40:52.914Z",
+            "fileName": "c:\\CilAPPP\\CILApp\\.vscode\\launch.json",
+            "fileType": ".json",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "CILApp",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
             "language": "json"
           }
         ]
