@@ -153,6 +153,53 @@
         "c:\\CilAPPP\\CILApp\\src\\cil\\modulos\\hojaCampana\\batch\\OfertasComerciales.java"
       ],
       "averageChangeSize": 524
+    },
+    "CILOfertasComerciales": {
+      "totalLinesAdded": 137,
+      "totalLinesRemoved": 1,
+      "totalActiveTime": 1,
+      "files": {
+        "c:\\Pruebas\\expeMasc\\A6_210526 (ARCHIVOS POR PARAD. DESCONOCIDO)_ERRORS_202605281646.csv": [
+          {
+            "timestamp": "2026-05-28T15:34:41.540Z",
+            "fileName": "c:\\Pruebas\\expeMasc\\A6_210526 (ARCHIVOS POR PARAD. DESCONOCIDO)_ERRORS_202605281646.csv",
+            "fileType": ".csv",
+            "linesAdded": 137,
+            "linesRemoved": 0,
+            "projectName": "CILOfertasComerciales",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "csv"
+          },
+          {
+            "timestamp": "2026-05-28T15:34:44.400Z",
+            "fileName": "c:\\Pruebas\\expeMasc\\A6_210526 (ARCHIVOS POR PARAD. DESCONOCIDO)_ERRORS_202605281646.csv",
+            "fileType": ".csv",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "CILOfertasComerciales",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "csv"
+          }
+        ]
+      },
+      "languageStats": {
+        "csv": 1
+      },
+      "changeFrequency": {
+        "17": 1
+      },
+      "topFiles": [
+        "c:\\Pruebas\\expeMasc\\A6_210526 (ARCHIVOS POR PARAD. DESCONOCIDO)_ERRORS_202605281646.csv"
+      ],
+      "averageChangeSize": 69
     }
   },
   "totalActiveTime": 1,
