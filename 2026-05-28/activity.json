@@ -2,7 +2,7 @@
   "date": "2026-05-28",
   "projects": {
     "CILApp": {
-      "totalLinesAdded": 5213,
+      "totalLinesAdded": 5353,
       "totalLinesRemoved": 1,
       "totalActiveTime": 6,
       "files": {
@@ -140,6 +140,22 @@
             },
             "duration": 1,
             "language": "java"
+          }
+        ],
+        "c:\\Pruebas\\expeMasc\\A7_210526 (ARCHIVOS POR INCOMPETENCIA)_ERRORS_202605281655.csv": [
+          {
+            "timestamp": "2026-05-28T15:34:48.096Z",
+            "fileName": "c:\\Pruebas\\expeMasc\\A7_210526 (ARCHIVOS POR INCOMPETENCIA)_ERRORS_202605281655.csv",
+            "fileType": ".csv",
+            "linesAdded": 140,
+            "linesRemoved": 0,
+            "projectName": "CILApp",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "csv"
           }
         ]
       },
