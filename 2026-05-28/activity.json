@@ -2,9 +2,9 @@
   "date": "2026-05-28",
   "projects": {
     "CILApp": {
-      "totalLinesAdded": 1048,
+      "totalLinesAdded": 1756,
       "totalLinesRemoved": 0,
-      "totalActiveTime": 1,
+      "totalActiveTime": 3,
       "files": {
         "c:\\CilAPPP\\CILApp\\src\\cil\\modulos\\hojaCampana\\batch\\OfertasComerciales.java": [
           {
@@ -34,6 +34,52 @@
             },
             "duration": 1,
             "language": "java"
+          }
+        ],
+        "c:\\Pruebas\\SqlExporter\\ExportDatosVendedores_ES.sql": [
+          {
+            "timestamp": "2026-05-28T12:23:02.727Z",
+            "fileName": "c:\\Pruebas\\SqlExporter\\ExportDatosVendedores_ES.sql",
+            "fileType": ".sql",
+            "linesAdded": 56,
+            "linesRemoved": 0,
+            "projectName": "CILApp",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "sql"
+          },
+          {
+            "timestamp": "2026-05-28T12:23:03.767Z",
+            "fileName": "c:\\Pruebas\\SqlExporter\\ExportDatosVendedores_ES.sql",
+            "fileType": ".sql",
+            "linesAdded": 13,
+            "linesRemoved": 0,
+            "projectName": "CILApp",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "sql"
+          }
+        ],
+        "c:\\Pruebas\\SqlExporter\\DatosVendedores.csv": [
+          {
+            "timestamp": "2026-05-28T12:23:28.452Z",
+            "fileName": "c:\\Pruebas\\SqlExporter\\DatosVendedores.csv",
+            "fileType": ".csv",
+            "linesAdded": 639,
+            "linesRemoved": 0,
+            "projectName": "CILApp",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "csv"
           }
         ]
       },
