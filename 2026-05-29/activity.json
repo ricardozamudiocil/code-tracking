@@ -3,8 +3,8 @@
   "projects": {
     "CILApp": {
       "totalLinesAdded": 0,
-      "totalLinesRemoved": 5,
-      "totalActiveTime": 1,
+      "totalLinesRemoved": 624,
+      "totalActiveTime": 4,
       "files": {
         "c:\\Pruebas\\SqlExporter\\ExportDatosVendedores_ES.sql": [
           {
@@ -34,6 +34,36 @@
             },
             "duration": 1,
             "language": "sql"
+          },
+          {
+            "timestamp": "2026-05-29T11:42:48.536Z",
+            "fileName": "c:\\Pruebas\\SqlExporter\\ExportDatosVendedores_ES.sql",
+            "fileType": ".sql",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "CILApp",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "sql"
+          }
+        ],
+        "c:\\Pruebas\\SqlExporter\\DatosVendedores.csv": [
+          {
+            "timestamp": "2026-05-29T11:45:04.333Z",
+            "fileName": "c:\\Pruebas\\SqlExporter\\DatosVendedores.csv",
+            "fileType": ".csv",
+            "linesAdded": 0,
+            "linesRemoved": 618,
+            "projectName": "CILApp",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
+            "language": "csv"
           }
         ]
       },
