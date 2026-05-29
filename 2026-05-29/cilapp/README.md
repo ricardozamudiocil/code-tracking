@@ -4,15 +4,15 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 0                                          |
-| **Lines Removed** (➖) | 624                                        |
-| **Net Change** (↕)    | -624                |
-| **Active Time** (⌚)   | 4 minutes |
+| **Lines Added** (➕)   | 24                                          |
+| **Lines Removed** (➖) | 666                                        |
+| **Net Change** (↕)    | -642                |
+| **Active Time** (⌚)   | 12 minutes |
 
 
 ## Modified Files
 - **ExportDatosVendedores_ES.sql** (+0, -6)
-- **DatosVendedores.csv** (+0, -618)
+- **DatosVendedores.csv** (+24, -660)
 
 ## Visualizations
 
@@ -22,7 +22,7 @@
 pie showData
 title Lines changed by file type
 ".sql" : 6
-".csv" : 618
+".csv" : 684
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -30,8 +30,8 @@ title Lines changed by file type
 ```mermaid
 pie showData
 title Coding activity by hour (count of changes)
-"13h" : 4
+"13h" : 7
 ```
 
 
-> **Last Updated:** 5/29/2026, 1:47:07 PM
+> **Last Updated:** 5/29/2026, 1:52:07 PM
