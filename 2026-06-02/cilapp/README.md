@@ -4,17 +4,18 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 1430                                          |
+| **Lines Added** (➕)   | 1495                                          |
 | **Lines Removed** (➖) | 0                                        |
-| **Net Change** (↕)    | 1430                |
-| **Active Time** (⌚)   | 6 minutes |
+| **Net Change** (↕)    | 1495                |
+| **Active Time** (⌚)   | 12 minutes |
 
 
 ## Modified Files
 - **SQLExporterWhThreads.java** (+285, -0)
 - **references_specs_de.sql** (+45, -0)
-- **launch.json** (+1055, -0)
+- **launch.json** (+1083, -0)
 - **references_specs_de.sql** (+45, -0)
+- **inventory_DE.sql** (+37, -0)
 
 ## Visualizations
 
@@ -24,8 +25,8 @@
 pie showData
 title Lines changed by file type
 ".java" : 285
-".sql" : 90
-".json" : 1055
+".sql" : 127
+".json" : 1083
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -33,8 +34,8 @@ title Lines changed by file type
 ```mermaid
 pie showData
 title Coding activity by hour (count of changes)
-"11h" : 5
+"11h" : 7
 ```
 
 
-> **Last Updated:** 6/2/2026, 11:26:12 AM
+> **Last Updated:** 6/2/2026, 11:31:12 AM
