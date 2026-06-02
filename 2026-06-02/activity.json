@@ -3,8 +3,8 @@
   "projects": {
     "CILApp": {
       "totalLinesAdded": 4356,
-      "totalLinesRemoved": 0,
-      "totalActiveTime": 16,
+      "totalLinesRemoved": 2,
+      "totalActiveTime": 17,
       "files": {
         "c:\\CilAPPP\\CILApp\\src\\cil\\sqltools\\SQLExporterWhThreads.java": [
           {
@@ -96,6 +96,20 @@
             },
             "duration": 2,
             "language": "sql"
+          },
+          {
+            "timestamp": "2026-06-02T10:36:17.917Z",
+            "fileName": "c:\\Pruebas\\SqlExporter\\references_specs_de.sql",
+            "fileType": ".sql",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "CILApp",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "sql"
           }
         ],
         "c:\\Pruebas\\SqlExporter\\inventory_DE.sql": [
@@ -111,6 +125,20 @@
               "removed": []
             },
             "duration": 5,
+            "language": "sql"
+          },
+          {
+            "timestamp": "2026-06-02T10:36:49.776Z",
+            "fileName": "c:\\Pruebas\\SqlExporter\\inventory_DE.sql",
+            "fileType": ".sql",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "CILApp",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
             "language": "sql"
           }
         ],

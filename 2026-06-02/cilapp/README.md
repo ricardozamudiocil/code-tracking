@@ -5,17 +5,17 @@
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
 | **Lines Added** (➕)   | 4356                                          |
-| **Lines Removed** (➖) | 0                                        |
-| **Net Change** (↕)    | 4356                |
-| **Active Time** (⌚)   | 16 minutes |
+| **Lines Removed** (➖) | 2                                        |
+| **Net Change** (↕)    | 4354                |
+| **Active Time** (⌚)   | 17 minutes |
 
 
 ## Modified Files
 - **SQLExporterWhThreads.java** (+285, -0)
 - **references_specs_de.sql** (+45, -0)
 - **launch.json** (+1083, -0)
-- **references_specs_de.sql** (+45, -0)
-- **inventory_DE.sql** (+37, -0)
+- **references_specs_de.sql** (+45, -1)
+- **inventory_DE.sql** (+37, -1)
 - **Inventory_DE.csv** (+2861, -0)
 
 ## Visualizations
@@ -26,7 +26,7 @@
 pie showData
 title Lines changed by file type
 ".java" : 285
-".sql" : 127
+".sql" : 129
 ".json" : 1083
 ".csv" : 2861
 ```
@@ -37,7 +37,8 @@ title Lines changed by file type
 pie showData
 title Coding activity by hour (count of changes)
 "11h" : 8
+"12h" : 2
 ```
 
 
-> **Last Updated:** 6/2/2026, 11:36:12 AM
+> **Last Updated:** 6/2/2026, 12:41:12 PM
