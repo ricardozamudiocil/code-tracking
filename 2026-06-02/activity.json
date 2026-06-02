@@ -2,9 +2,9 @@
   "date": "2026-06-02",
   "projects": {
     "CILApp": {
-      "totalLinesAdded": 285,
+      "totalLinesAdded": 1430,
       "totalLinesRemoved": 0,
-      "totalActiveTime": 0,
+      "totalActiveTime": 6,
       "files": {
         "c:\\CilAPPP\\CILApp\\src\\cil\\sqltools\\SQLExporterWhThreads.java": [
           {
@@ -20,6 +20,68 @@
             },
             "duration": 0,
             "language": "java"
+          }
+        ],
+        "c:\\CilAPPP\\CILApp\\src\\cil\\sqltools\\references_specs_de.sql": [
+          {
+            "timestamp": "2026-06-02T09:21:14.551Z",
+            "fileName": "c:\\CilAPPP\\CILApp\\src\\cil\\sqltools\\references_specs_de.sql",
+            "fileType": ".sql",
+            "linesAdded": 45,
+            "linesRemoved": 0,
+            "projectName": "CILApp",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "sql"
+          }
+        ],
+        "c:\\CilAPPP\\CILApp\\.vscode\\launch.json": [
+          {
+            "timestamp": "2026-06-02T09:22:13.341Z",
+            "fileName": "c:\\CilAPPP\\CILApp\\.vscode\\launch.json",
+            "fileType": ".json",
+            "linesAdded": 1027,
+            "linesRemoved": 0,
+            "projectName": "CILApp",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "json"
+          },
+          {
+            "timestamp": "2026-06-02T09:23:12.502Z",
+            "fileName": "c:\\CilAPPP\\CILApp\\.vscode\\launch.json",
+            "fileType": ".json",
+            "linesAdded": 28,
+            "linesRemoved": 0,
+            "projectName": "CILApp",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "json"
+          }
+        ],
+        "c:\\Pruebas\\SqlExporter\\references_specs_de.sql": [
+          {
+            "timestamp": "2026-06-02T09:24:36.999Z",
+            "fileName": "c:\\Pruebas\\SqlExporter\\references_specs_de.sql",
+            "fileType": ".sql",
+            "linesAdded": 45,
+            "linesRemoved": 0,
+            "projectName": "CILApp",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "sql"
           }
         ]
       },
