@@ -2,9 +2,9 @@
   "date": "2026-06-02",
   "projects": {
     "CILApp": {
-      "totalLinesAdded": 6574,
-      "totalLinesRemoved": 2,
-      "totalActiveTime": 26,
+      "totalLinesAdded": 6610,
+      "totalLinesRemoved": 3,
+      "totalActiveTime": 30,
       "files": {
         "c:\\CilAPPP\\CILApp\\src\\cil\\sqltools\\SQLExporterWhThreads.java": [
           {
@@ -291,6 +291,52 @@
               "removed": []
             },
             "duration": 1,
+            "language": "csv"
+          }
+        ],
+        "c:\\Pruebas\\SqlExporter\\Helper.csv": [
+          {
+            "timestamp": "2026-06-02T14:21:13.753Z",
+            "fileName": "c:\\Pruebas\\SqlExporter\\Helper.csv",
+            "fileType": ".csv",
+            "linesAdded": 28,
+            "linesRemoved": 0,
+            "projectName": "CILApp",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "csv"
+          }
+        ],
+        "c:\\Pruebas\\SqlExporter\\Helper Inventory.csv": [
+          {
+            "timestamp": "2026-06-02T14:22:37.512Z",
+            "fileName": "c:\\Pruebas\\SqlExporter\\Helper Inventory.csv",
+            "fileType": ".csv",
+            "linesAdded": 8,
+            "linesRemoved": 0,
+            "projectName": "CILApp",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "csv"
+          },
+          {
+            "timestamp": "2026-06-02T14:23:45.253Z",
+            "fileName": "c:\\Pruebas\\SqlExporter\\Helper Inventory.csv",
+            "fileType": ".csv",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "CILApp",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
             "language": "csv"
           }
         ]

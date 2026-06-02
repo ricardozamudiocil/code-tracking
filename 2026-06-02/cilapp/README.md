@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 6574                                          |
-| **Lines Removed** (➖) | 2                                        |
-| **Net Change** (↕)    | 6572                |
-| **Active Time** (⌚)   | 26 minutes |
+| **Lines Added** (➕)   | 6610                                          |
+| **Lines Removed** (➖) | 3                                        |
+| **Net Change** (↕)    | 6607                |
+| **Active Time** (⌚)   | 30 minutes |
 
 
 ## Modified Files
@@ -22,6 +22,8 @@
 - **references_specs_CH.sql** (+45, -0)
 - **references_specs_AT.sql** (+45, -0)
 - **DatosReferencias.csv** (+2011, -0)
+- **Helper.csv** (+28, -0)
+- **Helper Inventory.csv** (+8, -1)
 
 ## Visualizations
 
@@ -33,7 +35,7 @@ title Lines changed by file type
 ".java" : 285
 ".sql" : 308
 ".json" : 1111
-".csv" : 4872
+".csv" : 4909
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -44,8 +46,8 @@ title Coding activity by hour (count of changes)
 "11h" : 8
 "12h" : 2
 "15h" : 7
-"16h" : 2
+"16h" : 5
 ```
 
 
-> **Last Updated:** 6/2/2026, 4:06:12 PM
+> **Last Updated:** 6/2/2026, 4:26:12 PM
