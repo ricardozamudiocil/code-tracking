@@ -2,9 +2,9 @@
   "date": "2026-06-03",
   "projects": {
     "CILApp": {
-      "totalLinesAdded": 4966,
-      "totalLinesRemoved": 204,
-      "totalActiveTime": 6,
+      "totalLinesAdded": 6775,
+      "totalLinesRemoved": 211,
+      "totalActiveTime": 13,
       "files": {
         "c:\\CilAPPP\\CILApp\\src\\cil\\modulos\\asesoria\\BatchServer\\IntroDatosAsesoriaAutomatico.java": [
           {
@@ -264,6 +264,20 @@
             },
             "duration": 0,
             "language": "java"
+          },
+          {
+            "timestamp": "2026-06-03T10:21:40.411Z",
+            "fileName": "c:\\CilAPPP\\CILApp\\src\\cil\\paneles\\cpt\\PanelCpPedidosMP.java",
+            "fileType": ".java",
+            "linesAdded": 0,
+            "linesRemoved": 2,
+            "projectName": "CILApp",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "java"
           }
         ],
         "c:\\CilAPPP\\CILApp\\src\\cil\\paneles\\cpt\\PanelCpPedidosAC.java": [
@@ -279,6 +293,66 @@
               "removed": []
             },
             "duration": 0,
+            "language": "java"
+          },
+          {
+            "timestamp": "2026-06-03T10:21:40.466Z",
+            "fileName": "c:\\CilAPPP\\CILApp\\src\\cil\\paneles\\cpt\\PanelCpPedidosAC.java",
+            "fileType": ".java",
+            "linesAdded": 0,
+            "linesRemoved": 2,
+            "projectName": "CILApp",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "java"
+          }
+        ],
+        "c:\\CilAPPP\\CILApp\\.vscode\\launch.json": [
+          {
+            "timestamp": "2026-06-03T10:19:25.935Z",
+            "fileName": "c:\\CilAPPP\\CILApp\\.vscode\\launch.json",
+            "fileType": ".json",
+            "linesAdded": 0,
+            "linesRemoved": 3,
+            "projectName": "CILApp",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "json"
+          },
+          {
+            "timestamp": "2026-06-03T10:20:10.121Z",
+            "fileName": "c:\\CilAPPP\\CILApp\\.vscode\\launch.json",
+            "fileType": ".json",
+            "linesAdded": 2,
+            "linesRemoved": 0,
+            "projectName": "CILApp",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "json"
+          }
+        ],
+        "c:\\CilAPPP\\CILApp\\src\\cil\\paneles\\cpt\\PanelCpPedidosVP.java": [
+          {
+            "timestamp": "2026-06-03T10:21:40.508Z",
+            "fileName": "c:\\CilAPPP\\CILApp\\src\\cil\\paneles\\cpt\\PanelCpPedidosVP.java",
+            "fileType": ".java",
+            "linesAdded": 1807,
+            "linesRemoved": 0,
+            "projectName": "CILApp",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
             "language": "java"
           }
         ]
