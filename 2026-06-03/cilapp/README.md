@@ -4,17 +4,17 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 2750                                          |
-| **Lines Removed** (➖) | 106                                        |
-| **Net Change** (↕)    | 2644                |
+| **Lines Added** (➕)   | 2751                                          |
+| **Lines Removed** (➖) | 204                                        |
+| **Net Change** (↕)    | 2547                |
 | **Active Time** (⌚)   | 6 minutes |
 
 
 ## Modified Files
-- **IntroDatosAsesoriaAutomatico.java** (+89, -89)
-- **SeleccionVendedoresDC.java** (+2, -2)
-- **OfertasComerciales.java** (+12, -12)
-- **PanelCpPedidosMP.java** (+2647, -3)
+- **IntroDatosAsesoriaAutomatico.java** (+89, -178)
+- **SeleccionVendedoresDC.java** (+3, -2)
+- **OfertasComerciales.java** (+12, -18)
+- **PanelCpPedidosMP.java** (+2647, -6)
 
 ## Visualizations
 
@@ -23,7 +23,7 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".java" : 2856
+".java" : 2955
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -32,8 +32,8 @@ title Lines changed by file type
 pie showData
 title Coding activity by hour (count of changes)
 "09h" : 5
-"10h" : 9
+"10h" : 13
 ```
 
 
-> **Last Updated:** 6/3/2026, 10:18:26 AM
+> **Last Updated:** 6/3/2026, 10:28:26 AM
