@@ -2,9 +2,9 @@
   "date": "2026-06-03",
   "projects": {
     "CILApp": {
-      "totalLinesAdded": 2731,
-      "totalLinesRemoved": 95,
-      "totalActiveTime": 3,
+      "totalLinesAdded": 2741,
+      "totalLinesRemoved": 105,
+      "totalActiveTime": 6,
       "files": {
         "c:\\CilAPPP\\CILApp\\src\\cil\\modulos\\asesoria\\BatchServer\\IntroDatosAsesoriaAutomatico.java": [
           {
@@ -50,11 +50,67 @@
             },
             "duration": 0,
             "language": "java"
+          },
+          {
+            "timestamp": "2026-06-03T08:09:33.966Z",
+            "fileName": "c:\\CilAPPP\\CILApp\\src\\cil\\modulos\\promociones\\batch\\SeleccionVendedoresDC.java",
+            "fileType": ".java",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "CILApp",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "java"
+          },
+          {
+            "timestamp": "2026-06-03T08:10:01.200Z",
+            "fileName": "c:\\CilAPPP\\CILApp\\src\\cil\\modulos\\promociones\\batch\\SeleccionVendedoresDC.java",
+            "fileType": ".java",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "CILApp",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "java"
           }
         ],
         "c:\\CilAPPP\\CILApp\\src\\cil\\modulos\\hojaCampana\\batch\\OfertasComerciales.java": [
           {
             "timestamp": "2026-06-03T07:56:08.416Z",
+            "fileName": "c:\\CilAPPP\\CILApp\\src\\cil\\modulos\\hojaCampana\\batch\\OfertasComerciales.java",
+            "fileType": ".java",
+            "linesAdded": 0,
+            "linesRemoved": 6,
+            "projectName": "CILApp",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "java"
+          },
+          {
+            "timestamp": "2026-06-03T08:09:33.930Z",
+            "fileName": "c:\\CilAPPP\\CILApp\\src\\cil\\modulos\\hojaCampana\\batch\\OfertasComerciales.java",
+            "fileType": ".java",
+            "linesAdded": 6,
+            "linesRemoved": 0,
+            "projectName": "CILApp",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "java"
+          },
+          {
+            "timestamp": "2026-06-03T08:10:01.163Z",
             "fileName": "c:\\CilAPPP\\CILApp\\src\\cil\\modulos\\hojaCampana\\batch\\OfertasComerciales.java",
             "fileType": ".java",
             "linesAdded": 0,
@@ -75,6 +131,34 @@
             "fileType": ".java",
             "linesAdded": 2641,
             "linesRemoved": 0,
+            "projectName": "CILApp",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "java"
+          },
+          {
+            "timestamp": "2026-06-03T08:09:34.001Z",
+            "fileName": "c:\\CilAPPP\\CILApp\\src\\cil\\paneles\\cpt\\PanelCpPedidosMP.java",
+            "fileType": ".java",
+            "linesAdded": 3,
+            "linesRemoved": 0,
+            "projectName": "CILApp",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "java"
+          },
+          {
+            "timestamp": "2026-06-03T08:10:01.229Z",
+            "fileName": "c:\\CilAPPP\\CILApp\\src\\cil\\paneles\\cpt\\PanelCpPedidosMP.java",
+            "fileType": ".java",
+            "linesAdded": 0,
+            "linesRemoved": 3,
             "projectName": "CILApp",
             "content": {
               "added": [],
