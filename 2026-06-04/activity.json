@@ -3,8 +3,8 @@
   "projects": {
     "CILApp": {
       "totalLinesAdded": 2514,
-      "totalLinesRemoved": 33,
-      "totalActiveTime": 8,
+      "totalLinesRemoved": 147,
+      "totalActiveTime": 10,
       "files": {
         "c:\\CilAPPP\\CILApp\\pom.xml": [
           {
@@ -172,6 +172,20 @@
             },
             "duration": 1,
             "language": "sql"
+          },
+          {
+            "timestamp": "2026-06-04T12:56:12.047Z",
+            "fileName": "c:\\Pruebas\\SqlExporter\\campaign_sheet_DE.sql",
+            "fileType": ".sql",
+            "linesAdded": 0,
+            "linesRemoved": 19,
+            "projectName": "CILApp",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "sql"
           }
         ],
         "c:\\Pruebas\\SqlExporter\\product_list_DE.sql": [
@@ -188,6 +202,20 @@
             },
             "duration": 0,
             "language": "sql"
+          },
+          {
+            "timestamp": "2026-06-04T12:56:32.688Z",
+            "fileName": "c:\\Pruebas\\SqlExporter\\product_list_DE.sql",
+            "fileType": ".sql",
+            "linesAdded": 0,
+            "linesRemoved": 47,
+            "projectName": "CILApp",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "sql"
           }
         ],
         "c:\\Pruebas\\SqlExporter\\promotions_DE.sql": [
@@ -197,6 +225,20 @@
             "fileType": ".sql",
             "linesAdded": 63,
             "linesRemoved": 0,
+            "projectName": "CILApp",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "sql"
+          },
+          {
+            "timestamp": "2026-06-04T12:56:22.378Z",
+            "fileName": "c:\\Pruebas\\SqlExporter\\promotions_DE.sql",
+            "fileType": ".sql",
+            "linesAdded": 0,
+            "linesRemoved": 48,
             "projectName": "CILApp",
             "content": {
               "added": [],
