@@ -2,9 +2,9 @@
   "date": "2026-06-04",
   "projects": {
     "CILApp": {
-      "totalLinesAdded": 2165,
+      "totalLinesAdded": 2237,
       "totalLinesRemoved": 33,
-      "totalActiveTime": 2,
+      "totalActiveTime": 3,
       "files": {
         "c:\\CilAPPP\\CILApp\\pom.xml": [
           {
@@ -96,6 +96,38 @@
             },
             "duration": 0,
             "language": "json"
+          }
+        ],
+        "c:\\Pruebas\\SqlExporter\\inventory_AT.sql": [
+          {
+            "timestamp": "2026-06-04T09:13:04.667Z",
+            "fileName": "c:\\Pruebas\\SqlExporter\\inventory_AT.sql",
+            "fileType": ".sql",
+            "linesAdded": 36,
+            "linesRemoved": 0,
+            "projectName": "CILApp",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "sql"
+          }
+        ],
+        "c:\\Pruebas\\SqlExporter\\inventory_CH.sql": [
+          {
+            "timestamp": "2026-06-04T09:13:15.253Z",
+            "fileName": "c:\\Pruebas\\SqlExporter\\inventory_CH.sql",
+            "fileType": ".sql",
+            "linesAdded": 36,
+            "linesRemoved": 0,
+            "projectName": "CILApp",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "sql"
           }
         ]
       },
