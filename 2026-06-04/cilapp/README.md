@@ -5,14 +5,15 @@
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
 | **Lines Added** (➕)   | 2165                                          |
-| **Lines Removed** (➖) | 1                                        |
-| **Net Change** (↕)    | 2164                |
+| **Lines Removed** (➖) | 5                                        |
+| **Net Change** (↕)    | 2160                |
 | **Active Time** (⌚)   | 2 minutes |
 
 
 ## Modified Files
 - **pom.xml** (+154, -1)
 - **Reference_Specs_Prueba.csv** (+2011, -0)
+- **Helper.csv** (+0, -4)
 
 ## Visualizations
 
@@ -22,7 +23,7 @@
 pie showData
 title Lines changed by file type
 ".xml" : 155
-".csv" : 2011
+".csv" : 2015
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -31,8 +32,8 @@ title Lines changed by file type
 pie showData
 title Coding activity by hour (count of changes)
 "08h" : 3
-"09h" : 1
+"09h" : 2
 ```
 
 
-> **Last Updated:** 6/4/2026, 9:27:26 AM
+> **Last Updated:** 6/4/2026, 9:32:26 AM
