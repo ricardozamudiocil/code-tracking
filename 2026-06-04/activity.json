@@ -3,7 +3,7 @@
   "projects": {
     "CILApp": {
       "totalLinesAdded": 2165,
-      "totalLinesRemoved": 5,
+      "totalLinesRemoved": 33,
       "totalActiveTime": 2,
       "files": {
         "c:\\CilAPPP\\CILApp\\pom.xml": [
@@ -80,6 +80,22 @@
             },
             "duration": 0,
             "language": "csv"
+          }
+        ],
+        "c:\\CilAPPP\\CILApp\\.vscode\\launch.json": [
+          {
+            "timestamp": "2026-06-04T09:07:09.744Z",
+            "fileName": "c:\\CilAPPP\\CILApp\\.vscode\\launch.json",
+            "fileType": ".json",
+            "linesAdded": 0,
+            "linesRemoved": 28,
+            "projectName": "CILApp",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "json"
           }
         ]
       },
