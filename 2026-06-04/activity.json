@@ -2,9 +2,9 @@
   "date": "2026-06-04",
   "projects": {
     "CILApp": {
-      "totalLinesAdded": 2237,
+      "totalLinesAdded": 2315,
       "totalLinesRemoved": 33,
-      "totalActiveTime": 3,
+      "totalActiveTime": 4,
       "files": {
         "c:\\CilAPPP\\CILApp\\pom.xml": [
           {
@@ -96,6 +96,20 @@
             },
             "duration": 0,
             "language": "json"
+          },
+          {
+            "timestamp": "2026-06-04T10:46:34.998Z",
+            "fileName": "c:\\CilAPPP\\CILApp\\.vscode\\launch.json",
+            "fileType": ".json",
+            "linesAdded": 28,
+            "linesRemoved": 0,
+            "projectName": "CILApp",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "json"
           }
         ],
         "c:\\Pruebas\\SqlExporter\\inventory_AT.sql": [
@@ -120,6 +134,22 @@
             "fileName": "c:\\Pruebas\\SqlExporter\\inventory_CH.sql",
             "fileType": ".sql",
             "linesAdded": 36,
+            "linesRemoved": 0,
+            "projectName": "CILApp",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "sql"
+          }
+        ],
+        "c:\\Pruebas\\SqlExporter\\campaign_sheet_DE.sql": [
+          {
+            "timestamp": "2026-06-04T10:47:08.783Z",
+            "fileName": "c:\\Pruebas\\SqlExporter\\campaign_sheet_DE.sql",
+            "fileType": ".sql",
+            "linesAdded": 50,
             "linesRemoved": 0,
             "projectName": "CILApp",
             "content": {
