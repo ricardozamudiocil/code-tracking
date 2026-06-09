@@ -1,0 +1,100 @@
+{
+  "date": "2026-06-09",
+  "projects": {
+    "CILApp": {
+      "totalLinesAdded": 1461,
+      "totalLinesRemoved": 0,
+      "totalActiveTime": 5,
+      "files": {
+        "c:\\Pruebas\\SqlExporter\\campaign_sheet_DE.sql": [
+          {
+            "timestamp": "2026-06-09T07:03:20.112Z",
+            "fileName": "c:\\Pruebas\\SqlExporter\\campaign_sheet_DE.sql",
+            "fileType": ".sql",
+            "linesAdded": 31,
+            "linesRemoved": 0,
+            "projectName": "CILApp",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "sql"
+          }
+        ],
+        "c:\\Pruebas\\SqlExporter\\promotions_DE.sql": [
+          {
+            "timestamp": "2026-06-09T07:03:25.079Z",
+            "fileName": "c:\\Pruebas\\SqlExporter\\promotions_DE.sql",
+            "fileType": ".sql",
+            "linesAdded": 15,
+            "linesRemoved": 0,
+            "projectName": "CILApp",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "sql"
+          }
+        ],
+        "c:\\Pruebas\\SqlExporter\\product_list_DE.sql": [
+          {
+            "timestamp": "2026-06-09T07:03:32.284Z",
+            "fileName": "c:\\Pruebas\\SqlExporter\\product_list_DE.sql",
+            "fileType": ".sql",
+            "linesAdded": 33,
+            "linesRemoved": 0,
+            "projectName": "CILApp",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "sql"
+          }
+        ],
+        "c:\\Pruebas\\SqlExporter\\Campaign_Sheet_DE.csv": [
+          {
+            "timestamp": "2026-06-09T07:05:58.602Z",
+            "fileName": "c:\\Pruebas\\SqlExporter\\Campaign_Sheet_DE.csv",
+            "fileType": ".csv",
+            "linesAdded": 1382,
+            "linesRemoved": 0,
+            "projectName": "CILApp",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
+            "language": "csv"
+          }
+        ]
+      },
+      "languageStats": {
+        "sql": 2,
+        "csv": 3
+      },
+      "changeFrequency": {
+        "9": 5
+      },
+      "topFiles": [
+        "c:\\Pruebas\\SqlExporter\\campaign_sheet_DE.sql",
+        "c:\\Pruebas\\SqlExporter\\promotions_DE.sql",
+        "c:\\Pruebas\\SqlExporter\\product_list_DE.sql",
+        "c:\\Pruebas\\SqlExporter\\Campaign_Sheet_DE.csv"
+      ],
+      "averageChangeSize": 365.25
+    }
+  },
+  "totalActiveTime": 5,
+  "totalProjects": 1,
+  "totalFiles": 4,
+  "mostActiveHours": [
+    9
+  ],
+  "mostUsedLanguages": [
+    "csv",
+    "sql"
+  ]
+}
