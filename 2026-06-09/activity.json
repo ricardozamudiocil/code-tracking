@@ -3,7 +3,7 @@
   "projects": {
     "CILApp": {
       "totalLinesAdded": 771803,
-      "totalLinesRemoved": 92,
+      "totalLinesRemoved": 737846,
       "totalActiveTime": 6,
       "files": {
         "c:\\Pruebas\\SqlExporter\\campaign_sheet_DE.sql": [
@@ -119,6 +119,20 @@
             "fileType": ".csv",
             "linesAdded": 770139,
             "linesRemoved": 0,
+            "projectName": "CILApp",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "csv"
+          },
+          {
+            "timestamp": "2026-06-09T14:22:05.349Z",
+            "fileName": "b:\\DSI\\Desarrollo\\2026\\Proyectos\\VDB\\Layouts\\Ficheros\\05_CampaignSheet\\05_Product_list_AT.csv",
+            "fileType": ".csv",
+            "linesAdded": 0,
+            "linesRemoved": 737754,
             "projectName": "CILApp",
             "content": {
               "added": [],
