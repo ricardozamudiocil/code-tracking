@@ -3,8 +3,8 @@
   "projects": {
     "CILApp": {
       "totalLinesAdded": 771803,
-      "totalLinesRemoved": 0,
-      "totalActiveTime": 5,
+      "totalLinesRemoved": 92,
+      "totalActiveTime": 6,
       "files": {
         "c:\\Pruebas\\SqlExporter\\campaign_sheet_DE.sql": [
           {
@@ -65,6 +65,34 @@
               "removed": []
             },
             "duration": 0,
+            "language": "sql"
+          },
+          {
+            "timestamp": "2026-06-09T10:12:01.523Z",
+            "fileName": "c:\\Pruebas\\SqlExporter\\product_list_DE.sql",
+            "fileType": ".sql",
+            "linesAdded": 0,
+            "linesRemoved": 16,
+            "projectName": "CILApp",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "sql"
+          },
+          {
+            "timestamp": "2026-06-09T10:12:13.168Z",
+            "fileName": "c:\\Pruebas\\SqlExporter\\product_list_DE.sql",
+            "fileType": ".sql",
+            "linesAdded": 0,
+            "linesRemoved": 76,
+            "projectName": "CILApp",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
             "language": "sql"
           }
         ],
