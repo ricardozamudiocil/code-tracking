@@ -173,6 +173,56 @@
         "c:\\Pruebas\\SqlExporter\\Campaign_Sheet_DE.csv"
       ],
       "averageChangeSize": 365.25
+    },
+    "CILReports (Workspace)": {
+      "totalLinesAdded": 109,
+      "totalLinesRemoved": 0,
+      "totalActiveTime": 1,
+      "files": {
+        "c:\\Workspace\\CILReports\\src\\main\\resources\\jasper\\properties\\compras\\Label_es_ES.properties": [
+          {
+            "timestamp": "2026-06-09T10:39:54.302Z",
+            "fileName": "c:\\Workspace\\CILReports\\src\\main\\resources\\jasper\\properties\\compras\\Label_es_ES.properties",
+            "fileType": ".properties",
+            "linesAdded": 94,
+            "linesRemoved": 0,
+            "projectName": "CILReports (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "properties"
+          }
+        ],
+        "c:\\Workspace\\CILReports\\src\\main\\resources\\jasper\\properties\\compras\\Label_pt_PT.properties": [
+          {
+            "timestamp": "2026-06-09T10:40:32.484Z",
+            "fileName": "c:\\Workspace\\CILReports\\src\\main\\resources\\jasper\\properties\\compras\\Label_pt_PT.properties",
+            "fileType": ".properties",
+            "linesAdded": 15,
+            "linesRemoved": 0,
+            "projectName": "CILReports (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "properties"
+          }
+        ]
+      },
+      "languageStats": {
+        "properties": 1
+      },
+      "changeFrequency": {
+        "12": 1
+      },
+      "topFiles": [
+        "c:\\Workspace\\CILReports\\src\\main\\resources\\jasper\\properties\\compras\\Label_es_ES.properties",
+        "c:\\Workspace\\CILReports\\src\\main\\resources\\jasper\\properties\\compras\\Label_pt_PT.properties"
+      ],
+      "averageChangeSize": 54.5
     }
   },
   "totalActiveTime": 5,
