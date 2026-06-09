@@ -2,7 +2,7 @@
   "date": "2026-06-09",
   "projects": {
     "CILApp": {
-      "totalLinesAdded": 1461,
+      "totalLinesAdded": 771600,
       "totalLinesRemoved": 0,
       "totalActiveTime": 5,
       "files": {
@@ -67,6 +67,22 @@
               "removed": []
             },
             "duration": 3,
+            "language": "csv"
+          }
+        ],
+        "b:\\DSI\\Desarrollo\\2026\\Proyectos\\VDB\\Layouts\\Ficheros\\05_CampaignSheet\\05_Product_list_AT.csv": [
+          {
+            "timestamp": "2026-06-09T09:03:03.692Z",
+            "fileName": "b:\\DSI\\Desarrollo\\2026\\Proyectos\\VDB\\Layouts\\Ficheros\\05_CampaignSheet\\05_Product_list_AT.csv",
+            "fileType": ".csv",
+            "linesAdded": 770139,
+            "linesRemoved": 0,
+            "projectName": "CILApp",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
             "language": "csv"
           }
         ]
