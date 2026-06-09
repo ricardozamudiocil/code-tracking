@@ -175,7 +175,7 @@
       "averageChangeSize": 365.25
     },
     "CILReports (Workspace)": {
-      "totalLinesAdded": 1002,
+      "totalLinesAdded": 1012,
       "totalLinesRemoved": 1,
       "totalActiveTime": 15,
       "files": {
@@ -268,6 +268,20 @@
               "removed": []
             },
             "duration": 1,
+            "language": "java"
+          },
+          {
+            "timestamp": "2026-06-09T11:22:52.364Z",
+            "fileName": "c:\\Workspace\\CILReports\\src\\main\\java\\cil\\web\\jasper\\repository\\cobros_repository\\JasperCobrosRepository.java",
+            "fileType": ".java",
+            "linesAdded": 10,
+            "linesRemoved": 0,
+            "projectName": "CILReports (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
             "language": "java"
           }
         ],
