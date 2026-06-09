@@ -175,7 +175,7 @@
       "averageChangeSize": 365.25
     },
     "CILReports (Workspace)": {
-      "totalLinesAdded": 882,
+      "totalLinesAdded": 936,
       "totalLinesRemoved": 1,
       "totalActiveTime": 6,
       "files": {
@@ -268,6 +268,22 @@
               "removed": []
             },
             "duration": 1,
+            "language": "java"
+          }
+        ],
+        "c:\\Workspace\\CILReports\\src\\main\\java\\cil\\web\\jasper\\CilJasperReportApplication.java": [
+          {
+            "timestamp": "2026-06-09T10:56:32.837Z",
+            "fileName": "c:\\Workspace\\CILReports\\src\\main\\java\\cil\\web\\jasper\\CilJasperReportApplication.java",
+            "fileType": ".java",
+            "linesAdded": 54,
+            "linesRemoved": 0,
+            "projectName": "CILReports (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
             "language": "java"
           }
         ]
