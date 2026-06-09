@@ -5,8 +5,8 @@
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
 | **Lines Added** (➕)   | 1017                                          |
-| **Lines Removed** (➖) | 1                                        |
-| **Net Change** (↕)    | 1016                |
+| **Lines Removed** (➖) | 5                                        |
+| **Net Change** (↕)    | 1012                |
 | **Active Time** (⌚)   | 15 minutes |
 
 
@@ -16,7 +16,7 @@
 - **JasperCobrosUtil.java** (+263, -0)
 - **JasperCobrosRepository.java** (+520, -1)
 - **CilJasperReportApplication.java** (+54, -0)
-- **JasperCobrosRestController.java** (+63, -0)
+- **JasperCobrosRestController.java** (+63, -4)
 - **settings.json** (+3, -0)
 - **org.eclipse.m2e.core.prefs** (+5, -0)
 
@@ -28,7 +28,7 @@
 pie showData
 title Lines changed by file type
 ".properties" : 109
-".java" : 901
+".java" : 905
 ".json" : 3
 ".prefs" : 5
 ```
@@ -40,8 +40,8 @@ pie showData
 title Coding activity by hour (count of changes)
 "12h" : 8
 "13h" : 3
-"14h" : 1
+"14h" : 2
 ```
 
 
-> **Last Updated:** 6/9/2026, 2:34:17 PM
+> **Last Updated:** 6/9/2026, 2:49:17 PM

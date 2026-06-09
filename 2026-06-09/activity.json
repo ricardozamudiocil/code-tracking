@@ -176,7 +176,7 @@
     },
     "CILReports (Workspace)": {
       "totalLinesAdded": 1017,
-      "totalLinesRemoved": 1,
+      "totalLinesRemoved": 5,
       "totalActiveTime": 15,
       "files": {
         "c:\\Workspace\\CILReports\\src\\main\\resources\\jasper\\properties\\compras\\Label_es_ES.properties": [
@@ -328,6 +328,20 @@
               "removed": []
             },
             "duration": 1,
+            "language": "java"
+          },
+          {
+            "timestamp": "2026-06-09T12:45:20.814Z",
+            "fileName": "c:\\Workspace\\CILReports\\src\\main\\java\\cil\\web\\jasper\\controller\\rest\\cobros\\JasperCobrosRestController.java",
+            "fileType": ".java",
+            "linesAdded": 0,
+            "linesRemoved": 4,
+            "projectName": "CILReports (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
             "language": "java"
           }
         ],
