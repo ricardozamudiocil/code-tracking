@@ -175,9 +175,9 @@
       "averageChangeSize": 365.25
     },
     "CILReports (Workspace)": {
-      "totalLinesAdded": 936,
+      "totalLinesAdded": 1002,
       "totalLinesRemoved": 1,
-      "totalActiveTime": 6,
+      "totalActiveTime": 15,
       "files": {
         "c:\\Workspace\\CILReports\\src\\main\\resources\\jasper\\properties\\compras\\Label_es_ES.properties": [
           {
@@ -285,6 +285,52 @@
             },
             "duration": 0,
             "language": "java"
+          }
+        ],
+        "c:\\Workspace\\CILReports\\src\\main\\java\\cil\\web\\jasper\\controller\\rest\\cobros\\JasperCobrosRestController.java": [
+          {
+            "timestamp": "2026-06-09T10:59:38.251Z",
+            "fileName": "c:\\Workspace\\CILReports\\src\\main\\java\\cil\\web\\jasper\\controller\\rest\\cobros\\JasperCobrosRestController.java",
+            "fileType": ".java",
+            "linesAdded": 59,
+            "linesRemoved": 0,
+            "projectName": "CILReports (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 4,
+            "language": "java"
+          },
+          {
+            "timestamp": "2026-06-09T11:03:03.476Z",
+            "fileName": "c:\\Workspace\\CILReports\\src\\main\\java\\cil\\web\\jasper\\controller\\rest\\cobros\\JasperCobrosRestController.java",
+            "fileType": ".java",
+            "linesAdded": 4,
+            "linesRemoved": 0,
+            "projectName": "CILReports (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "java"
+          }
+        ],
+        "c:\\Workspace\\CILReports\\.vscode\\settings.json": [
+          {
+            "timestamp": "2026-06-09T11:02:58.661Z",
+            "fileName": "c:\\Workspace\\CILReports\\.vscode\\settings.json",
+            "fileType": ".json",
+            "linesAdded": 3,
+            "linesRemoved": 0,
+            "projectName": "CILReports (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 4,
+            "language": "json"
           }
         ]
       },
