@@ -35,9 +35,9 @@
       "averageChangeSize": 6
     },
     "CILApp": {
-      "totalLinesAdded": 8361,
+      "totalLinesAdded": 8488,
       "totalLinesRemoved": 1,
-      "totalActiveTime": 2,
+      "totalActiveTime": 7,
       "files": {
         "c:\\CilAPPP\\CILApp\\src\\cil\\modulos\\recobro\\paneles\\PanelGestionRecobro.java": [
           {
@@ -81,6 +81,20 @@
             },
             "duration": 0,
             "language": "java"
+          },
+          {
+            "timestamp": "2026-06-10T14:30:44.106Z",
+            "fileName": "c:\\CilAPPP\\CILApp\\src\\cil\\modulos\\recobro\\paneles\\PanelGestionRecobro.java",
+            "fileType": ".java",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "CILApp",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "java"
           }
         ],
         "c:\\CilAPPP\\CILApp\\.vscode\\launch.json": [
@@ -113,6 +127,22 @@
             },
             "duration": 0,
             "language": "java"
+          }
+        ],
+        "c:\\Pruebas\\SqlExporter\\product_list_DE_AT_CH.sql": [
+          {
+            "timestamp": "2026-06-10T14:34:43.575Z",
+            "fileName": "c:\\Pruebas\\SqlExporter\\product_list_DE_AT_CH.sql",
+            "fileType": ".sql",
+            "linesAdded": 126,
+            "linesRemoved": 0,
+            "projectName": "CILApp",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 4,
+            "language": "sql"
           }
         ]
       },
