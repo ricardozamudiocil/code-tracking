@@ -35,7 +35,7 @@
       "averageChangeSize": 6
     },
     "CILApp": {
-      "totalLinesAdded": 8488,
+      "totalLinesAdded": 8493,
       "totalLinesRemoved": 1,
       "totalActiveTime": 7,
       "files": {
@@ -142,6 +142,20 @@
               "removed": []
             },
             "duration": 4,
+            "language": "sql"
+          },
+          {
+            "timestamp": "2026-06-10T15:04:19.939Z",
+            "fileName": "c:\\Pruebas\\SqlExporter\\product_list_DE_AT_CH.sql",
+            "fileType": ".sql",
+            "linesAdded": 5,
+            "linesRemoved": 0,
+            "projectName": "CILApp",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
             "language": "sql"
           }
         ]
