@@ -35,7 +35,7 @@
       "averageChangeSize": 6
     },
     "CILApp": {
-      "totalLinesAdded": 4396,
+      "totalLinesAdded": 8361,
       "totalLinesRemoved": 0,
       "totalActiveTime": 2,
       "files": {
@@ -83,6 +83,22 @@
             },
             "duration": 1,
             "language": "json"
+          }
+        ],
+        "c:\\CilAPPP\\CILApp\\src\\cil\\modulos\\cobros\\paneles\\PanelPedidosCobros.java": [
+          {
+            "timestamp": "2026-06-10T11:55:47.476Z",
+            "fileName": "c:\\CilAPPP\\CILApp\\src\\cil\\modulos\\cobros\\paneles\\PanelPedidosCobros.java",
+            "fileType": ".java",
+            "linesAdded": 3965,
+            "linesRemoved": 0,
+            "projectName": "CILApp",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "java"
           }
         ]
       },
