@@ -33,6 +33,71 @@
         "b:\\DSI\\Desarrollo\\2026\\Proyectos\\VDB\\Layouts\\SQL\\05_Campaign_promotions_products\\product_list_DE_AT_CH.sql"
       ],
       "averageChangeSize": 6
+    },
+    "CILApp": {
+      "totalLinesAdded": 4396,
+      "totalLinesRemoved": 0,
+      "totalActiveTime": 2,
+      "files": {
+        "c:\\CilAPPP\\CILApp\\src\\cil\\modulos\\recobro\\paneles\\PanelGestionRecobro.java": [
+          {
+            "timestamp": "2026-06-10T10:58:54.462Z",
+            "fileName": "c:\\CilAPPP\\CILApp\\src\\cil\\modulos\\recobro\\paneles\\PanelGestionRecobro.java",
+            "fileType": ".java",
+            "linesAdded": 3229,
+            "linesRemoved": 0,
+            "projectName": "CILApp",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "java"
+          },
+          {
+            "timestamp": "2026-06-10T10:59:16.764Z",
+            "fileName": "c:\\CilAPPP\\CILApp\\src\\cil\\modulos\\recobro\\paneles\\PanelGestionRecobro.java",
+            "fileType": ".java",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "CILApp",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "java"
+          }
+        ],
+        "c:\\CilAPPP\\CILApp\\.vscode\\launch.json": [
+          {
+            "timestamp": "2026-06-10T10:59:41.079Z",
+            "fileName": "c:\\CilAPPP\\CILApp\\.vscode\\launch.json",
+            "fileType": ".json",
+            "linesAdded": 1166,
+            "linesRemoved": 0,
+            "projectName": "CILApp",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "json"
+          }
+        ]
+      },
+      "languageStats": {
+        "java": 1,
+        "json": 1
+      },
+      "changeFrequency": {
+        "12": 2
+      },
+      "topFiles": [
+        "c:\\CilAPPP\\CILApp\\src\\cil\\modulos\\recobro\\paneles\\PanelGestionRecobro.java",
+        "c:\\CilAPPP\\CILApp\\.vscode\\launch.json"
+      ],
+      "averageChangeSize": 1465.3333333333333
     }
   },
   "totalActiveTime": 0,
