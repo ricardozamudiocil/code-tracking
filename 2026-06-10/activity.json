@@ -35,9 +35,9 @@
       "averageChangeSize": 6
     },
     "CILApp": {
-      "totalLinesAdded": 8721,
+      "totalLinesAdded": 9610,
       "totalLinesRemoved": 1,
-      "totalActiveTime": 7,
+      "totalActiveTime": 12,
       "files": {
         "c:\\CilAPPP\\CILApp\\src\\cil\\modulos\\recobro\\paneles\\PanelGestionRecobro.java": [
           {
@@ -189,6 +189,22 @@
             },
             "duration": 0,
             "language": "sql"
+          }
+        ],
+        "b:\\DSI\\Desarrollo\\2026\\Proyectos\\VDB\\Layouts\\Ficheros\\05_CampaignSheet\\05_Product_list_AT.csv": [
+          {
+            "timestamp": "2026-06-10T15:26:21.935Z",
+            "fileName": "b:\\DSI\\Desarrollo\\2026\\Proyectos\\VDB\\Layouts\\Ficheros\\05_CampaignSheet\\05_Product_list_AT.csv",
+            "fileType": ".csv",
+            "linesAdded": 889,
+            "linesRemoved": 0,
+            "projectName": "CILApp",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 5,
+            "language": "csv"
           }
         ]
       },
