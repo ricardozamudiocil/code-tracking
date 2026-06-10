@@ -35,7 +35,7 @@
       "averageChangeSize": 6
     },
     "CILApp": {
-      "totalLinesAdded": 8493,
+      "totalLinesAdded": 8624,
       "totalLinesRemoved": 1,
       "totalActiveTime": 7,
       "files": {
@@ -149,6 +149,22 @@
             "fileName": "c:\\Pruebas\\SqlExporter\\product_list_DE_AT_CH.sql",
             "fileType": ".sql",
             "linesAdded": 5,
+            "linesRemoved": 0,
+            "projectName": "CILApp",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "sql"
+          }
+        ],
+        "b:\\DSI\\Desarrollo\\2026\\Proyectos\\VDB\\Layouts\\SQL\\05_Campaign_promotions_products\\product_list_DE_AT_CH.sql": [
+          {
+            "timestamp": "2026-06-10T15:11:03.762Z",
+            "fileName": "b:\\DSI\\Desarrollo\\2026\\Proyectos\\VDB\\Layouts\\SQL\\05_Campaign_promotions_products\\product_list_DE_AT_CH.sql",
+            "fileType": ".sql",
+            "linesAdded": 131,
             "linesRemoved": 0,
             "projectName": "CILApp",
             "content": {
