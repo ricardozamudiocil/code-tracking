@@ -1,0 +1,47 @@
+{
+  "date": "2026-06-10",
+  "projects": {
+    "CILReports (Workspace)": {
+      "totalLinesAdded": 6,
+      "totalLinesRemoved": 0,
+      "totalActiveTime": 0,
+      "files": {
+        "b:\\DSI\\Desarrollo\\2026\\Proyectos\\VDB\\Layouts\\SQL\\05_Campaign_promotions_products\\product_list_DE_AT_CH.sql": [
+          {
+            "timestamp": "2026-06-10T10:43:20.603Z",
+            "fileName": "b:\\DSI\\Desarrollo\\2026\\Proyectos\\VDB\\Layouts\\SQL\\05_Campaign_promotions_products\\product_list_DE_AT_CH.sql",
+            "fileType": ".sql",
+            "linesAdded": 6,
+            "linesRemoved": 0,
+            "projectName": "CILReports (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "sql"
+          }
+        ]
+      },
+      "languageStats": {
+        "sql": 0
+      },
+      "changeFrequency": {
+        "12": 0
+      },
+      "topFiles": [
+        "b:\\DSI\\Desarrollo\\2026\\Proyectos\\VDB\\Layouts\\SQL\\05_Campaign_promotions_products\\product_list_DE_AT_CH.sql"
+      ],
+      "averageChangeSize": 6
+    }
+  },
+  "totalActiveTime": 0,
+  "totalProjects": 1,
+  "totalFiles": 1,
+  "mostActiveHours": [
+    12
+  ],
+  "mostUsedLanguages": [
+    "sql"
+  ]
+}
