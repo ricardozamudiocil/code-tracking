@@ -2,9 +2,9 @@
   "date": "2026-06-11",
   "projects": {
     "CILReports (Workspace)": {
-      "totalLinesAdded": 525,
-      "totalLinesRemoved": 14,
-      "totalActiveTime": 4,
+      "totalLinesAdded": 539,
+      "totalLinesRemoved": 28,
+      "totalActiveTime": 10,
       "files": {
         "c:\\Workspace\\CILReports\\src\\main\\java\\cil\\web\\jasper\\repository\\cobros_repository\\JasperCobrosRepository.java": [
           {
@@ -33,6 +33,34 @@
               "removed": []
             },
             "duration": 0,
+            "language": "java"
+          },
+          {
+            "timestamp": "2026-06-11T06:51:20.778Z",
+            "fileName": "c:\\Workspace\\CILReports\\src\\main\\java\\cil\\web\\jasper\\repository\\cobros_repository\\JasperCobrosRepository.java",
+            "fileType": ".java",
+            "linesAdded": 0,
+            "linesRemoved": 10,
+            "projectName": "CILReports (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "java"
+          },
+          {
+            "timestamp": "2026-06-11T06:52:26.569Z",
+            "fileName": "c:\\Workspace\\CILReports\\src\\main\\java\\cil\\web\\jasper\\repository\\cobros_repository\\JasperCobrosRepository.java",
+            "fileType": ".java",
+            "linesAdded": 10,
+            "linesRemoved": 0,
+            "projectName": "CILReports (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
             "language": "java"
           }
         ],
@@ -69,6 +97,34 @@
           },
           {
             "timestamp": "2026-06-11T06:45:00.623Z",
+            "fileName": "c:\\Workspace\\CILReports\\src\\main\\java\\cil\\web\\jasper\\util\\cobros\\JasperCobrosUtil.java",
+            "fileType": ".java",
+            "linesAdded": 0,
+            "linesRemoved": 4,
+            "projectName": "CILReports (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "java"
+          },
+          {
+            "timestamp": "2026-06-11T06:52:26.543Z",
+            "fileName": "c:\\Workspace\\CILReports\\src\\main\\java\\cil\\web\\jasper\\util\\cobros\\JasperCobrosUtil.java",
+            "fileType": ".java",
+            "linesAdded": 4,
+            "linesRemoved": 0,
+            "projectName": "CILReports (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "java"
+          },
+          {
+            "timestamp": "2026-06-11T06:53:43.155Z",
             "fileName": "c:\\Workspace\\CILReports\\src\\main\\java\\cil\\web\\jasper\\util\\cobros\\JasperCobrosUtil.java",
             "fileType": ".java",
             "linesAdded": 0,
