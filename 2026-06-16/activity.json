@@ -2,9 +2,9 @@
   "date": "2026-06-16",
   "projects": {
     "CILApp": {
-      "totalLinesAdded": 1339,
+      "totalLinesAdded": 2199,
       "totalLinesRemoved": 8,
-      "totalActiveTime": 10,
+      "totalActiveTime": 17,
       "files": {
         "c:\\CilAPPP\\CILApp\\.vscode\\launch.json": [
           {
@@ -76,6 +76,20 @@
             },
             "duration": 1,
             "language": "json"
+          },
+          {
+            "timestamp": "2026-06-16T10:12:41.018Z",
+            "fileName": "c:\\CilAPPP\\CILApp\\.vscode\\launch.json",
+            "fileType": ".json",
+            "linesAdded": 5,
+            "linesRemoved": 0,
+            "projectName": "CILApp",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "json"
           }
         ],
         "c:\\Pruebas\\SqlExporter\\Fihcero pedidos seguro\\pedidos_seg.sql": [
@@ -136,6 +150,54 @@
             },
             "duration": 0,
             "language": "sql"
+          }
+        ],
+        "c:\\CilAPPP\\CILApp\\src\\cil\\sqltools\\SQLExporterWhThreads copy.java": [
+          {
+            "timestamp": "2026-06-16T10:16:57.133Z",
+            "fileName": "c:\\CilAPPP\\CILApp\\src\\cil\\sqltools\\SQLExporterWhThreads copy.java",
+            "fileType": ".java",
+            "linesAdded": 285,
+            "linesRemoved": 0,
+            "projectName": "CILApp",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 5,
+            "language": "java"
+          }
+        ],
+        "c:\\CilAPPP\\CILApp\\src\\cil\\sqltools\\public class SQLExporterWhThreadsOpt.java": [
+          {
+            "timestamp": "2026-06-16T10:17:13.424Z",
+            "fileName": "c:\\CilAPPP\\CILApp\\src\\cil\\sqltools\\public class SQLExporterWhThreadsOpt.java",
+            "fileType": ".java",
+            "linesAdded": 285,
+            "linesRemoved": 0,
+            "projectName": "CILApp",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "java"
+          }
+        ],
+        "c:\\CilAPPP\\CILApp\\src\\cil\\sqltools\\SQLExporterWhThreadsOpt.java": [
+          {
+            "timestamp": "2026-06-16T10:17:20.668Z",
+            "fileName": "c:\\CilAPPP\\CILApp\\src\\cil\\sqltools\\SQLExporterWhThreadsOpt.java",
+            "fileType": ".java",
+            "linesAdded": 285,
+            "linesRemoved": 0,
+            "projectName": "CILApp",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "java"
           }
         ]
       },
