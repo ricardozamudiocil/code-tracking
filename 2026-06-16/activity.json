@@ -2,7 +2,7 @@
   "date": "2026-06-16",
   "projects": {
     "CILApp": {
-      "totalLinesAdded": 1333,
+      "totalLinesAdded": 1339,
       "totalLinesRemoved": 8,
       "totalActiveTime": 10,
       "files": {
@@ -121,6 +121,20 @@
               "removed": []
             },
             "duration": 1,
+            "language": "sql"
+          },
+          {
+            "timestamp": "2026-06-16T09:07:43.394Z",
+            "fileName": "c:\\Pruebas\\SqlExporter\\Fichero pedidos seguro\\pedidos_seg.sql",
+            "fileType": ".sql",
+            "linesAdded": 6,
+            "linesRemoved": 0,
+            "projectName": "CILApp",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
             "language": "sql"
           }
         ]
