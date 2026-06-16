@@ -2,9 +2,9 @@
   "date": "2026-06-16",
   "projects": {
     "CILApp": {
-      "totalLinesAdded": 1166,
+      "totalLinesAdded": 1262,
       "totalLinesRemoved": 0,
-      "totalActiveTime": 0,
+      "totalActiveTime": 7,
       "files": {
         "c:\\CilAPPP\\CILApp\\.vscode\\launch.json": [
           {
@@ -20,6 +20,36 @@
             },
             "duration": 0,
             "language": "json"
+          },
+          {
+            "timestamp": "2026-06-16T07:23:42.910Z",
+            "fileName": "c:\\CilAPPP\\CILApp\\.vscode\\launch.json",
+            "fileType": ".json",
+            "linesAdded": 28,
+            "linesRemoved": 0,
+            "projectName": "CILApp",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 5,
+            "language": "json"
+          }
+        ],
+        "c:\\Pruebas\\SqlExporter\\Fihcero pedidos seguro\\pedidos_seg.sql": [
+          {
+            "timestamp": "2026-06-16T07:24:48.608Z",
+            "fileName": "c:\\Pruebas\\SqlExporter\\Fihcero pedidos seguro\\pedidos_seg.sql",
+            "fileType": ".sql",
+            "linesAdded": 68,
+            "linesRemoved": 0,
+            "projectName": "CILApp",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "sql"
           }
         ]
       },
