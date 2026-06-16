@@ -3,7 +3,7 @@
   "projects": {
     "CILApp": {
       "totalLinesAdded": 2604,
-      "totalLinesRemoved": 8,
+      "totalLinesRemoved": 202,
       "totalActiveTime": 17,
       "files": {
         "c:\\CilAPPP\\CILApp\\.vscode\\launch.json": [
@@ -205,6 +205,20 @@
             "fileType": ".java",
             "linesAdded": 405,
             "linesRemoved": 0,
+            "projectName": "CILApp",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "java"
+          },
+          {
+            "timestamp": "2026-06-16T10:40:10.253Z",
+            "fileName": "c:\\CilAPPP\\CILApp\\src\\cil\\sqltools\\SQLExporterWhThreadsOpt.java",
+            "fileType": ".java",
+            "linesAdded": 0,
+            "linesRemoved": 194,
             "projectName": "CILApp",
             "content": {
               "added": [],
