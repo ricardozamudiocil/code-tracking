@@ -93,6 +93,39 @@
         "c:\\CilAPPP\\CILApp\\src\\cil\\modulos\\promociones\\batch\\SeleccionVendedoresDC.java"
       ],
       "averageChangeSize": 1860
+    },
+    "CILReports (Workspace)": {
+      "totalLinesAdded": 14,
+      "totalLinesRemoved": 0,
+      "totalActiveTime": 0,
+      "files": {
+        "c:\\Workspace\\CILReports\\.vscode\\launch.json": [
+          {
+            "timestamp": "2026-06-17T09:21:03.958Z",
+            "fileName": "c:\\Workspace\\CILReports\\.vscode\\launch.json",
+            "fileType": ".json",
+            "linesAdded": 14,
+            "linesRemoved": 0,
+            "projectName": "CILReports (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "json"
+          }
+        ]
+      },
+      "languageStats": {
+        "json": 0
+      },
+      "changeFrequency": {
+        "11": 0
+      },
+      "topFiles": [
+        "c:\\Workspace\\CILReports\\.vscode\\launch.json"
+      ],
+      "averageChangeSize": 14
     }
   },
   "totalActiveTime": 0,
