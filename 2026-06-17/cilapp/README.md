@@ -4,14 +4,16 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 1892                                          |
-| **Lines Removed** (➖) | 0                                        |
-| **Net Change** (↕)    | 1892                |
-| **Active Time** (⌚)   | 0 minute |
+| **Lines Added** (➕)   | 2054                                          |
+| **Lines Removed** (➖) | 6                                        |
+| **Net Change** (↕)    | 2048                |
+| **Active Time** (⌚)   | 2 minutes |
 
 
 ## Modified Files
 - **SeleccionVendedoresDC.java** (+1892, -0)
+- **20260616_151052_PROMO_VEND_DC.log** (+162, -0)
+- **launch.json** (+0, -6)
 
 ## Visualizations
 
@@ -21,6 +23,8 @@
 pie showData
 title Lines changed by file type
 ".java" : 1892
+".log" : 162
+".json" : 6
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -29,7 +33,8 @@ title Lines changed by file type
 pie showData
 title Coding activity by hour (count of changes)
 "09h" : 2
+"10h" : 3
 ```
 
 
-> **Last Updated:** 6/17/2026, 10:01:12 AM
+> **Last Updated:** 6/17/2026, 10:11:12 AM
