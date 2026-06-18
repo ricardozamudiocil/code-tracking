@@ -4,14 +4,15 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 32                                          |
+| **Lines Added** (➕)   | 1213                                          |
 | **Lines Removed** (➖) | 64                                        |
-| **Net Change** (↕)    | -32                |
+| **Net Change** (↕)    | 1149                |
 | **Active Time** (⌚)   | 1 minute |
 
 
 ## Modified Files
 - **SeleccionVendedoresDC.java** (+32, -64)
+- **launch.json** (+1181, -0)
 
 ## Visualizations
 
@@ -21,6 +22,7 @@
 pie showData
 title Lines changed by file type
 ".java" : 96
+".json" : 1181
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -31,7 +33,8 @@ title Coding activity by hour (count of changes)
 "08h" : 2
 "09h" : 1
 "11h" : 1
+"14h" : 1
 ```
 
 
-> **Last Updated:** 6/18/2026, 11:47:30 AM
+> **Last Updated:** 6/18/2026, 2:48:57 PM
