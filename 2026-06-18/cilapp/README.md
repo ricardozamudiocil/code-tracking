@@ -5,13 +5,13 @@
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
 | **Lines Added** (➕)   | 32                                          |
-| **Lines Removed** (➖) | 32                                        |
-| **Net Change** (↕)    | 0                |
+| **Lines Removed** (➖) | 38                                        |
+| **Net Change** (↕)    | -6                |
 | **Active Time** (⌚)   | 1 minute |
 
 
 ## Modified Files
-- **SeleccionVendedoresDC.java** (+32, -32)
+- **SeleccionVendedoresDC.java** (+32, -38)
 
 ## Visualizations
 
@@ -20,7 +20,7 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".java" : 64
+".java" : 70
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -29,7 +29,8 @@ title Lines changed by file type
 pie showData
 title Coding activity by hour (count of changes)
 "08h" : 2
+"09h" : 1
 ```
 
 
-> **Last Updated:** 6/18/2026, 8:42:30 AM
+> **Last Updated:** 6/18/2026, 9:17:30 AM
