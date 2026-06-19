@@ -1,0 +1,47 @@
+{
+  "date": "2026-06-19",
+  "projects": {
+    "CILReports": {
+      "totalLinesAdded": 15,
+      "totalLinesRemoved": 0,
+      "totalActiveTime": 0,
+      "files": {
+        "c:\\Workspace\\CILReports\\src\\main\\resources\\jasper\\properties\\compras\\Label_pt_PT.properties": [
+          {
+            "timestamp": "2026-06-19T09:53:25.005Z",
+            "fileName": "c:\\Workspace\\CILReports\\src\\main\\resources\\jasper\\properties\\compras\\Label_pt_PT.properties",
+            "fileType": ".properties",
+            "linesAdded": 15,
+            "linesRemoved": 0,
+            "projectName": "CILReports",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "properties"
+          }
+        ]
+      },
+      "languageStats": {
+        "properties": 0
+      },
+      "changeFrequency": {
+        "11": 0
+      },
+      "topFiles": [
+        "c:\\Workspace\\CILReports\\src\\main\\resources\\jasper\\properties\\compras\\Label_pt_PT.properties"
+      ],
+      "averageChangeSize": 15
+    }
+  },
+  "totalActiveTime": 0,
+  "totalProjects": 1,
+  "totalFiles": 1,
+  "mostActiveHours": [
+    11
+  ],
+  "mostUsedLanguages": [
+    "properties"
+  ]
+}
