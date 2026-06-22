@@ -1,0 +1,75 @@
+{
+  "date": "2026-06-22",
+  "projects": {
+    "CILReports (Workspace)": {
+      "totalLinesAdded": 109,
+      "totalLinesRemoved": 1,
+      "totalActiveTime": 2,
+      "files": {
+        "c:\\Workspace\\lib-sso\\pom.xml": [
+          {
+            "timestamp": "2026-06-22T13:18:27.292Z",
+            "fileName": "c:\\Workspace\\lib-sso\\pom.xml",
+            "fileType": ".xml",
+            "linesAdded": 108,
+            "linesRemoved": 0,
+            "projectName": "CILReports (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "xml"
+          },
+          {
+            "timestamp": "2026-06-22T13:18:27.729Z",
+            "fileName": "c:\\Workspace\\lib-sso\\pom.xml",
+            "fileType": ".xml",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "CILReports (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "xml"
+          },
+          {
+            "timestamp": "2026-06-22T13:18:32.505Z",
+            "fileName": "c:\\Workspace\\lib-sso\\pom.xml",
+            "fileType": ".xml",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "CILReports (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "xml"
+          }
+        ]
+      },
+      "languageStats": {
+        "xml": 2
+      },
+      "changeFrequency": {
+        "15": 2
+      },
+      "topFiles": [
+        "c:\\Workspace\\lib-sso\\pom.xml"
+      ],
+      "averageChangeSize": 36.666666666666664
+    }
+  },
+  "totalActiveTime": 2,
+  "totalProjects": 1,
+  "totalFiles": 1,
+  "mostActiveHours": [
+    15
+  ],
+  "mostUsedLanguages": [
+    "xml"
+  ]
+}
