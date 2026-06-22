@@ -91,6 +91,53 @@
         "c:\\Workspace\\lib-sso\\pom.xml"
       ],
       "averageChangeSize": 36.666666666666664
+    },
+    "CILApp": {
+      "totalLinesAdded": 3232,
+      "totalLinesRemoved": 0,
+      "totalActiveTime": 1,
+      "files": {
+        "c:\\CilAPPP\\CILApp\\src\\cil\\modulos\\recobro\\paneles\\PanelGestionRecobro.java": [
+          {
+            "timestamp": "2026-06-22T13:49:49.764Z",
+            "fileName": "c:\\CilAPPP\\CILApp\\src\\cil\\modulos\\recobro\\paneles\\PanelGestionRecobro.java",
+            "fileType": ".java",
+            "linesAdded": 3230,
+            "linesRemoved": 0,
+            "projectName": "CILApp",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "java"
+          },
+          {
+            "timestamp": "2026-06-22T13:50:00.207Z",
+            "fileName": "c:\\CilAPPP\\CILApp\\src\\cil\\modulos\\recobro\\paneles\\PanelGestionRecobro.java",
+            "fileType": ".java",
+            "linesAdded": 2,
+            "linesRemoved": 0,
+            "projectName": "CILApp",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "java"
+          }
+        ]
+      },
+      "languageStats": {
+        "java": 1
+      },
+      "changeFrequency": {
+        "15": 1
+      },
+      "topFiles": [
+        "c:\\CilAPPP\\CILApp\\src\\cil\\modulos\\recobro\\paneles\\PanelGestionRecobro.java"
+      ],
+      "averageChangeSize": 1616
     }
   },
   "totalActiveTime": 2,
