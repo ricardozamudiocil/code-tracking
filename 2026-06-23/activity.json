@@ -1,0 +1,47 @@
+{
+  "date": "2026-06-23",
+  "projects": {
+    "CILReports": {
+      "totalLinesAdded": 226,
+      "totalLinesRemoved": 0,
+      "totalActiveTime": 0,
+      "files": {
+        "c:\\Workspace\\CILReports\\src\\main\\java\\cil\\web\\jasper\\repository\\recobro_repository\\queries\\RecobroSqlQueries.java": [
+          {
+            "timestamp": "2026-06-23T08:18:39.782Z",
+            "fileName": "c:\\Workspace\\CILReports\\src\\main\\java\\cil\\web\\jasper\\repository\\recobro_repository\\queries\\RecobroSqlQueries.java",
+            "fileType": ".java",
+            "linesAdded": 226,
+            "linesRemoved": 0,
+            "projectName": "CILReports",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "java"
+          }
+        ]
+      },
+      "languageStats": {
+        "java": 0
+      },
+      "changeFrequency": {
+        "10": 0
+      },
+      "topFiles": [
+        "c:\\Workspace\\CILReports\\src\\main\\java\\cil\\web\\jasper\\repository\\recobro_repository\\queries\\RecobroSqlQueries.java"
+      ],
+      "averageChangeSize": 226
+    }
+  },
+  "totalActiveTime": 0,
+  "totalProjects": 1,
+  "totalFiles": 1,
+  "mostActiveHours": [
+    10
+  ],
+  "mostUsedLanguages": [
+    "java"
+  ]
+}
