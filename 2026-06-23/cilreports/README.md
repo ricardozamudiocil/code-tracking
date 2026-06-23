@@ -5,13 +5,13 @@
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
 | **Lines Added** (➕)   | 226                                          |
-| **Lines Removed** (➖) | 0                                        |
-| **Net Change** (↕)    | 226                |
-| **Active Time** (⌚)   | 0 minute |
+| **Lines Removed** (➖) | 7                                        |
+| **Net Change** (↕)    | 219                |
+| **Active Time** (⌚)   | 5 minutes |
 
 
 ## Modified Files
-- **RecobroSqlQueries.java** (+226, -0)
+- **RecobroSqlQueries.java** (+226, -7)
 
 ## Visualizations
 
@@ -20,7 +20,7 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".java" : 226
+".java" : 233
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -28,8 +28,8 @@ title Lines changed by file type
 ```mermaid
 pie showData
 title Coding activity by hour (count of changes)
-"10h" : 1
+"10h" : 2
 ```
 
 
-> **Last Updated:** 6/23/2026, 10:21:51 AM
+> **Last Updated:** 6/23/2026, 10:26:51 AM
