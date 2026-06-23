@@ -111,8 +111,8 @@
     },
     "CILApp": {
       "totalLinesAdded": 2056,
-      "totalLinesRemoved": 7,
-      "totalActiveTime": 16,
+      "totalLinesRemoved": 23,
+      "totalActiveTime": 19,
       "files": {
         "c:\\CilAPPP\\CILApp\\src\\cil\\modulos\\recobro\\paneles\\PanelGestionRecobro.java": [
           {
@@ -165,6 +165,20 @@
             "fileType": ".java",
             "linesAdded": 0,
             "linesRemoved": 1,
+            "projectName": "CILApp",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
+            "language": "java"
+          },
+          {
+            "timestamp": "2026-06-23T09:28:57.695Z",
+            "fileName": "c:\\CilAPPP\\CILApp\\src\\cil\\modulos\\distribucion\\BatchServer\\cilcustomercom\\util\\http\\CilReportClient.java",
+            "fileType": ".java",
+            "linesAdded": 0,
+            "linesRemoved": 16,
             "projectName": "CILApp",
             "content": {
               "added": [],
