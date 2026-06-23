@@ -110,9 +110,9 @@
       "averageChangeSize": 7
     },
     "CILApp": {
-      "totalLinesAdded": 1936,
-      "totalLinesRemoved": 3,
-      "totalActiveTime": 9,
+      "totalLinesAdded": 2056,
+      "totalLinesRemoved": 7,
+      "totalActiveTime": 16,
       "files": {
         "c:\\CilAPPP\\CILApp\\src\\cil\\modulos\\recobro\\paneles\\PanelGestionRecobro.java": [
           {
@@ -188,6 +188,52 @@
             },
             "duration": 0,
             "language": "java"
+          }
+        ],
+        "c:\\Pruebas\\SqlExporter\\06_SingleSalesOrders\\06_singleSaleOrders.sql": [
+          {
+            "timestamp": "2026-06-23T09:24:50.319Z",
+            "fileName": "c:\\Pruebas\\SqlExporter\\06_SingleSalesOrders\\06_singleSaleOrders.sql",
+            "fileType": ".sql",
+            "linesAdded": 92,
+            "linesRemoved": 0,
+            "projectName": "CILApp",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 4,
+            "language": "sql"
+          }
+        ],
+        "c:\\CilAPPP\\CILApp\\.vscode\\launch.json": [
+          {
+            "timestamp": "2026-06-23T09:26:30.681Z",
+            "fileName": "c:\\CilAPPP\\CILApp\\.vscode\\launch.json",
+            "fileType": ".json",
+            "linesAdded": 28,
+            "linesRemoved": 0,
+            "projectName": "CILApp",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "json"
+          },
+          {
+            "timestamp": "2026-06-23T09:26:38.602Z",
+            "fileName": "c:\\CilAPPP\\CILApp\\.vscode\\launch.json",
+            "fileType": ".json",
+            "linesAdded": 0,
+            "linesRemoved": 4,
+            "projectName": "CILApp",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "json"
           }
         ]
       },
