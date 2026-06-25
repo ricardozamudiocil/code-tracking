@@ -51,9 +51,9 @@
       "averageChangeSize": 7
     },
     "CILApp": {
-      "totalLinesAdded": 4131,
-      "totalLinesRemoved": 3,
-      "totalActiveTime": 9,
+      "totalLinesAdded": 4323,
+      "totalLinesRemoved": 570,
+      "totalActiveTime": 11,
       "files": {
         "c:\\CilAPPP\\CILApp\\src\\cil\\modulos\\asesoria\\BatchServer\\PrototipoMigracionJasper.java": [
           {
@@ -169,6 +169,52 @@
             },
             "duration": 1,
             "language": "java"
+          },
+          {
+            "timestamp": "2026-06-25T13:41:17.485Z",
+            "fileName": "c:\\CilAPPP\\CILApp\\src\\cil\\modulos\\asesoria\\BatchServer\\PresentacionMonitorios.java",
+            "fileType": ".java",
+            "linesAdded": 0,
+            "linesRemoved": 567,
+            "projectName": "CILApp",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "java"
+          }
+        ],
+        "c:\\CilAPPP\\CILApp\\src\\cil\\modulos\\promociones\\batch\\SeleccionVendedoresDC.java": [
+          {
+            "timestamp": "2026-06-25T13:41:32.810Z",
+            "fileName": "c:\\CilAPPP\\CILApp\\src\\cil\\modulos\\promociones\\batch\\SeleccionVendedoresDC.java",
+            "fileType": ".java",
+            "linesAdded": 26,
+            "linesRemoved": 0,
+            "projectName": "CILApp",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "java"
+          }
+        ],
+        "c:\\CilAPPP\\CILApp\\pom.xml": [
+          {
+            "timestamp": "2026-06-25T13:41:32.868Z",
+            "fileName": "c:\\CilAPPP\\CILApp\\pom.xml",
+            "fileType": ".xml",
+            "linesAdded": 166,
+            "linesRemoved": 0,
+            "projectName": "CILApp",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "xml"
           }
         ]
       },
