@@ -4,15 +4,15 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 4323                                          |
+| **Lines Added** (➕)   | 4890                                          |
 | **Lines Removed** (➖) | 570                                        |
-| **Net Change** (↕)    | 3753                |
-| **Active Time** (⌚)   | 11 minutes |
+| **Net Change** (↕)    | 4320                |
+| **Active Time** (⌚)   | 12 minutes |
 
 
 ## Modified Files
 - **PrototipoMigracionJasper.java** (+1, -0)
-- **PresentacionMonitorios.java** (+4130, -570)
+- **PresentacionMonitorios.java** (+4697, -570)
 - **SeleccionVendedoresDC.java** (+26, -0)
 - **pom.xml** (+166, -0)
 
@@ -23,7 +23,7 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".java" : 4727
+".java" : 5294
 ".xml" : 166
 ```
 
@@ -33,8 +33,8 @@ title Lines changed by file type
 pie showData
 title Coding activity by hour (count of changes)
 "14h" : 3
-"15h" : 8
+"15h" : 9
 ```
 
 
-> **Last Updated:** 6/25/2026, 3:41:46 PM
+> **Last Updated:** 6/25/2026, 3:46:46 PM

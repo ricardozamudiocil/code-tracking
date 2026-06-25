@@ -51,9 +51,9 @@
       "averageChangeSize": 7
     },
     "CILApp": {
-      "totalLinesAdded": 4323,
+      "totalLinesAdded": 4890,
       "totalLinesRemoved": 570,
-      "totalActiveTime": 11,
+      "totalActiveTime": 12,
       "files": {
         "c:\\CilAPPP\\CILApp\\src\\cil\\modulos\\asesoria\\BatchServer\\PrototipoMigracionJasper.java": [
           {
@@ -182,6 +182,20 @@
               "removed": []
             },
             "duration": 0,
+            "language": "java"
+          },
+          {
+            "timestamp": "2026-06-25T13:42:22.848Z",
+            "fileName": "c:\\CilAPPP\\CILApp\\src\\cil\\modulos\\asesoria\\BatchServer\\PresentacionMonitorios.java",
+            "fileType": ".java",
+            "linesAdded": 567,
+            "linesRemoved": 0,
+            "projectName": "CILApp",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
             "language": "java"
           }
         ],
