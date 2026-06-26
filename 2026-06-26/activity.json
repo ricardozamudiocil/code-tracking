@@ -1,0 +1,47 @@
+{
+  "date": "2026-06-26",
+  "projects": {
+    "CILApp": {
+      "totalLinesAdded": 0,
+      "totalLinesRemoved": 567,
+      "totalActiveTime": 0,
+      "files": {
+        "c:\\CilAPPP\\CILApp\\src\\cil\\modulos\\asesoria\\BatchServer\\PresentacionMonitorios.java": [
+          {
+            "timestamp": "2026-06-26T08:14:19.488Z",
+            "fileName": "c:\\CilAPPP\\CILApp\\src\\cil\\modulos\\asesoria\\BatchServer\\PresentacionMonitorios.java",
+            "fileType": ".java",
+            "linesAdded": 0,
+            "linesRemoved": 567,
+            "projectName": "CILApp",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "java"
+          }
+        ]
+      },
+      "languageStats": {
+        "java": 0
+      },
+      "changeFrequency": {
+        "10": 0
+      },
+      "topFiles": [
+        "c:\\CilAPPP\\CILApp\\src\\cil\\modulos\\asesoria\\BatchServer\\PresentacionMonitorios.java"
+      ],
+      "averageChangeSize": 567
+    }
+  },
+  "totalActiveTime": 0,
+  "totalProjects": 1,
+  "totalFiles": 1,
+  "mostActiveHours": [
+    10
+  ],
+  "mostUsedLanguages": [
+    "java"
+  ]
+}
