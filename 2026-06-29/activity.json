@@ -154,9 +154,9 @@
       "averageChangeSize": 50
     },
     "CILApp": {
-      "totalLinesAdded": 0,
-      "totalLinesRemoved": 5,
-      "totalActiveTime": 0,
+      "totalLinesAdded": 1598,
+      "totalLinesRemoved": 94,
+      "totalActiveTime": 4,
       "files": {
         "c:\\CilAPPP\\CILApp\\src\\cil\\modulos\\selextra\\batch\\InterfaceProductsIPROB.java": [
           {
@@ -171,6 +171,36 @@
               "removed": []
             },
             "duration": 0,
+            "language": "java"
+          }
+        ],
+        "c:\\CilAPPP\\CILApp\\src\\cil\\modulos\\asesoria\\BatchServer\\IntroDatosAsesoriaAutomatico.java": [
+          {
+            "timestamp": "2026-06-29T11:14:40.500Z",
+            "fileName": "c:\\CilAPPP\\CILApp\\src\\cil\\modulos\\asesoria\\BatchServer\\IntroDatosAsesoriaAutomatico.java",
+            "fileType": ".java",
+            "linesAdded": 1598,
+            "linesRemoved": 0,
+            "projectName": "CILApp",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "java"
+          },
+          {
+            "timestamp": "2026-06-29T11:16:40.951Z",
+            "fileName": "c:\\CilAPPP\\CILApp\\src\\cil\\modulos\\asesoria\\BatchServer\\IntroDatosAsesoriaAutomatico.java",
+            "fileType": ".java",
+            "linesAdded": 0,
+            "linesRemoved": 89,
+            "projectName": "CILApp",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
             "language": "java"
           }
         ]
