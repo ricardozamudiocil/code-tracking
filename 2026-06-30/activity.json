@@ -61,6 +61,67 @@
         "c:\\Workspace\\CILReports\\src\\main\\resources\\jasper\\plantillas\\ase\\DEMANDA_BASE.jrxml"
       ],
       "averageChangeSize": 8.666666666666666
+    },
+    "CILReports (Workspace)": {
+      "totalLinesAdded": 26,
+      "totalLinesRemoved": 0,
+      "totalActiveTime": 2,
+      "files": {
+        "c:\\Workspace\\CILReports\\src\\main\\resources\\jasper\\plantillas\\ase\\DEMANDA_BASE.jrxml": [
+          {
+            "timestamp": "2026-06-30T08:19:38.358Z",
+            "fileName": "c:\\Workspace\\CILReports\\src\\main\\resources\\jasper\\plantillas\\ase\\DEMANDA_BASE.jrxml",
+            "fileType": ".jrxml",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "CILReports (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "jrxml"
+          },
+          {
+            "timestamp": "2026-06-30T08:20:20.154Z",
+            "fileName": "c:\\Workspace\\CILReports\\src\\main\\resources\\jasper\\plantillas\\ase\\DEMANDA_BASE.jrxml",
+            "fileType": ".jrxml",
+            "linesAdded": 24,
+            "linesRemoved": 0,
+            "projectName": "CILReports (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "jrxml"
+          },
+          {
+            "timestamp": "2026-06-30T08:20:49.354Z",
+            "fileName": "c:\\Workspace\\CILReports\\src\\main\\resources\\jasper\\plantillas\\ase\\DEMANDA_BASE.jrxml",
+            "fileType": ".jrxml",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "CILReports (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "jrxml"
+          }
+        ]
+      },
+      "languageStats": {
+        "jrxml": 2
+      },
+      "changeFrequency": {
+        "10": 2
+      },
+      "topFiles": [
+        "c:\\Workspace\\CILReports\\src\\main\\resources\\jasper\\plantillas\\ase\\DEMANDA_BASE.jrxml"
+      ],
+      "averageChangeSize": 8.666666666666666
     }
   },
   "totalActiveTime": 2,
