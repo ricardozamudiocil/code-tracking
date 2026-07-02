@@ -1,0 +1,64 @@
+{
+  "date": "2026-07-02",
+  "projects": {
+    "CILApp": {
+      "totalLinesAdded": 280,
+      "totalLinesRemoved": 0,
+      "totalActiveTime": 2,
+      "files": {
+        "c:\\Pruebas\\MASC\\DocPath4\\Event beginjob CartaAsesoriaINdividual.cpp": [
+          {
+            "timestamp": "2026-07-02T09:19:26.529Z",
+            "fileName": "c:\\Pruebas\\MASC\\DocPath4\\Event beginjob CartaAsesoriaINdividual.cpp",
+            "fileType": ".cpp",
+            "linesAdded": 143,
+            "linesRemoved": 0,
+            "projectName": "CILApp",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "cpp"
+          }
+        ],
+        "c:\\Pruebas\\MASC\\DocPath4\\EventCode CartaAsesoriaIndividual.cpp": [
+          {
+            "timestamp": "2026-07-02T09:21:08.210Z",
+            "fileName": "c:\\Pruebas\\MASC\\DocPath4\\EventCode CartaAsesoriaIndividual.cpp",
+            "fileType": ".cpp",
+            "linesAdded": 137,
+            "linesRemoved": 0,
+            "projectName": "CILApp",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "cpp"
+          }
+        ]
+      },
+      "languageStats": {
+        "cpp": 2
+      },
+      "changeFrequency": {
+        "11": 2
+      },
+      "topFiles": [
+        "c:\\Pruebas\\MASC\\DocPath4\\Event beginjob CartaAsesoriaINdividual.cpp",
+        "c:\\Pruebas\\MASC\\DocPath4\\EventCode CartaAsesoriaIndividual.cpp"
+      ],
+      "averageChangeSize": 140
+    }
+  },
+  "totalActiveTime": 2,
+  "totalProjects": 1,
+  "totalFiles": 2,
+  "mostActiveHours": [
+    11
+  ],
+  "mostUsedLanguages": [
+    "cpp"
+  ]
+}
