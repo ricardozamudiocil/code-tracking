@@ -3,7 +3,7 @@
   "projects": {
     "CILApp": {
       "totalLinesAdded": 1672,
-      "totalLinesRemoved": 565,
+      "totalLinesRemoved": 780,
       "totalActiveTime": 4,
       "files": {
         "c:\\Pruebas\\MASC\\DocPath4\\Event beginjob CartaAsesoriaINdividual.cpp": [
@@ -89,6 +89,20 @@
             "fileType": ".dat",
             "linesAdded": 1,
             "linesRemoved": 0,
+            "projectName": "CILApp",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "dat"
+          },
+          {
+            "timestamp": "2026-07-02T13:32:46.795Z",
+            "fileName": "c:\\Pruebas\\MASC\\DocPath4\\Cartas_Asesoria_Resto_SIN_procurador.dat",
+            "fileType": ".dat",
+            "linesAdded": 0,
+            "linesRemoved": 215,
             "projectName": "CILApp",
             "content": {
               "added": [],
