@@ -2,7 +2,7 @@
   "date": "2026-07-02",
   "projects": {
     "CILApp": {
-      "totalLinesAdded": 1671,
+      "totalLinesAdded": 1672,
       "totalLinesRemoved": 565,
       "totalActiveTime": 4,
       "files": {
@@ -81,6 +81,20 @@
               "removed": []
             },
             "duration": 1,
+            "language": "dat"
+          },
+          {
+            "timestamp": "2026-07-02T13:14:19.899Z",
+            "fileName": "c:\\Pruebas\\MASC\\DocPath4\\Cartas_Asesoria_Resto_SIN_procurador.dat",
+            "fileType": ".dat",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "CILApp",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
             "language": "dat"
           }
         ]
