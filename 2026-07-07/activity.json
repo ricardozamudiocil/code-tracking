@@ -51,7 +51,7 @@
       "averageChangeSize": 106
     },
     "CILReports (Workspace)": {
-      "totalLinesAdded": 2935,
+      "totalLinesAdded": 2991,
       "totalLinesRemoved": 237,
       "totalActiveTime": 24,
       "files": {
@@ -521,6 +521,22 @@
             },
             "duration": 1,
             "language": "jrxml"
+          }
+        ],
+        "c:\\Workspace\\CILWebSSO\\data\\SSOdb.script": [
+          {
+            "timestamp": "2026-07-07T14:39:10.339Z",
+            "fileName": "c:\\Workspace\\CILWebSSO\\data\\SSOdb.script",
+            "fileType": ".script",
+            "linesAdded": 56,
+            "linesRemoved": 0,
+            "projectName": "CILReports (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "script"
           }
         ]
       },
