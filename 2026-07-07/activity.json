@@ -51,9 +51,9 @@
       "averageChangeSize": 106
     },
     "CILReports (Workspace)": {
-      "totalLinesAdded": 880,
-      "totalLinesRemoved": 225,
-      "totalActiveTime": 10,
+      "totalLinesAdded": 1547,
+      "totalLinesRemoved": 226,
+      "totalActiveTime": 18,
       "files": {
         "c:\\Workspace\\CILReports\\src\\cil\\jasperReports\\CILJasperFWebShop.java": [
           {
@@ -155,6 +155,48 @@
             },
             "duration": 1,
             "language": "xml"
+          },
+          {
+            "timestamp": "2026-07-07T10:07:13.069Z",
+            "fileName": "c:\\Workspace\\CILReports\\pom.xml",
+            "fileType": ".xml",
+            "linesAdded": 155,
+            "linesRemoved": 0,
+            "projectName": "CILReports (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "xml"
+          },
+          {
+            "timestamp": "2026-07-07T10:11:13.637Z",
+            "fileName": "c:\\Workspace\\CILReports\\pom.xml",
+            "fileType": ".xml",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "CILReports (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 5,
+            "language": "xml"
+          },
+          {
+            "timestamp": "2026-07-07T10:11:15.009Z",
+            "fileName": "c:\\Workspace\\CILReports\\pom.xml",
+            "fileType": ".xml",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "CILReports (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "xml"
           }
         ],
         "c:\\Workspace\\CILReports\\.vscode\\launch.json": [
@@ -213,6 +255,22 @@
             },
             "duration": 1,
             "language": "json"
+          }
+        ],
+        "c:\\Workspace\\CILReports\\src\\main\\java\\cil\\web\\jasper\\repository\\recobro_repository\\RecobroRepository.java": [
+          {
+            "timestamp": "2026-07-07T10:11:39.190Z",
+            "fileName": "c:\\Workspace\\CILReports\\src\\main\\java\\cil\\web\\jasper\\repository\\recobro_repository\\RecobroRepository.java",
+            "fileType": ".java",
+            "linesAdded": 511,
+            "linesRemoved": 0,
+            "projectName": "CILReports (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "java"
           }
         ]
       },
