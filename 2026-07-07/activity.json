@@ -33,6 +33,85 @@
         "c:\\Users\\ricardo_zamudio\\Downloads\\FileZilla.xml"
       ],
       "averageChangeSize": 106
+    },
+    "CILReports (Workspace)": {
+      "totalLinesAdded": 607,
+      "totalLinesRemoved": 1,
+      "totalActiveTime": 3,
+      "files": {
+        "c:\\Workspace\\CILReports\\src\\cil\\jasperReports\\CILJasperFWebShop.java": [
+          {
+            "timestamp": "2026-07-07T07:46:02.738Z",
+            "fileName": "c:\\Workspace\\CILReports\\src\\cil\\jasperReports\\CILJasperFWebShop.java",
+            "fileType": ".java",
+            "linesAdded": 433,
+            "linesRemoved": 0,
+            "projectName": "CILReports (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "java"
+          }
+        ],
+        "c:\\Workspace\\CILReports\\pom.xml": [
+          {
+            "timestamp": "2026-07-07T07:46:16.717Z",
+            "fileName": "c:\\Workspace\\CILReports\\pom.xml",
+            "fileType": ".xml",
+            "linesAdded": 173,
+            "linesRemoved": 0,
+            "projectName": "CILReports (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "xml"
+          },
+          {
+            "timestamp": "2026-07-07T07:46:16.974Z",
+            "fileName": "c:\\Workspace\\CILReports\\pom.xml",
+            "fileType": ".xml",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "CILReports (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "xml"
+          },
+          {
+            "timestamp": "2026-07-07T07:46:17.916Z",
+            "fileName": "c:\\Workspace\\CILReports\\pom.xml",
+            "fileType": ".xml",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "CILReports (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "xml"
+          }
+        ]
+      },
+      "languageStats": {
+        "java": 0,
+        "xml": 3
+      },
+      "changeFrequency": {
+        "9": 3
+      },
+      "topFiles": [
+        "c:\\Workspace\\CILReports\\pom.xml",
+        "c:\\Workspace\\CILReports\\src\\cil\\jasperReports\\CILJasperFWebShop.java"
+      ],
+      "averageChangeSize": 152
     }
   },
   "totalActiveTime": 0,
