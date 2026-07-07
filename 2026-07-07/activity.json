@@ -52,7 +52,7 @@
     },
     "CILReports (Workspace)": {
       "totalLinesAdded": 2915,
-      "totalLinesRemoved": 233,
+      "totalLinesRemoved": 237,
       "totalActiveTime": 20,
       "files": {
         "c:\\Workspace\\CILReports\\src\\cil\\jasperReports\\CILJasperFWebShop.java": [
@@ -317,6 +317,20 @@
             },
             "duration": 0,
             "language": "jrxml"
+          },
+          {
+            "timestamp": "2026-07-07T13:32:16.552Z",
+            "fileName": "c:\\Workspace\\CILReports\\src\\main\\resources\\jasper\\plantillas\\ase\\PLANTILLA1.jrxml",
+            "fileType": ".jrxml",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "CILReports (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "jrxml"
           }
         ],
         "c:\\Workspace\\CILReports\\src\\main\\resources\\jasper\\plantillas\\ase\\PLANTILLA4.jrxml": [
@@ -326,6 +340,20 @@
             "fileType": ".jrxml",
             "linesAdded": 242,
             "linesRemoved": 0,
+            "projectName": "CILReports (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "jrxml"
+          },
+          {
+            "timestamp": "2026-07-07T13:32:16.410Z",
+            "fileName": "c:\\Workspace\\CILReports\\src\\main\\resources\\jasper\\plantillas\\ase\\PLANTILLA4.jrxml",
+            "fileType": ".jrxml",
+            "linesAdded": 0,
+            "linesRemoved": 1,
             "projectName": "CILReports (Workspace)",
             "content": {
               "added": [],
@@ -349,6 +377,20 @@
             },
             "duration": 0,
             "language": "jrxml"
+          },
+          {
+            "timestamp": "2026-07-07T13:32:16.489Z",
+            "fileName": "c:\\Workspace\\CILReports\\src\\main\\resources\\jasper\\plantillas\\ase\\PLANTILLA2.jrxml",
+            "fileType": ".jrxml",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "CILReports (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "jrxml"
           }
         ],
         "c:\\Workspace\\CILReports\\src\\main\\resources\\jasper\\plantillas\\ase\\PLANTILLA3.jrxml": [
@@ -358,6 +400,20 @@
             "fileType": ".jrxml",
             "linesAdded": 239,
             "linesRemoved": 0,
+            "projectName": "CILReports (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "jrxml"
+          },
+          {
+            "timestamp": "2026-07-07T13:32:16.436Z",
+            "fileName": "c:\\Workspace\\CILReports\\src\\main\\resources\\jasper\\plantillas\\ase\\PLANTILLA3.jrxml",
+            "fileType": ".jrxml",
+            "linesAdded": 0,
+            "linesRemoved": 1,
             "projectName": "CILReports (Workspace)",
             "content": {
               "added": [],
