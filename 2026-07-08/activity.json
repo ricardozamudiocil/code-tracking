@@ -2,7 +2,7 @@
   "date": "2026-07-08",
   "projects": {
     "CILApp": {
-      "totalLinesAdded": 2864,
+      "totalLinesAdded": 6098,
       "totalLinesRemoved": 7,
       "totalActiveTime": 21,
       "files": {
@@ -224,6 +224,22 @@
             },
             "duration": 0,
             "language": "xml"
+          }
+        ],
+        "c:\\CilAPPP\\CILApp\\src\\cil\\modulos\\recobro\\paneles\\PanelGestionRecobro.java": [
+          {
+            "timestamp": "2026-07-08T10:19:47.684Z",
+            "fileName": "c:\\CilAPPP\\CILApp\\src\\cil\\modulos\\recobro\\paneles\\PanelGestionRecobro.java",
+            "fileType": ".java",
+            "linesAdded": 3234,
+            "linesRemoved": 0,
+            "projectName": "CILApp",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "java"
           }
         ]
       },
