@@ -4,17 +4,18 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 1744                                          |
-| **Lines Removed** (➖) | 7                                        |
-| **Net Change** (↕)    | 1737                |
-| **Active Time** (⌚)   | 4 minutes |
+| **Lines Added** (➕)   | 3253                                          |
+| **Lines Removed** (➖) | 9                                        |
+| **Net Change** (↕)    | 3244                |
+| **Active Time** (⌚)   | 5 minutes |
 
 
 ## Modified Files
 - **launch.json** (+1255, -0)
-- **DocumentacionDRTV.java** (+483, -0)
+- **DocumentacionDRTV.java** (+483, -2)
 - **PanelGestionRecobro.java** (+0, -4)
 - **OfertasComerciales.java** (+6, -3)
+- **IntroDatosAsesoriaAutomatico.java** (+1509, -0)
 
 ## Visualizations
 
@@ -24,7 +25,7 @@
 pie showData
 title Lines changed by file type
 ".json" : 1255
-".java" : 496
+".java" : 2007
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -35,7 +36,8 @@ title Coding activity by hour (count of changes)
 "08h" : 1
 "09h" : 2
 "12h" : 4
+"14h" : 2
 ```
 
 
-> **Last Updated:** 7/9/2026, 12:07:54 PM
+> **Last Updated:** 7/9/2026, 2:47:55 PM
