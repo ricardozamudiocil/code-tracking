@@ -156,7 +156,7 @@
     },
     "CILReports (Workspace)": {
       "totalLinesAdded": 256,
-      "totalLinesRemoved": 0,
+      "totalLinesRemoved": 19,
       "totalActiveTime": 0,
       "files": {
         "c:\\Workspace\\CILReports\\src\\main\\resources\\jasper\\plantillas\\ase\\DEMANDA_BASE.jrxml": [
@@ -208,6 +208,20 @@
             "fileType": ".jrxml",
             "linesAdded": 3,
             "linesRemoved": 0,
+            "projectName": "CILReports (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "jrxml"
+          },
+          {
+            "timestamp": "2026-07-09T14:12:23.759Z",
+            "fileName": "c:\\Workspace\\CILReports\\src\\main\\resources\\jasper\\plantillas\\ase\\DEMANDA_BASE.jrxml",
+            "fileType": ".jrxml",
+            "linesAdded": 0,
+            "linesRemoved": 19,
             "projectName": "CILReports (Workspace)",
             "content": {
               "added": [],
