@@ -1,0 +1,61 @@
+{
+  "date": "2026-07-13",
+  "projects": {
+    "CILApp": {
+      "totalLinesAdded": 342,
+      "totalLinesRemoved": 0,
+      "totalActiveTime": 1,
+      "files": {
+        "c:\\Migracion Jasper FASE 4\\Tablas DOT_.sql": [
+          {
+            "timestamp": "2026-07-13T15:09:11.374Z",
+            "fileName": "c:\\Migracion Jasper FASE 4\\Tablas DOT_.sql",
+            "fileType": ".sql",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "CILApp",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "sql"
+          },
+          {
+            "timestamp": "2026-07-13T15:09:11.703Z",
+            "fileName": "c:\\Migracion Jasper FASE 4\\Tablas DOT_.sql",
+            "fileType": ".sql",
+            "linesAdded": 341,
+            "linesRemoved": 0,
+            "projectName": "CILApp",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "sql"
+          }
+        ]
+      },
+      "languageStats": {
+        "sql": 1
+      },
+      "changeFrequency": {
+        "17": 1
+      },
+      "topFiles": [
+        "c:\\Migracion Jasper FASE 4\\Tablas DOT_.sql"
+      ],
+      "averageChangeSize": 171
+    }
+  },
+  "totalActiveTime": 1,
+  "totalProjects": 1,
+  "totalFiles": 1,
+  "mostActiveHours": [
+    17
+  ],
+  "mostUsedLanguages": [
+    "sql"
+  ]
+}
