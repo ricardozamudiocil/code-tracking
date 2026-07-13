@@ -2,7 +2,7 @@
   "date": "2026-07-13",
   "projects": {
     "CILApp": {
-      "totalLinesAdded": 342,
+      "totalLinesAdded": 8795,
       "totalLinesRemoved": 0,
       "totalActiveTime": 1,
       "files": {
@@ -34,6 +34,36 @@
             },
             "duration": 1,
             "language": "sql"
+          }
+        ],
+        "c:\\Migracion Jasper FASE 4\\Datos tablas.txt": [
+          {
+            "timestamp": "2026-07-13T15:16:12.863Z",
+            "fileName": "c:\\Migracion Jasper FASE 4\\Datos tablas.txt",
+            "fileType": ".txt",
+            "linesAdded": 3713,
+            "linesRemoved": 0,
+            "projectName": "CILApp",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "txt"
+          },
+          {
+            "timestamp": "2026-07-13T15:16:12.887Z",
+            "fileName": "c:\\Migracion Jasper FASE 4\\Datos tablas.txt",
+            "fileType": ".txt",
+            "linesAdded": 4740,
+            "linesRemoved": 0,
+            "projectName": "CILApp",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "txt"
           }
         ]
       },
