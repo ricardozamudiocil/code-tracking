@@ -35,7 +35,7 @@
       "averageChangeSize": 1255
     },
     "Scripts": {
-      "totalLinesAdded": 159,
+      "totalLinesAdded": 318,
       "totalLinesRemoved": 0,
       "totalActiveTime": 0,
       "files": {
@@ -43,6 +43,22 @@
           {
             "timestamp": "2026-07-14T10:08:33.463Z",
             "fileName": "c:\\MASC\\FTP_ESMAD_TO_AIX_ASE_V2.sh",
+            "fileType": ".sh",
+            "linesAdded": 159,
+            "linesRemoved": 0,
+            "projectName": "Scripts",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "sh"
+          }
+        ],
+        "c:\\Users\\ricardo_zamudio\\AppData\\Local\\Temp\\fz3temp-2\\FTP_ESMAD_TO_AIX_ASE.sh": [
+          {
+            "timestamp": "2026-07-14T10:16:30.809Z",
+            "fileName": "c:\\Users\\ricardo_zamudio\\AppData\\Local\\Temp\\fz3temp-2\\FTP_ESMAD_TO_AIX_ASE.sh",
             "fileType": ".sh",
             "linesAdded": 159,
             "linesRemoved": 0,

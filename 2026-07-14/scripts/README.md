@@ -4,14 +4,15 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 159                                          |
+| **Lines Added** (➕)   | 318                                          |
 | **Lines Removed** (➖) | 0                                        |
-| **Net Change** (↕)    | 159                |
+| **Net Change** (↕)    | 318                |
 | **Active Time** (⌚)   | 0 minute |
 
 
 ## Modified Files
 - **FTP_ESMAD_TO_AIX_ASE_V2.sh** (+159, -0)
+- **FTP_ESMAD_TO_AIX_ASE.sh** (+159, -0)
 
 ## Visualizations
 
@@ -20,7 +21,7 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".sh" : 159
+".sh" : 318
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -28,8 +29,8 @@ title Lines changed by file type
 ```mermaid
 pie showData
 title Coding activity by hour (count of changes)
-"12h" : 1
+"12h" : 2
 ```
 
 
-> **Last Updated:** 7/14/2026, 12:09:05 PM
+> **Last Updated:** 7/14/2026, 12:19:05 PM
