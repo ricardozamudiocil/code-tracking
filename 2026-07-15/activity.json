@@ -3,7 +3,7 @@
   "projects": {
     "CILApp": {
       "totalLinesAdded": 3760,
-      "totalLinesRemoved": 1,
+      "totalLinesRemoved": 2,
       "totalActiveTime": 9,
       "files": {
         "c:\\Pruebas\\MASC\\PresentaMASC\\rutas_masc.txt": [
@@ -33,6 +33,20 @@
               "removed": []
             },
             "duration": 1,
+            "language": "txt"
+          },
+          {
+            "timestamp": "2026-07-15T10:32:13.429Z",
+            "fileName": "c:\\Pruebas\\MASC\\PresentaMASC\\rutas_masc.txt",
+            "fileType": ".txt",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "CILApp",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
             "language": "txt"
           }
         ],
