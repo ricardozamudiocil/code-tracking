@@ -1,0 +1,94 @@
+{
+  "date": "2026-07-15",
+  "projects": {
+    "CILApp": {
+      "totalLinesAdded": 199,
+      "totalLinesRemoved": 1,
+      "totalActiveTime": 3,
+      "files": {
+        "c:\\Pruebas\\MASC\\PresentaMASC\\rutas_masc.txt": [
+          {
+            "timestamp": "2026-07-15T10:01:07.309Z",
+            "fileName": "c:\\Pruebas\\MASC\\PresentaMASC\\rutas_masc.txt",
+            "fileType": ".txt",
+            "linesAdded": 188,
+            "linesRemoved": 0,
+            "projectName": "CILApp",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "txt"
+          },
+          {
+            "timestamp": "2026-07-15T10:01:08.219Z",
+            "fileName": "c:\\Pruebas\\MASC\\PresentaMASC\\rutas_masc.txt",
+            "fileType": ".txt",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "CILApp",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "txt"
+          }
+        ],
+        "c:\\CilAPPP\\CILApp\\.vscode\\launch.json": [
+          {
+            "timestamp": "2026-07-15T10:01:08.279Z",
+            "fileName": "c:\\CilAPPP\\CILApp\\.vscode\\launch.json",
+            "fileType": ".json",
+            "linesAdded": 10,
+            "linesRemoved": 0,
+            "projectName": "CILApp",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "json"
+          },
+          {
+            "timestamp": "2026-07-15T10:01:34.880Z",
+            "fileName": "c:\\CilAPPP\\CILApp\\.vscode\\launch.json",
+            "fileType": ".json",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "CILApp",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "json"
+          }
+        ]
+      },
+      "languageStats": {
+        "txt": 1,
+        "json": 2
+      },
+      "changeFrequency": {
+        "12": 3
+      },
+      "topFiles": [
+        "c:\\Pruebas\\MASC\\PresentaMASC\\rutas_masc.txt",
+        "c:\\CilAPPP\\CILApp\\.vscode\\launch.json"
+      ],
+      "averageChangeSize": 50
+    }
+  },
+  "totalActiveTime": 3,
+  "totalProjects": 1,
+  "totalFiles": 2,
+  "mostActiveHours": [
+    12
+  ],
+  "mostUsedLanguages": [
+    "json",
+    "txt"
+  ]
+}
