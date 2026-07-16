@@ -5,15 +5,15 @@
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
 | **Lines Added** (➕)   | 1791                                          |
-| **Lines Removed** (➖) | 1278                                        |
-| **Net Change** (↕)    | 513                |
+| **Lines Removed** (➖) | 1279                                        |
+| **Net Change** (↕)    | 512                |
 | **Active Time** (⌚)   | 1 minute |
 
 
 ## Modified Files
 - **DocumentacionDRTV.java** (+481, -0)
 - **launch.json** (+1275, -1275)
-- **PresentacionMonitorios.java** (+35, -3)
+- **PresentacionMonitorios.java** (+35, -4)
 
 ## Visualizations
 
@@ -22,7 +22,7 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".java" : 519
+".java" : 520
 ".json" : 2550
 ```
 
@@ -32,8 +32,8 @@ title Lines changed by file type
 pie showData
 title Coding activity by hour (count of changes)
 "11h" : 3
-"16h" : 4
+"16h" : 5
 ```
 
 
-> **Last Updated:** 7/16/2026, 4:41:16 PM
+> **Last Updated:** 7/16/2026, 4:51:16 PM
