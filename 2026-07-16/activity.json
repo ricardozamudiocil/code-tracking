@@ -2,8 +2,8 @@
   "date": "2026-07-16",
   "projects": {
     "CILApp": {
-      "totalLinesAdded": 481,
-      "totalLinesRemoved": 0,
+      "totalLinesAdded": 1756,
+      "totalLinesRemoved": 1275,
       "totalActiveTime": 0,
       "files": {
         "c:\\CilAPPP\\CILApp\\src\\cil\\modulos\\distribucion\\BatchServer\\DocumentacionDRTV.java": [
@@ -20,6 +20,36 @@
             },
             "duration": 0,
             "language": "java"
+          }
+        ],
+        "c:\\CilAPPP\\CILApp\\.vscode\\launch.json": [
+          {
+            "timestamp": "2026-07-16T09:48:00.239Z",
+            "fileName": "c:\\CilAPPP\\CILApp\\.vscode\\launch.json",
+            "fileType": ".json",
+            "linesAdded": 0,
+            "linesRemoved": 1275,
+            "projectName": "CILApp",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "json"
+          },
+          {
+            "timestamp": "2026-07-16T09:48:00.595Z",
+            "fileName": "c:\\CilAPPP\\CILApp\\.vscode\\launch.json",
+            "fileType": ".json",
+            "linesAdded": 1275,
+            "linesRemoved": 0,
+            "projectName": "CILApp",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "json"
           }
         ]
       },
