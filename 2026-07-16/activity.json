@@ -2,9 +2,9 @@
   "date": "2026-07-16",
   "projects": {
     "CILApp": {
-      "totalLinesAdded": 1756,
-      "totalLinesRemoved": 1275,
-      "totalActiveTime": 0,
+      "totalLinesAdded": 1787,
+      "totalLinesRemoved": 1276,
+      "totalActiveTime": 1,
       "files": {
         "c:\\CilAPPP\\CILApp\\src\\cil\\modulos\\distribucion\\BatchServer\\DocumentacionDRTV.java": [
           {
@@ -50,6 +50,36 @@
             },
             "duration": 0,
             "language": "json"
+          }
+        ],
+        "c:\\CilAPPP\\CILApp\\src\\cil\\modulos\\asesoria\\BatchServer\\PresentacionMonitorios.java": [
+          {
+            "timestamp": "2026-07-16T14:14:03.564Z",
+            "fileName": "c:\\CilAPPP\\CILApp\\src\\cil\\modulos\\asesoria\\BatchServer\\PresentacionMonitorios.java",
+            "fileType": ".java",
+            "linesAdded": 31,
+            "linesRemoved": 0,
+            "projectName": "CILApp",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "java"
+          },
+          {
+            "timestamp": "2026-07-16T14:14:10.622Z",
+            "fileName": "c:\\CilAPPP\\CILApp\\src\\cil\\modulos\\asesoria\\BatchServer\\PresentacionMonitorios.java",
+            "fileType": ".java",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "CILApp",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "java"
           }
         ]
       },
