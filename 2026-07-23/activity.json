@@ -1,0 +1,75 @@
+{
+  "date": "2026-07-23",
+  "projects": {
+    "Scripts": {
+      "totalLinesAdded": 159,
+      "totalLinesRemoved": 11,
+      "totalActiveTime": 1,
+      "files": {
+        "c:\\Workspace\\Scripts\\home\\cilcobol\\ftp\\FTP_ESMAD_TO_AIX_ASE.sh": [
+          {
+            "timestamp": "2026-07-23T13:22:26.568Z",
+            "fileName": "c:\\Workspace\\Scripts\\home\\cilcobol\\ftp\\FTP_ESMAD_TO_AIX_ASE.sh",
+            "fileType": ".sh",
+            "linesAdded": 91,
+            "linesRemoved": 0,
+            "projectName": "Scripts",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "sh"
+          },
+          {
+            "timestamp": "2026-07-23T13:22:28.339Z",
+            "fileName": "c:\\Workspace\\Scripts\\home\\cilcobol\\ftp\\FTP_ESMAD_TO_AIX_ASE.sh",
+            "fileType": ".sh",
+            "linesAdded": 68,
+            "linesRemoved": 0,
+            "projectName": "Scripts",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "sh"
+          },
+          {
+            "timestamp": "2026-07-23T13:23:13.864Z",
+            "fileName": "c:\\Workspace\\Scripts\\home\\cilcobol\\ftp\\FTP_ESMAD_TO_AIX_ASE.sh",
+            "fileType": ".sh",
+            "linesAdded": 0,
+            "linesRemoved": 11,
+            "projectName": "Scripts",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "sh"
+          }
+        ]
+      },
+      "languageStats": {
+        "sh": 1
+      },
+      "changeFrequency": {
+        "15": 1
+      },
+      "topFiles": [
+        "c:\\Workspace\\Scripts\\home\\cilcobol\\ftp\\FTP_ESMAD_TO_AIX_ASE.sh"
+      ],
+      "averageChangeSize": 56.666666666666664
+    }
+  },
+  "totalActiveTime": 2,
+  "totalProjects": 1,
+  "totalFiles": 1,
+  "mostActiveHours": [
+    15
+  ],
+  "mostUsedLanguages": [
+    "sh"
+  ]
+}
