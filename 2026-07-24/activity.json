@@ -1,0 +1,47 @@
+{
+  "date": "2026-07-24",
+  "projects": {
+    "CILWebCustomerComunicationFront": {
+      "totalLinesAdded": 55,
+      "totalLinesRemoved": 0,
+      "totalActiveTime": 0,
+      "files": {
+        "c:\\Workspace\\CILWebCustomerComunicationFront\\src\\main\\src\\app\\servicies\\login\\login.service.ts": [
+          {
+            "timestamp": "2026-07-24T08:05:25.229Z",
+            "fileName": "c:\\Workspace\\CILWebCustomerComunicationFront\\src\\main\\src\\app\\servicies\\login\\login.service.ts",
+            "fileType": ".ts",
+            "linesAdded": 55,
+            "linesRemoved": 0,
+            "projectName": "CILWebCustomerComunicationFront",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "ts"
+          }
+        ]
+      },
+      "languageStats": {
+        "ts": 0
+      },
+      "changeFrequency": {
+        "10": 0
+      },
+      "topFiles": [
+        "c:\\Workspace\\CILWebCustomerComunicationFront\\src\\main\\src\\app\\servicies\\login\\login.service.ts"
+      ],
+      "averageChangeSize": 55
+    }
+  },
+  "totalActiveTime": 0,
+  "totalProjects": 1,
+  "totalFiles": 1,
+  "mostActiveHours": [
+    10
+  ],
+  "mostUsedLanguages": [
+    "ts"
+  ]
+}
