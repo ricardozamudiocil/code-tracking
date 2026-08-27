@@ -4,17 +4,17 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 901                                          |
-| **Lines Removed** (➖) | 68                                        |
+| **Lines Added** (➕)   | 973                                          |
+| **Lines Removed** (➖) | 140                                        |
 | **Net Change** (↕)    | 833                |
-| **Active Time** (⌚)   | 3 minutes |
+| **Active Time** (⌚)   | 7 minutes |
 
 
 ## Modified Files
 - **JasperCobrosUtil.java** (+263, -0)
 - **JasperCobrosRepository.java** (+0, -14)
 - **JasperAsesoriaServiceImp.java** (+316, -0)
-- **JUDICIAL_ESCRITO_V1.jrxml** (+322, -54)
+- **JUDICIAL_ESCRITO_V1.jrxml** (+394, -126)
 
 ## Visualizations
 
@@ -24,7 +24,7 @@
 pie showData
 title Lines changed by file type
 ".java" : 593
-".jrxml" : 376
+".jrxml" : 520
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -34,8 +34,8 @@ pie showData
 title Coding activity by hour (count of changes)
 "14h" : 5
 "15h" : 3
-"16h" : 2
+"16h" : 5
 ```
 
 
-> **Last Updated:** 8/27/2026, 4:06:49 PM
+> **Last Updated:** 8/27/2026, 4:11:49 PM

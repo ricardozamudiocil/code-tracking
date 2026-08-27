@@ -2,9 +2,9 @@
   "date": "2026-08-27",
   "projects": {
     "CILReports (Workspace)": {
-      "totalLinesAdded": 901,
-      "totalLinesRemoved": 68,
-      "totalActiveTime": 3,
+      "totalLinesAdded": 973,
+      "totalLinesRemoved": 140,
+      "totalActiveTime": 7,
       "files": {
         "c:\\Workspace\\CILReports\\src\\main\\java\\cil\\web\\jasper\\util\\cobros\\JasperCobrosUtil.java": [
           {
@@ -145,6 +145,48 @@
             "fileType": ".jrxml",
             "linesAdded": 0,
             "linesRemoved": 5,
+            "projectName": "CILReports (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "jrxml"
+          },
+          {
+            "timestamp": "2026-08-27T14:08:27.566Z",
+            "fileName": "c:\\Workspace\\CILReports\\src\\main\\resources\\jasper\\plantillas\\ase\\JUDICIAL_ESCRITO_V1.jrxml",
+            "fileType": ".jrxml",
+            "linesAdded": 41,
+            "linesRemoved": 0,
+            "projectName": "CILReports (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "jrxml"
+          },
+          {
+            "timestamp": "2026-08-27T14:11:08.092Z",
+            "fileName": "c:\\Workspace\\CILReports\\src\\main\\resources\\jasper\\plantillas\\ase\\JUDICIAL_ESCRITO_V1.jrxml",
+            "fileType": ".jrxml",
+            "linesAdded": 31,
+            "linesRemoved": 0,
+            "projectName": "CILReports (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
+            "language": "jrxml"
+          },
+          {
+            "timestamp": "2026-08-27T14:11:27.723Z",
+            "fileName": "c:\\Workspace\\CILReports\\src\\main\\resources\\jasper\\plantillas\\ase\\JUDICIAL_ESCRITO_V1.jrxml",
+            "fileType": ".jrxml",
+            "linesAdded": 0,
+            "linesRemoved": 72,
             "projectName": "CILReports (Workspace)",
             "content": {
               "added": [],
