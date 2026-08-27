@@ -208,6 +208,67 @@
         "c:\\Workspace\\CILReports\\src\\main\\java\\cil\\web\\jasper\\repository\\cobros_repository\\JasperCobrosRepository.java"
       ],
       "averageChangeSize": 138.5
+    },
+    "CILWebCustomerComunicationFront": {
+      "totalLinesAdded": 600,
+      "totalLinesRemoved": 0,
+      "totalActiveTime": 3,
+      "files": {
+        "c:\\Workspace\\CILWebCustomerComunicationFront\\src\\main\\src\\app\\components\\home\\home.component.ts": [
+          {
+            "timestamp": "2026-08-27T14:47:53.522Z",
+            "fileName": "c:\\Workspace\\CILWebCustomerComunicationFront\\src\\main\\src\\app\\components\\home\\home.component.ts",
+            "fileType": ".ts",
+            "linesAdded": 596,
+            "linesRemoved": 0,
+            "projectName": "CILWebCustomerComunicationFront",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2026-08-27T14:49:38.710Z",
+            "fileName": "c:\\Workspace\\CILWebCustomerComunicationFront\\src\\main\\src\\app\\components\\home\\home.component.ts",
+            "fileType": ".ts",
+            "linesAdded": 3,
+            "linesRemoved": 0,
+            "projectName": "CILWebCustomerComunicationFront",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2026-08-27T14:49:49.800Z",
+            "fileName": "c:\\Workspace\\CILWebCustomerComunicationFront\\src\\main\\src\\app\\components\\home\\home.component.ts",
+            "fileType": ".ts",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "CILWebCustomerComunicationFront",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          }
+        ]
+      },
+      "languageStats": {
+        "ts": 3
+      },
+      "changeFrequency": {
+        "16": 3
+      },
+      "topFiles": [
+        "c:\\Workspace\\CILWebCustomerComunicationFront\\src\\main\\src\\app\\components\\home\\home.component.ts"
+      ],
+      "averageChangeSize": 200
     }
   },
   "totalActiveTime": 1,
