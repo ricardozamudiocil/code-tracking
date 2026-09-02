@@ -3,7 +3,7 @@
   "projects": {
     "CILReports (Workspace)": {
       "totalLinesAdded": 351,
-      "totalLinesRemoved": 0,
+      "totalLinesRemoved": 2,
       "totalActiveTime": 0,
       "files": {
         "c:\\Workspace\\CILReports\\src\\main\\resources\\jasper\\plantillas\\ase\\JUDICIAL_ESCRITO_V1.jrxml": [
@@ -29,6 +29,20 @@
             "fileType": ".properties",
             "linesAdded": 83,
             "linesRemoved": 0,
+            "projectName": "CILReports (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "properties"
+          },
+          {
+            "timestamp": "2026-09-02T15:08:09.882Z",
+            "fileName": "c:\\Workspace\\CILReports\\src\\main\\resources\\jasper\\properties\\compras\\Label_de_DE.properties",
+            "fileType": ".properties",
+            "linesAdded": 0,
+            "linesRemoved": 2,
             "projectName": "CILReports (Workspace)",
             "content": {
               "added": [],
