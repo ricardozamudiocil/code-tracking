@@ -35,13 +35,27 @@
       "averageChangeSize": 228
     },
     "CILApp": {
-      "totalLinesAdded": 4623,
+      "totalLinesAdded": 8370,
       "totalLinesRemoved": 19,
       "totalActiveTime": 6,
       "files": {
         "c:\\CilAPPP\\CILApp\\src\\cil\\modulos\\asesoria\\BatchServer\\PresentacionMonitorios.java": [
           {
             "timestamp": "2026-09-03T08:53:29.088Z",
+            "fileName": "c:\\CilAPPP\\CILApp\\src\\cil\\modulos\\asesoria\\BatchServer\\PresentacionMonitorios.java",
+            "fileType": ".java",
+            "linesAdded": 3747,
+            "linesRemoved": 0,
+            "projectName": "CILApp",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "java"
+          },
+          {
+            "timestamp": "2026-09-03T12:42:56.440Z",
             "fileName": "c:\\CilAPPP\\CILApp\\src\\cil\\modulos\\asesoria\\BatchServer\\PresentacionMonitorios.java",
             "fileType": ".java",
             "linesAdded": 3747,
