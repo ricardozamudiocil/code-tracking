@@ -5,13 +5,13 @@
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
 | **Lines Added** (➕)   | 10494                                          |
-| **Lines Removed** (➖) | 31                                        |
-| **Net Change** (↕)    | 10463                |
-| **Active Time** (⌚)   | 19 minutes |
+| **Lines Removed** (➖) | 176                                        |
+| **Net Change** (↕)    | 10318                |
+| **Active Time** (⌚)   | 23 minutes |
 
 
 ## Modified Files
-- **PresentacionMonitorios.java** (+7495, -10)
+- **PresentacionMonitorios.java** (+7495, -155)
 - **settings.json** (+255, -19)
 - **XmlToPdfServiceImpl.java** (+621, -2)
 - **ProcMonitorioToMASC.java** (+826, -0)
@@ -24,7 +24,7 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".java" : 8954
+".java" : 9099
 ".json" : 1571
 ```
 
@@ -38,8 +38,8 @@ title Coding activity by hour (count of changes)
 "12h" : 1
 "14h" : 3
 "15h" : 6
-"16h" : 1
+"16h" : 2
 ```
 
 
-> **Last Updated:** 9/3/2026, 4:06:52 PM
+> **Last Updated:** 9/3/2026, 4:11:52 PM
