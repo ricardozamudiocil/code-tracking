@@ -5,13 +5,13 @@
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
 | **Lines Added** (➕)   | 43                                          |
-| **Lines Removed** (➖) | 0                                        |
-| **Net Change** (↕)    | 43                |
+| **Lines Removed** (➖) | 31                                        |
+| **Net Change** (↕)    | 12                |
 | **Active Time** (⌚)   | 4 minutes |
 
 
 ## Modified Files
-- **ProcMonitorioToMASC.java** (+43, -0)
+- **ProcMonitorioToMASC.java** (+43, -31)
 
 ## Visualizations
 
@@ -20,7 +20,7 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".java" : 43
+".java" : 74
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -28,8 +28,8 @@ title Lines changed by file type
 ```mermaid
 pie showData
 title Coding activity by hour (count of changes)
-"14h" : 2
+"14h" : 3
 ```
 
 
-> **Last Updated:** 9/4/2026, 2:26:39 PM
+> **Last Updated:** 9/4/2026, 2:31:39 PM
