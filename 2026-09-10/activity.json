@@ -2,7 +2,7 @@
   "date": "2026-09-10",
   "projects": {
     "CILApp": {
-      "totalLinesAdded": 112,
+      "totalLinesAdded": 117,
       "totalLinesRemoved": 12,
       "totalActiveTime": 1,
       "files": {
@@ -64,6 +64,22 @@
             },
             "duration": 0,
             "language": "java"
+          }
+        ],
+        "c:\\Pruebas\\MASC\\TareaSMStoEsendex_10-09-26\\PDF\\SMS_MASC_DATA_20260910115935.csv": [
+          {
+            "timestamp": "2026-09-10T10:01:45.768Z",
+            "fileName": "c:\\Pruebas\\MASC\\TareaSMStoEsendex_10-09-26\\PDF\\SMS_MASC_DATA_20260910115935.csv",
+            "fileType": ".csv",
+            "linesAdded": 5,
+            "linesRemoved": 0,
+            "projectName": "CILApp",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "csv"
           }
         ]
       },
