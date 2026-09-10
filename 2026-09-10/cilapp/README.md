@@ -4,15 +4,15 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 464                                          |
-| **Lines Removed** (➖) | 235                                        |
-| **Net Change** (↕)    | 229                |
-| **Active Time** (⌚)   | 9 minutes |
+| **Lines Added** (➕)   | 583                                          |
+| **Lines Removed** (➖) | 238                                        |
+| **Net Change** (↕)    | 345                |
+| **Active Time** (⌚)   | 11 minutes |
 
 
 ## Modified Files
-- **ProcMonitorioToMASC.java** (+152, -152)
-- **MascSmsService.java** (+70, -83)
+- **ProcMonitorioToMASC.java** (+222, -152)
+- **MascSmsService.java** (+119, -86)
 - **SMS_MASC_DATA_20260910115935.csv** (+5, -0)
 - **settings.json** (+237, -0)
 
@@ -23,7 +23,7 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".java" : 457
+".java" : 579
 ".csv" : 5
 ".json" : 237
 ```
@@ -37,7 +37,8 @@ title Coding activity by hour (count of changes)
 "12h" : 1
 "14h" : 9
 "15h" : 4
+"16h" : 4
 ```
 
 
-> **Last Updated:** 9/10/2026, 3:37:36 PM
+> **Last Updated:** 9/10/2026, 4:22:36 PM
