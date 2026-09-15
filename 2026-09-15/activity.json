@@ -79,6 +79,53 @@
         "c:\\Users\\ricardo_zamudio\\.config\\opencode\\cilapp-legacy.json"
       ],
       "averageChangeSize": 7
+    },
+    "CILWebCustomerComunication": {
+      "totalLinesAdded": 183,
+      "totalLinesRemoved": 0,
+      "totalActiveTime": 1,
+      "files": {
+        "c:\\Pruebas\\Migracion Jasper\\Asesoria docs\\Migracion docpath a jasper.txt": [
+          {
+            "timestamp": "2026-09-15T10:51:13.009Z",
+            "fileName": "c:\\Pruebas\\Migracion Jasper\\Asesoria docs\\Migracion docpath a jasper.txt",
+            "fileType": ".txt",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "CILWebCustomerComunication",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "txt"
+          },
+          {
+            "timestamp": "2026-09-15T10:51:17.206Z",
+            "fileName": "c:\\Pruebas\\Migracion Jasper\\Asesoria docs\\Migracion docpath a jasper.txt",
+            "fileType": ".txt",
+            "linesAdded": 182,
+            "linesRemoved": 0,
+            "projectName": "CILWebCustomerComunication",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "txt"
+          }
+        ]
+      },
+      "languageStats": {
+        "txt": 1
+      },
+      "changeFrequency": {
+        "12": 1
+      },
+      "topFiles": [
+        "c:\\Pruebas\\Migracion Jasper\\Asesoria docs\\Migracion docpath a jasper.txt"
+      ],
+      "averageChangeSize": 91.5
     }
   },
   "totalActiveTime": 0,
