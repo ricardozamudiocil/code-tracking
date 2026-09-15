@@ -81,7 +81,7 @@
       "averageChangeSize": 7
     },
     "CILWebCustomerComunication": {
-      "totalLinesAdded": 183,
+      "totalLinesAdded": 231,
       "totalLinesRemoved": 0,
       "totalActiveTime": 1,
       "files": {
@@ -113,6 +113,22 @@
             },
             "duration": 1,
             "language": "txt"
+          }
+        ],
+        "c:\\Pruebas\\Migracion Jasper\\Asesoria docs\\Inventario y Seguimiento Asesoria.csv": [
+          {
+            "timestamp": "2026-09-15T10:59:58.955Z",
+            "fileName": "c:\\Pruebas\\Migracion Jasper\\Asesoria docs\\Inventario y Seguimiento Asesoria.csv",
+            "fileType": ".csv",
+            "linesAdded": 48,
+            "linesRemoved": 0,
+            "projectName": "CILWebCustomerComunication",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "csv"
           }
         ]
       },
