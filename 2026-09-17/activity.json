@@ -93,9 +93,9 @@
       "averageChangeSize": 1297
     },
     "CILReports (Workspace)": {
-      "totalLinesAdded": 1826,
+      "totalLinesAdded": 2148,
       "totalLinesRemoved": 88,
-      "totalActiveTime": 3,
+      "totalActiveTime": 8,
       "files": {
         "c:\\Workspace\\CILReports\\src\\main\\resources\\jasper\\plantillas\\ase\\JUDICIAL_ESCRITO_V1.jrxml": [
           {
@@ -229,6 +229,22 @@
             },
             "duration": 0,
             "language": "txt"
+          }
+        ],
+        "c:\\Workspace\\CILReports\\src\\main\\java\\cil\\web\\jasper\\service\\asesoria\\QuillToJasperHtmlConverter.java": [
+          {
+            "timestamp": "2026-09-17T10:40:08.458Z",
+            "fileName": "c:\\Workspace\\CILReports\\src\\main\\java\\cil\\web\\jasper\\service\\asesoria\\QuillToJasperHtmlConverter.java",
+            "fileType": ".java",
+            "linesAdded": 322,
+            "linesRemoved": 0,
+            "projectName": "CILReports (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 5,
+            "language": "java"
           }
         ]
       },
