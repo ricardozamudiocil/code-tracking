@@ -124,6 +124,39 @@
         "c:\\Workspace\\CILReports\\src\\main\\resources\\jasper\\plantillas\\ase\\JUDICIAL_ESCRITO_V1.jrxml"
       ],
       "averageChangeSize": 282
+    },
+    "CILWebCustomerComunicationFront": {
+      "totalLinesAdded": 600,
+      "totalLinesRemoved": 0,
+      "totalActiveTime": 0,
+      "files": {
+        "c:\\Workspace\\CILWebCustomerComunicationFront\\src\\main\\src\\app\\components\\home\\home.component.ts": [
+          {
+            "timestamp": "2026-09-17T08:50:53.676Z",
+            "fileName": "c:\\Workspace\\CILWebCustomerComunicationFront\\src\\main\\src\\app\\components\\home\\home.component.ts",
+            "fileType": ".ts",
+            "linesAdded": 600,
+            "linesRemoved": 0,
+            "projectName": "CILWebCustomerComunicationFront",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "ts"
+          }
+        ]
+      },
+      "languageStats": {
+        "ts": 0
+      },
+      "changeFrequency": {
+        "10": 0
+      },
+      "topFiles": [
+        "c:\\Workspace\\CILWebCustomerComunicationFront\\src\\main\\src\\app\\components\\home\\home.component.ts"
+      ],
+      "averageChangeSize": 600
     }
   },
   "totalActiveTime": 0,
