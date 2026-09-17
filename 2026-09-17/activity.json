@@ -93,9 +93,9 @@
       "averageChangeSize": 1297
     },
     "CILReports (Workspace)": {
-      "totalLinesAdded": 2148,
-      "totalLinesRemoved": 88,
-      "totalActiveTime": 8,
+      "totalLinesAdded": 2152,
+      "totalLinesRemoved": 110,
+      "totalActiveTime": 9,
       "files": {
         "c:\\Workspace\\CILReports\\src\\main\\resources\\jasper\\plantillas\\ase\\JUDICIAL_ESCRITO_V1.jrxml": [
           {
@@ -124,6 +124,34 @@
               "removed": []
             },
             "duration": 0,
+            "language": "jrxml"
+          },
+          {
+            "timestamp": "2026-09-17T12:45:18.208Z",
+            "fileName": "c:\\Workspace\\CILReports\\src\\main\\resources\\jasper\\plantillas\\ase\\JUDICIAL_ESCRITO_V1.jrxml",
+            "fileType": ".jrxml",
+            "linesAdded": 4,
+            "linesRemoved": 0,
+            "projectName": "CILReports (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "jrxml"
+          },
+          {
+            "timestamp": "2026-09-17T12:45:56.372Z",
+            "fileName": "c:\\Workspace\\CILReports\\src\\main\\resources\\jasper\\plantillas\\ase\\JUDICIAL_ESCRITO_V1.jrxml",
+            "fileType": ".jrxml",
+            "linesAdded": 0,
+            "linesRemoved": 22,
+            "projectName": "CILReports (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
             "language": "jrxml"
           }
         ],
