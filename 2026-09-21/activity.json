@@ -65,6 +65,39 @@
         "c:\\Pruebas\\Migracion Jasper\\Datos docpath prueba\\ASE_DNEG_2E.TXT"
       ],
       "averageChangeSize": 85
+    },
+    "Datos docpath prueba": {
+      "totalLinesAdded": 94,
+      "totalLinesRemoved": 0,
+      "totalActiveTime": 0,
+      "files": {
+        "c:\\Pruebas\\Migracion Jasper\\Datos docpath prueba\\ASE_JUI_09A.TXT": [
+          {
+            "timestamp": "2026-09-21T11:19:54.586Z",
+            "fileName": "c:\\Pruebas\\Migracion Jasper\\Datos docpath prueba\\ASE_JUI_09A.TXT",
+            "fileType": ".TXT",
+            "linesAdded": 94,
+            "linesRemoved": 0,
+            "projectName": "Datos docpath prueba",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "TXT"
+          }
+        ]
+      },
+      "languageStats": {
+        "TXT": 0
+      },
+      "changeFrequency": {
+        "13": 0
+      },
+      "topFiles": [
+        "c:\\Pruebas\\Migracion Jasper\\Datos docpath prueba\\ASE_JUI_09A.TXT"
+      ],
+      "averageChangeSize": 94
     }
   },
   "totalActiveTime": 0,
