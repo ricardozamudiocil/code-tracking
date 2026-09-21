@@ -1,0 +1,47 @@
+{
+  "date": "2026-09-21",
+  "projects": {
+    "CILWebCustomerComunication": {
+      "totalLinesAdded": 85,
+      "totalLinesRemoved": 0,
+      "totalActiveTime": 0,
+      "files": {
+        "c:\\Pruebas\\Migracion Jasper\\Datos docpath prueba\\ASE_DNEG_2E.TXT": [
+          {
+            "timestamp": "2026-09-21T10:58:02.473Z",
+            "fileName": "c:\\Pruebas\\Migracion Jasper\\Datos docpath prueba\\ASE_DNEG_2E.TXT",
+            "fileType": ".TXT",
+            "linesAdded": 85,
+            "linesRemoved": 0,
+            "projectName": "CILWebCustomerComunication",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "TXT"
+          }
+        ]
+      },
+      "languageStats": {
+        "TXT": 0
+      },
+      "changeFrequency": {
+        "12": 0
+      },
+      "topFiles": [
+        "c:\\Pruebas\\Migracion Jasper\\Datos docpath prueba\\ASE_DNEG_2E.TXT"
+      ],
+      "averageChangeSize": 85
+    }
+  },
+  "totalActiveTime": 0,
+  "totalProjects": 1,
+  "totalFiles": 1,
+  "mostActiveHours": [
+    12
+  ],
+  "mostUsedLanguages": [
+    "TXT"
+  ]
+}
