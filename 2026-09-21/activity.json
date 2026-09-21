@@ -67,7 +67,7 @@
       "averageChangeSize": 85
     },
     "Datos docpath prueba": {
-      "totalLinesAdded": 362,
+      "totalLinesAdded": 456,
       "totalLinesRemoved": 0,
       "totalActiveTime": 2,
       "files": {
@@ -132,6 +132,22 @@
               "removed": []
             },
             "duration": 1,
+            "language": "TXT"
+          }
+        ],
+        "c:\\Pruebas\\Migracion Jasper\\Datos docpath prueba\\ASE_JUI_10A.TXT": [
+          {
+            "timestamp": "2026-09-21T11:59:04.284Z",
+            "fileName": "c:\\Pruebas\\Migracion Jasper\\Datos docpath prueba\\ASE_JUI_10A.TXT",
+            "fileType": ".TXT",
+            "linesAdded": 94,
+            "linesRemoved": 0,
+            "projectName": "Datos docpath prueba",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
             "language": "TXT"
           }
         ]
