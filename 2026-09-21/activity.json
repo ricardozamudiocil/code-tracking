@@ -67,9 +67,9 @@
       "averageChangeSize": 85
     },
     "Datos docpath prueba": {
-      "totalLinesAdded": 94,
+      "totalLinesAdded": 362,
       "totalLinesRemoved": 0,
-      "totalActiveTime": 0,
+      "totalActiveTime": 2,
       "files": {
         "c:\\Pruebas\\Migracion Jasper\\Datos docpath prueba\\ASE_JUI_09A.TXT": [
           {
@@ -84,6 +84,54 @@
               "removed": []
             },
             "duration": 0,
+            "language": "TXT"
+          }
+        ],
+        "c:\\Pruebas\\Migracion Jasper\\Datos docpath prueba\\ASE_JUI_09B.TXT": [
+          {
+            "timestamp": "2026-09-21T11:38:35.645Z",
+            "fileName": "c:\\Pruebas\\Migracion Jasper\\Datos docpath prueba\\ASE_JUI_09B.TXT",
+            "fileType": ".TXT",
+            "linesAdded": 106,
+            "linesRemoved": 0,
+            "projectName": "Datos docpath prueba",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "TXT"
+          }
+        ],
+        "c:\\Pruebas\\Migracion Jasper\\Datos docpath prueba\\ASE_JUI_09D.TXT": [
+          {
+            "timestamp": "2026-09-21T11:39:25.278Z",
+            "fileName": "c:\\Pruebas\\Migracion Jasper\\Datos docpath prueba\\ASE_JUI_09D.TXT",
+            "fileType": ".TXT",
+            "linesAdded": 78,
+            "linesRemoved": 0,
+            "projectName": "Datos docpath prueba",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "TXT"
+          }
+        ],
+        "c:\\Pruebas\\Migracion Jasper\\Datos docpath prueba\\ASE_JUI_09F.TXT": [
+          {
+            "timestamp": "2026-09-21T11:39:51.230Z",
+            "fileName": "c:\\Pruebas\\Migracion Jasper\\Datos docpath prueba\\ASE_JUI_09F.TXT",
+            "fileType": ".TXT",
+            "linesAdded": 84,
+            "linesRemoved": 0,
+            "projectName": "Datos docpath prueba",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
             "language": "TXT"
           }
         ]
