@@ -2,7 +2,7 @@
   "date": "2026-09-21",
   "projects": {
     "CILWebCustomerComunication": {
-      "totalLinesAdded": 159,
+      "totalLinesAdded": 240,
       "totalLinesRemoved": 0,
       "totalActiveTime": 0,
       "files": {
@@ -28,6 +28,22 @@
             "fileName": "c:\\Pruebas\\Migracion Jasper\\Datos docpath prueba\\ASE_JUI_06B.TXT",
             "fileType": ".TXT",
             "linesAdded": 74,
+            "linesRemoved": 0,
+            "projectName": "CILWebCustomerComunication",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "TXT"
+          }
+        ],
+        "c:\\Pruebas\\Migracion Jasper\\Datos docpath prueba\\ASE_JUI_07A.TXT": [
+          {
+            "timestamp": "2026-09-21T11:15:20.619Z",
+            "fileName": "c:\\Pruebas\\Migracion Jasper\\Datos docpath prueba\\ASE_JUI_07A.TXT",
+            "fileType": ".TXT",
+            "linesAdded": 81,
             "linesRemoved": 0,
             "projectName": "CILWebCustomerComunication",
             "content": {
