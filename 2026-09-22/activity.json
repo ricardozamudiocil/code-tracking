@@ -65,6 +65,53 @@
         "c:\\Pruebas\\Migracion Jasper\\Asesoria docs\\Inventario y Seguimiento Asesoria.csv"
       ],
       "averageChangeSize": 48
+    },
+    "CILWebCustomerComunication": {
+      "totalLinesAdded": 47,
+      "totalLinesRemoved": 1,
+      "totalActiveTime": 1,
+      "files": {
+        "b:\\DSI\\Desarrollo\\2024\\Proyectos\\DocumentosDocpathV4\\Asesoria 2026\\Update bodys Asesoria.sql": [
+          {
+            "timestamp": "2026-09-22T13:41:29.263Z",
+            "fileName": "b:\\DSI\\Desarrollo\\2024\\Proyectos\\DocumentosDocpathV4\\Asesoria 2026\\Update bodys Asesoria.sql",
+            "fileType": ".sql",
+            "linesAdded": 47,
+            "linesRemoved": 0,
+            "projectName": "CILWebCustomerComunication",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "sql"
+          },
+          {
+            "timestamp": "2026-09-22T13:41:30.725Z",
+            "fileName": "b:\\DSI\\Desarrollo\\2024\\Proyectos\\DocumentosDocpathV4\\Asesoria 2026\\Update bodys Asesoria.sql",
+            "fileType": ".sql",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "CILWebCustomerComunication",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "sql"
+          }
+        ]
+      },
+      "languageStats": {
+        "sql": 1
+      },
+      "changeFrequency": {
+        "15": 1
+      },
+      "topFiles": [
+        "b:\\DSI\\Desarrollo\\2024\\Proyectos\\DocumentosDocpathV4\\Asesoria 2026\\Update bodys Asesoria.sql"
+      ],
+      "averageChangeSize": 24
     }
   },
   "totalActiveTime": 0,
