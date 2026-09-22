@@ -112,6 +112,39 @@
         "b:\\DSI\\Desarrollo\\2024\\Proyectos\\DocumentosDocpathV4\\Asesoria 2026\\Update bodys Asesoria.sql"
       ],
       "averageChangeSize": 24
+    },
+    "CILWebCustomerComunicationFront": {
+      "totalLinesAdded": 65,
+      "totalLinesRemoved": 0,
+      "totalActiveTime": 0,
+      "files": {
+        "c:\\Pruebas\\Migracion Jasper\\Datos docpath prueba\\ASE_SUB_1A.TXT": [
+          {
+            "timestamp": "2026-09-22T13:49:03.989Z",
+            "fileName": "c:\\Pruebas\\Migracion Jasper\\Datos docpath prueba\\ASE_SUB_1A.TXT",
+            "fileType": ".TXT",
+            "linesAdded": 65,
+            "linesRemoved": 0,
+            "projectName": "CILWebCustomerComunicationFront",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "TXT"
+          }
+        ]
+      },
+      "languageStats": {
+        "TXT": 0
+      },
+      "changeFrequency": {
+        "15": 0
+      },
+      "topFiles": [
+        "c:\\Pruebas\\Migracion Jasper\\Datos docpath prueba\\ASE_SUB_1A.TXT"
+      ],
+      "averageChangeSize": 65
     }
   },
   "totalActiveTime": 0,
