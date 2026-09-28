@@ -1,0 +1,83 @@
+{
+  "date": "2026-09-28",
+  "projects": {
+    "CILReports (Workspace)": {
+      "totalLinesAdded": 352,
+      "totalLinesRemoved": 0,
+      "totalActiveTime": 2,
+      "files": {
+        "c:\\Workspace\\CILReports\\src\\main\\resources\\jasper\\plantillas\\ase\\SUBREPORTE_CABECERA.jrxml": [
+          {
+            "timestamp": "2026-09-28T10:49:23.526Z",
+            "fileName": "c:\\Workspace\\CILReports\\src\\main\\resources\\jasper\\plantillas\\ase\\SUBREPORTE_CABECERA.jrxml",
+            "fileType": ".jrxml",
+            "linesAdded": 52,
+            "linesRemoved": 0,
+            "projectName": "CILReports (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "jrxml"
+          }
+        ],
+        "c:\\Workspace\\CILReports\\src\\main\\java\\cil\\web\\jasper\\service\\asesoria\\impl\\JasperAsesoriaServiceImp.java": [
+          {
+            "timestamp": "2026-09-28T10:49:46.425Z",
+            "fileName": "c:\\Workspace\\CILReports\\src\\main\\java\\cil\\web\\jasper\\service\\asesoria\\impl\\JasperAsesoriaServiceImp.java",
+            "fileType": ".java",
+            "linesAdded": 282,
+            "linesRemoved": 0,
+            "projectName": "CILReports (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "java"
+          }
+        ],
+        "c:\\Workspace\\CILReports\\src\\main\\java\\cil\\web\\jasper\\constants\\asesoria\\ConstantsJasperAsesoria.java": [
+          {
+            "timestamp": "2026-09-28T10:49:46.487Z",
+            "fileName": "c:\\Workspace\\CILReports\\src\\main\\java\\cil\\web\\jasper\\constants\\asesoria\\ConstantsJasperAsesoria.java",
+            "fileType": ".java",
+            "linesAdded": 18,
+            "linesRemoved": 0,
+            "projectName": "CILReports (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "java"
+          }
+        ]
+      },
+      "languageStats": {
+        "jrxml": 0,
+        "java": 2
+      },
+      "changeFrequency": {
+        "12": 2
+      },
+      "topFiles": [
+        "c:\\Workspace\\CILReports\\src\\main\\resources\\jasper\\plantillas\\ase\\SUBREPORTE_CABECERA.jrxml",
+        "c:\\Workspace\\CILReports\\src\\main\\java\\cil\\web\\jasper\\service\\asesoria\\impl\\JasperAsesoriaServiceImp.java",
+        "c:\\Workspace\\CILReports\\src\\main\\java\\cil\\web\\jasper\\constants\\asesoria\\ConstantsJasperAsesoria.java"
+      ],
+      "averageChangeSize": 117.33333333333333
+    }
+  },
+  "totalActiveTime": 2,
+  "totalProjects": 1,
+  "totalFiles": 3,
+  "mostActiveHours": [
+    12
+  ],
+  "mostUsedLanguages": [
+    "java",
+    "jrxml"
+  ]
+}
