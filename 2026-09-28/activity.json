@@ -103,7 +103,7 @@
     },
     "CILOfertasComerciales": {
       "totalLinesAdded": 973,
-      "totalLinesRemoved": 0,
+      "totalLinesRemoved": 1,
       "totalActiveTime": 0,
       "files": {
         "c:\\Workspace\\CILOfertasComerciales\\src\\main\\java\\cil\\offers\\api\\service\\impl\\OfferServiceImpl.java": [
@@ -113,6 +113,20 @@
             "fileType": ".java",
             "linesAdded": 973,
             "linesRemoved": 0,
+            "projectName": "CILOfertasComerciales",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "java"
+          },
+          {
+            "timestamp": "2026-09-28T16:22:30.144Z",
+            "fileName": "c:\\Workspace\\CILOfertasComerciales\\src\\main\\java\\cil\\offers\\api\\service\\impl\\OfferServiceImpl.java",
+            "fileType": ".java",
+            "linesAdded": 0,
+            "linesRemoved": 1,
             "projectName": "CILOfertasComerciales",
             "content": {
               "added": [],
