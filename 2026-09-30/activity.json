@@ -3,8 +3,8 @@
   "projects": {
     "CILReports (Workspace)": {
       "totalLinesAdded": 3622,
-      "totalLinesRemoved": 9,
-      "totalActiveTime": 26,
+      "totalLinesRemoved": 12,
+      "totalActiveTime": 29,
       "files": {
         "c:\\Workspace\\CILReports\\src\\main\\java\\cil\\web\\jasper\\repository\\recobro_repository\\RecobroRepository.java": [
           {
@@ -265,6 +265,20 @@
               "removed": []
             },
             "duration": 5,
+            "language": "jrxml"
+          },
+          {
+            "timestamp": "2026-09-30T15:08:29.405Z",
+            "fileName": "c:\\Workspace\\CILReports\\src\\main\\resources\\jasper\\plantillas\\IF7\\IF7_booklets.jrxml",
+            "fileType": ".jrxml",
+            "linesAdded": 0,
+            "linesRemoved": 3,
+            "projectName": "CILReports (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
             "language": "jrxml"
           }
         ]
