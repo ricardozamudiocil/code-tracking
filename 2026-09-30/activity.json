@@ -2,7 +2,7 @@
   "date": "2026-09-30",
   "projects": {
     "CILReports (Workspace)": {
-      "totalLinesAdded": 1688,
+      "totalLinesAdded": 2971,
       "totalLinesRemoved": 8,
       "totalActiveTime": 19,
       "files": {
@@ -178,6 +178,22 @@
             },
             "duration": 3,
             "language": "java"
+          }
+        ],
+        "c:\\Workspace\\CILReports\\src\\main\\resources\\jasper\\plantillas\\IF7\\IF7.jrxml": [
+          {
+            "timestamp": "2026-09-30T13:50:55.928Z",
+            "fileName": "c:\\Workspace\\CILReports\\src\\main\\resources\\jasper\\plantillas\\IF7\\IF7.jrxml",
+            "fileType": ".jrxml",
+            "linesAdded": 1283,
+            "linesRemoved": 0,
+            "projectName": "CILReports (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "jrxml"
           }
         ]
       },
