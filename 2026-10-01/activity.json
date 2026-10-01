@@ -241,6 +241,39 @@
         "c:\\Workspace\\CILReports\\src\\main\\java\\cil\\web\\jasper\\service\\recobros\\impl\\JasperRecoverServiceImpl.java"
       ],
       "averageChangeSize": 917
+    },
+    "CILWebCustomerComunicationFront": {
+      "totalLinesAdded": 75,
+      "totalLinesRemoved": 0,
+      "totalActiveTime": 0,
+      "files": {
+        "c:\\Workspace\\CILWebCustomerComunicationFront\\src\\main\\src\\app\\servicies\\style-conversor\\style-conversor.service.ts": [
+          {
+            "timestamp": "2026-10-01T13:02:27.307Z",
+            "fileName": "c:\\Workspace\\CILWebCustomerComunicationFront\\src\\main\\src\\app\\servicies\\style-conversor\\style-conversor.service.ts",
+            "fileType": ".ts",
+            "linesAdded": 75,
+            "linesRemoved": 0,
+            "projectName": "CILWebCustomerComunicationFront",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "ts"
+          }
+        ]
+      },
+      "languageStats": {
+        "ts": 0
+      },
+      "changeFrequency": {
+        "15": 0
+      },
+      "topFiles": [
+        "c:\\Workspace\\CILWebCustomerComunicationFront\\src\\main\\src\\app\\servicies\\style-conversor\\style-conversor.service.ts"
+      ],
+      "averageChangeSize": 75
     }
   },
   "totalActiveTime": 0,
