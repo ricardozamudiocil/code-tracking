@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 4513                                          |
+| **Lines Added** (➕)   | 4764                                          |
 | **Lines Removed** (➖) | 27                                        |
-| **Net Change** (↕)    | 4486                |
-| **Active Time** (⌚)   | 8 minutes |
+| **Net Change** (↕)    | 4737                |
+| **Active Time** (⌚)   | 11 minutes |
 
 
 ## Modified Files
@@ -18,6 +18,8 @@
 - **IF7.jrxml** (+1296, -13)
 - **IF7_booklets.jrxml** (+633, -0)
 - **JasperAsesoriaServiceImp.java** (+362, -5)
+- **AsesoriaMetadataMapper.java** (+52, -0)
+- **JUDICIAL_ESCRITO.jrxml** (+199, -0)
 
 ## Visualizations
 
@@ -26,11 +28,11 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".java" : 2197
+".java" : 2249
 ".xml" : 345
 ".json" : 51
 ".prefs" : 5
-".jrxml" : 1942
+".jrxml" : 2141
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -42,7 +44,8 @@ title Coding activity by hour (count of changes)
 "11h" : 8
 "12h" : 2
 "14h" : 4
+"16h" : 2
 ```
 
 
-> **Last Updated:** 10/1/2026, 3:03:13 PM
+> **Last Updated:** 10/1/2026, 4:48:14 PM
