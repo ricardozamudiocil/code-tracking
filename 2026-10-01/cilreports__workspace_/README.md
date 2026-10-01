@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 1309                                          |
-| **Lines Removed** (➖) | 9                                        |
-| **Net Change** (↕)    | 1300                |
-| **Active Time** (⌚)   | 2 minutes |
+| **Lines Added** (➕)   | 3238                                          |
+| **Lines Removed** (➖) | 14                                        |
+| **Net Change** (↕)    | 3224                |
+| **Active Time** (⌚)   | 6 minutes |
 
 
 ## Modified Files
@@ -15,6 +15,8 @@
 - **pom.xml** (+336, -9)
 - **launch.json** (+51, -0)
 - **org.eclipse.m2e.core.prefs** (+5, -0)
+- **IF7.jrxml** (+1296, -5)
+- **IF7_booklets.jrxml** (+633, -0)
 
 ## Visualizations
 
@@ -27,6 +29,7 @@ title Lines changed by file type
 ".xml" : 345
 ".json" : 51
 ".prefs" : 5
+".jrxml" : 1934
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -35,8 +38,8 @@ title Lines changed by file type
 pie showData
 title Coding activity by hour (count of changes)
 "10h" : 1
-"11h" : 4
+"11h" : 8
 ```
 
 
-> **Last Updated:** 10/1/2026, 11:28:13 AM
+> **Last Updated:** 10/1/2026, 11:38:13 AM

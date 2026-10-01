@@ -2,9 +2,9 @@
   "date": "2026-10-01",
   "projects": {
     "CILReports (Workspace)": {
-      "totalLinesAdded": 1309,
-      "totalLinesRemoved": 9,
-      "totalActiveTime": 2,
+      "totalLinesAdded": 3238,
+      "totalLinesRemoved": 14,
+      "totalActiveTime": 6,
       "files": {
         "c:\\Workspace\\CILReports\\src\\main\\java\\cil\\web\\jasper\\service\\recobros\\impl\\JasperRecoverServiceImpl.java": [
           {
@@ -82,6 +82,66 @@
             },
             "duration": 1,
             "language": "prefs"
+          }
+        ],
+        "c:\\Workspace\\CILReports\\src\\main\\resources\\jasper\\plantillas\\IF7\\IF7.jrxml": [
+          {
+            "timestamp": "2026-10-01T09:35:42.721Z",
+            "fileName": "c:\\Workspace\\CILReports\\src\\main\\resources\\jasper\\plantillas\\IF7\\IF7.jrxml",
+            "fileType": ".jrxml",
+            "linesAdded": 1296,
+            "linesRemoved": 0,
+            "projectName": "CILReports (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "jrxml"
+          },
+          {
+            "timestamp": "2026-10-01T09:37:04.528Z",
+            "fileName": "c:\\Workspace\\CILReports\\src\\main\\resources\\jasper\\plantillas\\IF7\\IF7.jrxml",
+            "fileType": ".jrxml",
+            "linesAdded": 0,
+            "linesRemoved": 5,
+            "projectName": "CILReports (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "jrxml"
+          }
+        ],
+        "c:\\Workspace\\CILReports\\src\\main\\resources\\jasper\\plantillas\\IF7\\IF7_booklets.jrxml": [
+          {
+            "timestamp": "2026-10-01T09:37:03.447Z",
+            "fileName": "c:\\Workspace\\CILReports\\src\\main\\resources\\jasper\\plantillas\\IF7\\IF7_booklets.jrxml",
+            "fileType": ".jrxml",
+            "linesAdded": 631,
+            "linesRemoved": 0,
+            "projectName": "CILReports (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "jrxml"
+          },
+          {
+            "timestamp": "2026-10-01T09:37:04.447Z",
+            "fileName": "c:\\Workspace\\CILReports\\src\\main\\resources\\jasper\\plantillas\\IF7\\IF7_booklets.jrxml",
+            "fileType": ".jrxml",
+            "linesAdded": 2,
+            "linesRemoved": 0,
+            "projectName": "CILReports (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "jrxml"
           }
         ]
       },
