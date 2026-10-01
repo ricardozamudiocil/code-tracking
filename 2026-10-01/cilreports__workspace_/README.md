@@ -5,9 +5,9 @@
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
 | **Lines Added** (➕)   | 4513                                          |
-| **Lines Removed** (➖) | 25                                        |
-| **Net Change** (↕)    | 4488                |
-| **Active Time** (⌚)   | 7 minutes |
+| **Lines Removed** (➖) | 27                                        |
+| **Net Change** (↕)    | 4486                |
+| **Active Time** (⌚)   | 8 minutes |
 
 
 ## Modified Files
@@ -17,7 +17,7 @@
 - **org.eclipse.m2e.core.prefs** (+5, -0)
 - **IF7.jrxml** (+1296, -13)
 - **IF7_booklets.jrxml** (+633, -0)
-- **JasperAsesoriaServiceImp.java** (+362, -3)
+- **JasperAsesoriaServiceImp.java** (+362, -5)
 
 ## Visualizations
 
@@ -26,7 +26,7 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".java" : 2195
+".java" : 2197
 ".xml" : 345
 ".json" : 51
 ".prefs" : 5
@@ -41,8 +41,8 @@ title Coding activity by hour (count of changes)
 "10h" : 1
 "11h" : 8
 "12h" : 2
-"14h" : 2
+"14h" : 4
 ```
 
 
-> **Last Updated:** 10/1/2026, 2:53:13 PM
+> **Last Updated:** 10/1/2026, 3:03:13 PM
