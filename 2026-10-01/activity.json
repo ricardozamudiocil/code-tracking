@@ -2,8 +2,8 @@
   "date": "2026-10-01",
   "projects": {
     "CILReports (Workspace)": {
-      "totalLinesAdded": 3238,
-      "totalLinesRemoved": 14,
+      "totalLinesAdded": 4151,
+      "totalLinesRemoved": 22,
       "totalActiveTime": 6,
       "files": {
         "c:\\Workspace\\CILReports\\src\\main\\java\\cil\\web\\jasper\\service\\recobros\\impl\\JasperRecoverServiceImpl.java": [
@@ -12,6 +12,20 @@
             "fileName": "c:\\Workspace\\CILReports\\src\\main\\java\\cil\\web\\jasper\\service\\recobros\\impl\\JasperRecoverServiceImpl.java",
             "fileType": ".java",
             "linesAdded": 917,
+            "linesRemoved": 0,
+            "projectName": "CILReports (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "java"
+          },
+          {
+            "timestamp": "2026-10-01T10:03:29.083Z",
+            "fileName": "c:\\Workspace\\CILReports\\src\\main\\java\\cil\\web\\jasper\\service\\recobros\\impl\\JasperRecoverServiceImpl.java",
+            "fileType": ".java",
+            "linesAdded": 913,
             "linesRemoved": 0,
             "projectName": "CILReports (Workspace)",
             "content": {
@@ -111,6 +125,20 @@
               "removed": []
             },
             "duration": 1,
+            "language": "jrxml"
+          },
+          {
+            "timestamp": "2026-10-01T10:03:29.186Z",
+            "fileName": "c:\\Workspace\\CILReports\\src\\main\\resources\\jasper\\plantillas\\IF7\\IF7.jrxml",
+            "fileType": ".jrxml",
+            "linesAdded": 0,
+            "linesRemoved": 8,
+            "projectName": "CILReports (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
             "language": "jrxml"
           }
         ],
