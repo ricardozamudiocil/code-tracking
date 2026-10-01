@@ -274,6 +274,56 @@
         "c:\\Workspace\\CILWebCustomerComunicationFront\\src\\main\\src\\app\\servicies\\style-conversor\\style-conversor.service.ts"
       ],
       "averageChangeSize": 75
+    },
+    "CILApp": {
+      "totalLinesAdded": 3873,
+      "totalLinesRemoved": 0,
+      "totalActiveTime": 0,
+      "files": {
+        "c:\\CilAPPP\\CILApp\\src\\cil\\modulos\\cobros\\BatchServer\\SubidaCartas.java": [
+          {
+            "timestamp": "2026-10-01T14:05:02.614Z",
+            "fileName": "c:\\CilAPPP\\CILApp\\src\\cil\\modulos\\cobros\\BatchServer\\SubidaCartas.java",
+            "fileType": ".java",
+            "linesAdded": 3081,
+            "linesRemoved": 0,
+            "projectName": "CILApp",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "java"
+          }
+        ],
+        "c:\\CilAPPP\\CILApp\\src\\cil\\modulos\\recobro\\batch\\GeneraCartasRecobro.java": [
+          {
+            "timestamp": "2026-10-01T14:05:02.661Z",
+            "fileName": "c:\\CilAPPP\\CILApp\\src\\cil\\modulos\\recobro\\batch\\GeneraCartasRecobro.java",
+            "fileType": ".java",
+            "linesAdded": 792,
+            "linesRemoved": 0,
+            "projectName": "CILApp",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "java"
+          }
+        ]
+      },
+      "languageStats": {
+        "java": 0
+      },
+      "changeFrequency": {
+        "16": 0
+      },
+      "topFiles": [
+        "c:\\CilAPPP\\CILApp\\src\\cil\\modulos\\cobros\\BatchServer\\SubidaCartas.java",
+        "c:\\CilAPPP\\CILApp\\src\\cil\\modulos\\recobro\\batch\\GeneraCartasRecobro.java"
+      ],
+      "averageChangeSize": 1936.5
     }
   },
   "totalActiveTime": 0,
