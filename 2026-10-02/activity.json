@@ -2,7 +2,7 @@
   "date": "2026-10-02",
   "projects": {
     "CILReports (Workspace)": {
-      "totalLinesAdded": 155,
+      "totalLinesAdded": 252,
       "totalLinesRemoved": 0,
       "totalActiveTime": 0,
       "files": {
@@ -20,6 +20,22 @@
             },
             "duration": 0,
             "language": "txt"
+          }
+        ],
+        "c:\\Users\\ricardo_zamudio\\AppData\\Local\\Temp\\opencode\\recupera_factura_FR.sql": [
+          {
+            "timestamp": "2026-10-02T11:28:10.671Z",
+            "fileName": "c:\\Users\\ricardo_zamudio\\AppData\\Local\\Temp\\opencode\\recupera_factura_FR.sql",
+            "fileType": ".sql",
+            "linesAdded": 97,
+            "linesRemoved": 0,
+            "projectName": "CILReports (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "sql"
           }
         ]
       },
