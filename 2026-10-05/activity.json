@@ -1,0 +1,47 @@
+{
+  "date": "2026-10-05",
+  "projects": {
+    "Scripts": {
+      "totalLinesAdded": 14,
+      "totalLinesRemoved": 0,
+      "totalActiveTime": 0,
+      "files": {
+        "c:\\Desarrollos\\Migracion Jasper\\Filtros de pedidos\\Resumen ejecutivo.txt": [
+          {
+            "timestamp": "2026-10-05T15:12:19.718Z",
+            "fileName": "c:\\Desarrollos\\Migracion Jasper\\Filtros de pedidos\\Resumen ejecutivo.txt",
+            "fileType": ".txt",
+            "linesAdded": 14,
+            "linesRemoved": 0,
+            "projectName": "Scripts",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "txt"
+          }
+        ]
+      },
+      "languageStats": {
+        "txt": 0
+      },
+      "changeFrequency": {
+        "17": 0
+      },
+      "topFiles": [
+        "c:\\Desarrollos\\Migracion Jasper\\Filtros de pedidos\\Resumen ejecutivo.txt"
+      ],
+      "averageChangeSize": 14
+    }
+  },
+  "totalActiveTime": 0,
+  "totalProjects": 1,
+  "totalFiles": 1,
+  "mostActiveHours": [
+    17
+  ],
+  "mostUsedLanguages": [
+    "txt"
+  ]
+}
