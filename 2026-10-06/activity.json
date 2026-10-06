@@ -49,6 +49,39 @@
         "c:\\Users\\ricardo_zamudio\\FINAL_POLONIA_TV_ALM-98.txt\\FINAL_POLONIA_TV_ALM-98.txt"
       ],
       "averageChangeSize": 76
+    },
+    "CILReports (Workspace)": {
+      "totalLinesAdded": 26,
+      "totalLinesRemoved": 0,
+      "totalActiveTime": 0,
+      "files": {
+        "c:\\Users\\ricardo_zamudio\\AppData\\Local\\Temp\\opencode\\recupera_factura_FR_2670197610.txt": [
+          {
+            "timestamp": "2026-10-06T09:51:52.602Z",
+            "fileName": "c:\\Users\\ricardo_zamudio\\AppData\\Local\\Temp\\opencode\\recupera_factura_FR_2670197610.txt",
+            "fileType": ".txt",
+            "linesAdded": 26,
+            "linesRemoved": 0,
+            "projectName": "CILReports (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "txt"
+          }
+        ]
+      },
+      "languageStats": {
+        "txt": 0
+      },
+      "changeFrequency": {
+        "11": 0
+      },
+      "topFiles": [
+        "c:\\Users\\ricardo_zamudio\\AppData\\Local\\Temp\\opencode\\recupera_factura_FR_2670197610.txt"
+      ],
+      "averageChangeSize": 26
     }
   },
   "totalActiveTime": 0,
