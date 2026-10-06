@@ -114,6 +114,39 @@
         "c:\\Users\\ricardo_zamudio\\AppData\\Local\\Temp\\opencode\\recupera_factura_FR_2670197610.txt"
       ],
       "averageChangeSize": 26
+    },
+    "InformesDocPath": {
+      "totalLinesAdded": 55,
+      "totalLinesRemoved": 0,
+      "totalActiveTime": 0,
+      "files": {
+        "c:\\Workspace\\InformesDocPath\\ReportsV6\\POLONIA_TV_2.pcf": [
+          {
+            "timestamp": "2026-10-06T10:41:13.981Z",
+            "fileName": "c:\\Workspace\\InformesDocPath\\ReportsV6\\POLONIA_TV_2.pcf",
+            "fileType": ".pcf",
+            "linesAdded": 55,
+            "linesRemoved": 0,
+            "projectName": "InformesDocPath",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "pcf"
+          }
+        ]
+      },
+      "languageStats": {
+        "pcf": 0
+      },
+      "changeFrequency": {
+        "12": 0
+      },
+      "topFiles": [
+        "c:\\Workspace\\InformesDocPath\\ReportsV6\\POLONIA_TV_2.pcf"
+      ],
+      "averageChangeSize": 55
     }
   },
   "totalActiveTime": 0,
