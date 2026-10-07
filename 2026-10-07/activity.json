@@ -2,7 +2,7 @@
   "date": "2026-10-07",
   "projects": {
     "CILReports (Workspace)": {
-      "totalLinesAdded": 12,
+      "totalLinesAdded": 536,
       "totalLinesRemoved": 75,
       "totalActiveTime": 0,
       "files": {
@@ -52,6 +52,22 @@
             },
             "duration": 0,
             "language": "java"
+          }
+        ],
+        "c:\\Workspace\\CILReports\\src\\main\\resources\\jasper\\plantillas\\promociones\\3650.jrxml": [
+          {
+            "timestamp": "2026-10-07T14:23:39.610Z",
+            "fileName": "c:\\Workspace\\CILReports\\src\\main\\resources\\jasper\\plantillas\\promociones\\3650.jrxml",
+            "fileType": ".jrxml",
+            "linesAdded": 524,
+            "linesRemoved": 0,
+            "projectName": "CILReports (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "jrxml"
           }
         ]
       },
