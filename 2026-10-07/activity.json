@@ -1,0 +1,83 @@
+{
+  "date": "2026-10-07",
+  "projects": {
+    "CILReports (Workspace)": {
+      "totalLinesAdded": 12,
+      "totalLinesRemoved": 75,
+      "totalActiveTime": 0,
+      "files": {
+        "c:\\Workspace\\CILReports\\src\\main\\java\\cil\\web\\jasper\\service\\recobros\\impl\\JasperRecoverServiceImpl.java": [
+          {
+            "timestamp": "2026-10-07T08:16:10.790Z",
+            "fileName": "c:\\Workspace\\CILReports\\src\\main\\java\\cil\\web\\jasper\\service\\recobros\\impl\\JasperRecoverServiceImpl.java",
+            "fileType": ".java",
+            "linesAdded": 4,
+            "linesRemoved": 0,
+            "projectName": "CILReports (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "java"
+          }
+        ],
+        "c:\\Workspace\\CILReports\\src\\main\\resources\\jasper\\plantillas\\IF7\\IF7.jrxml": [
+          {
+            "timestamp": "2026-10-07T08:16:10.915Z",
+            "fileName": "c:\\Workspace\\CILReports\\src\\main\\resources\\jasper\\plantillas\\IF7\\IF7.jrxml",
+            "fileType": ".jrxml",
+            "linesAdded": 8,
+            "linesRemoved": 0,
+            "projectName": "CILReports (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "jrxml"
+          }
+        ],
+        "c:\\Workspace\\CILReports\\src\\main\\java\\cil\\web\\jasper\\service\\asesoria\\impl\\JasperAsesoriaServiceImp.java": [
+          {
+            "timestamp": "2026-10-07T08:16:11.224Z",
+            "fileName": "c:\\Workspace\\CILReports\\src\\main\\java\\cil\\web\\jasper\\service\\asesoria\\impl\\JasperAsesoriaServiceImp.java",
+            "fileType": ".java",
+            "linesAdded": 0,
+            "linesRemoved": 75,
+            "projectName": "CILReports (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "java"
+          }
+        ]
+      },
+      "languageStats": {
+        "java": 0,
+        "jrxml": 0
+      },
+      "changeFrequency": {
+        "10": 0
+      },
+      "topFiles": [
+        "c:\\Workspace\\CILReports\\src\\main\\java\\cil\\web\\jasper\\service\\recobros\\impl\\JasperRecoverServiceImpl.java",
+        "c:\\Workspace\\CILReports\\src\\main\\resources\\jasper\\plantillas\\IF7\\IF7.jrxml",
+        "c:\\Workspace\\CILReports\\src\\main\\java\\cil\\web\\jasper\\service\\asesoria\\impl\\JasperAsesoriaServiceImp.java"
+      ],
+      "averageChangeSize": 29
+    }
+  },
+  "totalActiveTime": 2,
+  "totalProjects": 1,
+  "totalFiles": 3,
+  "mostActiveHours": [
+    10
+  ],
+  "mostUsedLanguages": [
+    "java",
+    "jrxml"
+  ]
+}
