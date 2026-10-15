@@ -3,7 +3,7 @@
   "projects": {
     "CILApp": {
       "totalLinesAdded": 3465,
-      "totalLinesRemoved": 55,
+      "totalLinesRemoved": 215,
       "totalActiveTime": 4,
       "files": {
         "c:\\CilAPPP\\CILApp\\.vscode\\launch.json": [
@@ -93,6 +93,20 @@
               "removed": []
             },
             "duration": 1,
+            "language": "java"
+          },
+          {
+            "timestamp": "2026-10-15T14:55:32.810Z",
+            "fileName": "c:\\CilAPPP\\CILApp\\src\\cil\\modulos\\asesoria\\BatchServer\\ProcMonitorioToMASC.java",
+            "fileType": ".java",
+            "linesAdded": 0,
+            "linesRemoved": 3,
+            "projectName": "CILApp",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
             "language": "java"
           }
         ],
@@ -187,6 +201,20 @@
             "fileType": ".java",
             "linesAdded": 0,
             "linesRemoved": 34,
+            "projectName": "CILApp",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "java"
+          },
+          {
+            "timestamp": "2026-10-15T14:55:32.754Z",
+            "fileName": "c:\\CilAPPP\\CILApp\\src\\cil\\modulos\\asesoria\\service\\MascSmsService.java",
+            "fileType": ".java",
+            "linesAdded": 0,
+            "linesRemoved": 157,
             "projectName": "CILApp",
             "content": {
               "added": [],
