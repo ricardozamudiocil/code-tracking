@@ -249,9 +249,9 @@
       "averageChangeSize": 76
     },
     "Scripts": {
-      "totalLinesAdded": 82,
+      "totalLinesAdded": 86,
       "totalLinesRemoved": 0,
-      "totalActiveTime": 0,
+      "totalActiveTime": 3,
       "files": {
         "c:\\Workspace\\Scripts\\home\\cilcobol\\ftp\\FTP_ESENDEX_ASE.sh": [
           {
@@ -267,6 +267,36 @@
             },
             "duration": 0,
             "language": "sh"
+          }
+        ],
+        "c:\\Workspace\\Scripts\\.vscode\\settings.json": [
+          {
+            "timestamp": "2026-10-15T14:22:45.906Z",
+            "fileName": "c:\\Workspace\\Scripts\\.vscode\\settings.json",
+            "fileType": ".json",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "Scripts",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "json"
+          },
+          {
+            "timestamp": "2026-10-15T14:22:49.366Z",
+            "fileName": "c:\\Workspace\\Scripts\\.vscode\\settings.json",
+            "fileType": ".json",
+            "linesAdded": 3,
+            "linesRemoved": 0,
+            "projectName": "Scripts",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "json"
           }
         ]
       },
