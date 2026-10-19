@@ -5,13 +5,15 @@
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
 | **Lines Added** (➕)   | 0                                          |
-| **Lines Removed** (➖) | 2                                        |
-| **Net Change** (↕)    | -2                |
+| **Lines Removed** (➖) | 185                                        |
+| **Net Change** (↕)    | -185                |
 | **Active Time** (⌚)   | 0 minute |
 
 
 ## Modified Files
-- **ProcMonitorioToMASC.java** (+0, -2)
+- **ProcMonitorioToMASC.java** (+0, -3)
+- **MascSmsService.java** (+0, -181)
+- **ConstantesNotif.java** (+0, -1)
 
 ## Visualizations
 
@@ -20,7 +22,7 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".java" : 2
+".java" : 185
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -28,8 +30,8 @@ title Lines changed by file type
 ```mermaid
 pie showData
 title Coding activity by hour (count of changes)
-"14h" : 1
+"14h" : 4
 ```
 
 
-> **Last Updated:** 10/19/2026, 2:03:37 PM
+> **Last Updated:** 10/19/2026, 2:23:37 PM
