@@ -4,14 +4,16 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 199                                          |
+| **Lines Added** (➕)   | 658                                          |
 | **Lines Removed** (➖) | 13                                        |
-| **Net Change** (↕)    | 186                |
+| **Net Change** (↕)    | 645                |
 | **Active Time** (⌚)   | 0 minute |
 
 
 ## Modified Files
 - **JUDICIAL_ESCRITO.jrxml** (+199, -13)
+- **JasperAsesoriaServiceImp.java** (+373, -0)
+- **JasperAsesoriaRestController.java** (+86, -0)
 
 ## Visualizations
 
@@ -21,6 +23,7 @@
 pie showData
 title Lines changed by file type
 ".jrxml" : 212
+".java" : 459
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -29,8 +32,8 @@ title Lines changed by file type
 pie showData
 title Coding activity by hour (count of changes)
 "13h" : 1
-"16h" : 1
+"16h" : 3
 ```
 
 
-> **Last Updated:** 10/20/2026, 4:34:58 PM
+> **Last Updated:** 10/20/2026, 4:44:58 PM
