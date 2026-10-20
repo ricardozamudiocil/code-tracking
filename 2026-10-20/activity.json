@@ -3,7 +3,7 @@
   "projects": {
     "CILWebCustomerComunication": {
       "totalLinesAdded": 253,
-      "totalLinesRemoved": 2,
+      "totalLinesRemoved": 3,
       "totalActiveTime": 3,
       "files": {
         "c:\\Workspace\\CILWebCustomerComunication\\src\\main\\java\\cil\\web\\cilcustomercom\\application\\service\\impl\\SendServiceImpl.java": [
@@ -77,6 +77,20 @@
               "removed": []
             },
             "duration": 1,
+            "language": "java"
+          },
+          {
+            "timestamp": "2026-10-20T14:57:03.808Z",
+            "fileName": "c:\\Workspace\\CILWebCustomerComunication\\src\\main\\java\\cil\\web\\cilcustomercom\\infrastructure\\email_service\\EmailStmpAdapter.java",
+            "fileType": ".java",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "CILWebCustomerComunication",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
             "language": "java"
           }
         ],
