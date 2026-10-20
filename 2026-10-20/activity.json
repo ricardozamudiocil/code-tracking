@@ -47,6 +47,39 @@
         "c:\\Workspace\\CILWebCustomerComunication\\src\\main\\java\\cil\\web\\cilcustomercom\\application\\service\\impl\\SendServiceImpl.java"
       ],
       "averageChangeSize": 10.5
+    },
+    "CILApp": {
+      "totalLinesAdded": 0,
+      "totalLinesRemoved": 1221,
+      "totalActiveTime": 0,
+      "files": {
+        "c:\\CilAPPP\\CILApp\\.vscode\\launch.json": [
+          {
+            "timestamp": "2026-10-20T10:04:54.254Z",
+            "fileName": "c:\\CilAPPP\\CILApp\\.vscode\\launch.json",
+            "fileType": ".json",
+            "linesAdded": 0,
+            "linesRemoved": 1221,
+            "projectName": "CILApp",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "json"
+          }
+        ]
+      },
+      "languageStats": {
+        "json": 0
+      },
+      "changeFrequency": {
+        "12": 0
+      },
+      "topFiles": [
+        "c:\\CilAPPP\\CILApp\\.vscode\\launch.json"
+      ],
+      "averageChangeSize": 1221
     }
   },
   "totalActiveTime": 1,
