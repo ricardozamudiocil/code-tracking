@@ -123,9 +123,9 @@
       "averageChangeSize": 10.5
     },
     "CILApp": {
-      "totalLinesAdded": 2681,
-      "totalLinesRemoved": 1225,
-      "totalActiveTime": 8,
+      "totalLinesAdded": 3052,
+      "totalLinesRemoved": 1226,
+      "totalActiveTime": 10,
       "files": {
         "c:\\CilAPPP\\CILApp\\.vscode\\launch.json": [
           {
@@ -297,6 +297,20 @@
             },
             "duration": 4,
             "language": "java"
+          },
+          {
+            "timestamp": "2026-10-20T15:01:42.128Z",
+            "fileName": "c:\\CilAPPP\\CILApp\\src\\cil\\modulos\\asesoria\\BatchServer\\ProcesoCartasAsesoria.java",
+            "fileType": ".java",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "CILApp",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "java"
           }
         ],
         "c:\\CilAPPP\\CILApp\\src\\cil\\ws\\shopify\\WsOrdersReport.java": [
@@ -344,6 +358,38 @@
               "removed": []
             },
             "duration": 0,
+            "language": "java"
+          }
+        ],
+        "c:\\CilAPPP\\CILApp\\src\\cil\\modulos\\asesoria\\BatchServer\\DatosCartaAsesoria.java": [
+          {
+            "timestamp": "2026-10-20T15:01:29.900Z",
+            "fileName": "c:\\CilAPPP\\CILApp\\src\\cil\\modulos\\asesoria\\BatchServer\\DatosCartaAsesoria.java",
+            "fileType": ".java",
+            "linesAdded": 327,
+            "linesRemoved": 0,
+            "projectName": "CILApp",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "java"
+          }
+        ],
+        "c:\\CilAPPP\\CILApp\\src\\cil\\util\\Constantes.java": [
+          {
+            "timestamp": "2026-10-20T15:02:20.559Z",
+            "fileName": "c:\\CilAPPP\\CILApp\\src\\cil\\util\\Constantes.java",
+            "fileType": ".java",
+            "linesAdded": 44,
+            "linesRemoved": 0,
+            "projectName": "CILApp",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
             "language": "java"
           }
         ]
