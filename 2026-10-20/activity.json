@@ -152,6 +152,39 @@
         "c:\\CilAPPP\\CILApp\\.vscode\\launch.json"
       ],
       "averageChangeSize": 1221
+    },
+    "CILReports (Workspace)": {
+      "totalLinesAdded": 199,
+      "totalLinesRemoved": 0,
+      "totalActiveTime": 0,
+      "files": {
+        "c:\\Workspace\\CILReports\\src\\main\\resources\\jasper\\plantillas\\ase\\JUDICIAL_ESCRITO.jrxml": [
+          {
+            "timestamp": "2026-10-20T11:11:59.621Z",
+            "fileName": "c:\\Workspace\\CILReports\\src\\main\\resources\\jasper\\plantillas\\ase\\JUDICIAL_ESCRITO.jrxml",
+            "fileType": ".jrxml",
+            "linesAdded": 199,
+            "linesRemoved": 0,
+            "projectName": "CILReports (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "jrxml"
+          }
+        ]
+      },
+      "languageStats": {
+        "jrxml": 0
+      },
+      "changeFrequency": {
+        "13": 0
+      },
+      "topFiles": [
+        "c:\\Workspace\\CILReports\\src\\main\\resources\\jasper\\plantillas\\ase\\JUDICIAL_ESCRITO.jrxml"
+      ],
+      "averageChangeSize": 199
     }
   },
   "totalActiveTime": 1,
