@@ -1,0 +1,61 @@
+{
+  "date": "2026-10-22",
+  "projects": {
+    "Scripts": {
+      "totalLinesAdded": 2341,
+      "totalLinesRemoved": 0,
+      "totalActiveTime": 2,
+      "files": {
+        "c:\\Users\\ricardo_zamudio\\Fichero Pedido Seguro.csv": [
+          {
+            "timestamp": "2026-10-22T09:41:28.849Z",
+            "fileName": "c:\\Users\\ricardo_zamudio\\Fichero Pedido Seguro.csv",
+            "fileType": ".csv",
+            "linesAdded": 2,
+            "linesRemoved": 0,
+            "projectName": "Scripts",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "csv"
+          },
+          {
+            "timestamp": "2026-10-22T09:42:29.903Z",
+            "fileName": "c:\\Users\\ricardo_zamudio\\Fichero Pedido Seguro.csv",
+            "fileType": ".csv",
+            "linesAdded": 2339,
+            "linesRemoved": 0,
+            "projectName": "Scripts",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "csv"
+          }
+        ]
+      },
+      "languageStats": {
+        "csv": 2
+      },
+      "changeFrequency": {
+        "11": 2
+      },
+      "topFiles": [
+        "c:\\Users\\ricardo_zamudio\\Fichero Pedido Seguro.csv"
+      ],
+      "averageChangeSize": 1170.5
+    }
+  },
+  "totalActiveTime": 2,
+  "totalProjects": 1,
+  "totalFiles": 1,
+  "mostActiveHours": [
+    11
+  ],
+  "mostUsedLanguages": [
+    "csv"
+  ]
+}
