@@ -2,7 +2,7 @@
   "date": "2026-10-22",
   "projects": {
     "Scripts": {
-      "totalLinesAdded": 2341,
+      "totalLinesAdded": 4173,
       "totalLinesRemoved": 0,
       "totalActiveTime": 2,
       "files": {
@@ -33,6 +33,20 @@
               "removed": []
             },
             "duration": 2,
+            "language": "csv"
+          },
+          {
+            "timestamp": "2026-10-22T10:01:36.407Z",
+            "fileName": "c:\\Users\\ricardo_zamudio\\Fichero Pedido Seguro.csv",
+            "fileType": ".csv",
+            "linesAdded": 1832,
+            "linesRemoved": 0,
+            "projectName": "Scripts",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
             "language": "csv"
           }
         ]
