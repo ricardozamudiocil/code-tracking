@@ -2,9 +2,9 @@
   "date": "2026-10-26",
   "projects": {
     "CILReports (Workspace)": {
-      "totalLinesAdded": 337,
-      "totalLinesRemoved": 0,
-      "totalActiveTime": 6,
+      "totalLinesAdded": 769,
+      "totalLinesRemoved": 97,
+      "totalActiveTime": 7,
       "files": {
         "c:\\Workspace\\CILReports\\src\\main\\java\\cil\\web\\jasper\\constants\\if2\\ConstantsJasperIF2Documentation.java": [
           {
@@ -65,6 +65,102 @@
               "removed": []
             },
             "duration": 2,
+            "language": "xml"
+          }
+        ],
+        "c:\\Workspace\\CILReports\\src\\main\\java\\cil\\web\\jasper\\service\\asesoria\\impl\\JasperAsesoriaServiceImp.java": [
+          {
+            "timestamp": "2026-10-26T16:18:54.993Z",
+            "fileName": "c:\\Workspace\\CILReports\\src\\main\\java\\cil\\web\\jasper\\service\\asesoria\\impl\\JasperAsesoriaServiceImp.java",
+            "fileType": ".java",
+            "linesAdded": 0,
+            "linesRemoved": 91,
+            "projectName": "CILReports (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "java"
+          }
+        ],
+        "c:\\Workspace\\CILReports\\src\\main\\java\\cil\\web\\jasper\\controller\\rest\\asesoria\\JasperAsesoriaRestController.java": [
+          {
+            "timestamp": "2026-10-26T16:18:54.947Z",
+            "fileName": "c:\\Workspace\\CILReports\\src\\main\\java\\cil\\web\\jasper\\controller\\rest\\asesoria\\JasperAsesoriaRestController.java",
+            "fileType": ".java",
+            "linesAdded": 0,
+            "linesRemoved": 6,
+            "projectName": "CILReports (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "java"
+          }
+        ],
+        "c:\\Workspace\\CILReports\\src\\main\\java\\cil\\web\\jasper\\repository\\asesoria_repository\\AsesoriaRepository.java": [
+          {
+            "timestamp": "2026-10-26T16:18:55.030Z",
+            "fileName": "c:\\Workspace\\CILReports\\src\\main\\java\\cil\\web\\jasper\\repository\\asesoria_repository\\AsesoriaRepository.java",
+            "fileType": ".java",
+            "linesAdded": 86,
+            "linesRemoved": 0,
+            "projectName": "CILReports (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "java"
+          }
+        ],
+        "c:\\Workspace\\CILReports\\src\\main\\java\\cil\\web\\jasper\\repository\\asesoria_repository\\queries\\AsesoriaSqlQueries.java": [
+          {
+            "timestamp": "2026-10-26T16:18:55.072Z",
+            "fileName": "c:\\Workspace\\CILReports\\src\\main\\java\\cil\\web\\jasper\\repository\\asesoria_repository\\queries\\AsesoriaSqlQueries.java",
+            "fileType": ".java",
+            "linesAdded": 40,
+            "linesRemoved": 0,
+            "projectName": "CILReports (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "java"
+          }
+        ],
+        "c:\\Workspace\\CILReports\\src\\main\\java\\cil\\web\\jasper\\service\\asesoria\\JasperAsesoriaService.java": [
+          {
+            "timestamp": "2026-10-26T16:18:55.114Z",
+            "fileName": "c:\\Workspace\\CILReports\\src\\main\\java\\cil\\web\\jasper\\service\\asesoria\\JasperAsesoriaService.java",
+            "fileType": ".java",
+            "linesAdded": 24,
+            "linesRemoved": 0,
+            "projectName": "CILReports (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "java"
+          }
+        ],
+        "c:\\Users\\ricardo_zamudio\\AppData\\Roaming\\FileZilla\\filezilla.xml": [
+          {
+            "timestamp": "2026-10-26T16:19:00.532Z",
+            "fileName": "c:\\Users\\ricardo_zamudio\\AppData\\Roaming\\FileZilla\\filezilla.xml",
+            "fileType": ".xml",
+            "linesAdded": 282,
+            "linesRemoved": 0,
+            "projectName": "CILReports (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
             "language": "xml"
           }
         ]
