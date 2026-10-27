@@ -69,9 +69,9 @@
       "averageChangeSize": 66.66666666666667
     },
     "CILReports (Workspace)": {
-      "totalLinesAdded": 362,
+      "totalLinesAdded": 612,
       "totalLinesRemoved": 0,
-      "totalActiveTime": 0,
+      "totalActiveTime": 1,
       "files": {
         "c:\\Workspace\\CILReports\\src\\main\\resources\\jasper\\plantillas\\cobros\\FCBR.jrxml": [
           {
@@ -86,6 +86,36 @@
               "removed": []
             },
             "duration": 0,
+            "language": "jrxml"
+          },
+          {
+            "timestamp": "2026-10-27T15:02:52.888Z",
+            "fileName": "c:\\Workspace\\CILReports\\src\\main\\resources\\jasper\\plantillas\\cobros\\FCBR.jrxml",
+            "fileType": ".jrxml",
+            "linesAdded": 12,
+            "linesRemoved": 0,
+            "projectName": "CILReports (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "jrxml"
+          }
+        ],
+        "c:\\Workspace\\CILReports\\src\\main\\resources\\jasper\\plantillas\\recobro\\RES\\RES.jrxml": [
+          {
+            "timestamp": "2026-10-27T15:03:23.602Z",
+            "fileName": "c:\\Workspace\\CILReports\\src\\main\\resources\\jasper\\plantillas\\recobro\\RES\\RES.jrxml",
+            "fileType": ".jrxml",
+            "linesAdded": 238,
+            "linesRemoved": 0,
+            "projectName": "CILReports (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
             "language": "jrxml"
           }
         ]
