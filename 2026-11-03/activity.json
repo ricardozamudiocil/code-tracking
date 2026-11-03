@@ -111,6 +111,39 @@
         "c:\\Workspace\\CILReports\\.vscode\\settings.json"
       ],
       "averageChangeSize": 11
+    },
+    "Untitled (Workspace)": {
+      "totalLinesAdded": 529,
+      "totalLinesRemoved": 0,
+      "totalActiveTime": 0,
+      "files": {
+        "c:\\Pruebas\\Migracion Jasper\\Cobros\\eventcode_docpath4.txt": [
+          {
+            "timestamp": "2026-11-03T13:11:37.157Z",
+            "fileName": "c:\\Pruebas\\Migracion Jasper\\Cobros\\eventcode_docpath4.txt",
+            "fileType": ".txt",
+            "linesAdded": 529,
+            "linesRemoved": 0,
+            "projectName": "Untitled (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "txt"
+          }
+        ]
+      },
+      "languageStats": {
+        "txt": 0
+      },
+      "changeFrequency": {
+        "14": 0
+      },
+      "topFiles": [
+        "c:\\Pruebas\\Migracion Jasper\\Cobros\\eventcode_docpath4.txt"
+      ],
+      "averageChangeSize": 529
     }
   },
   "totalActiveTime": 0,
