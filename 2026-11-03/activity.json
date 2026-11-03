@@ -2,8 +2,8 @@
   "date": "2026-11-03",
   "projects": {
     "CILReports (Workspace)": {
-      "totalLinesAdded": 83,
-      "totalLinesRemoved": 0,
+      "totalLinesAdded": 1564,
+      "totalLinesRemoved": 4,
       "totalActiveTime": 1,
       "files": {
         "c:\\Workspace\\CILReports\\.vscode\\settings.json": [
@@ -44,6 +44,52 @@
             "fileName": "c:\\Workspace\\CILReports\\src\\main\\java\\cil\\web\\jasper\\service\\post_venta\\mapper\\PostVentaMetadataMapper.java",
             "fileType": ".java",
             "linesAdded": 67,
+            "linesRemoved": 0,
+            "projectName": "CILReports (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "java"
+          },
+          {
+            "timestamp": "2026-11-03T11:55:11.207Z",
+            "fileName": "c:\\Workspace\\CILReports\\src\\main\\java\\cil\\web\\jasper\\service\\post_venta\\mapper\\PostVentaMetadataMapper.java",
+            "fileType": ".java",
+            "linesAdded": 0,
+            "linesRemoved": 4,
+            "projectName": "CILReports (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "java"
+          }
+        ],
+        "c:\\Workspace\\CILReports\\src\\main\\java\\cil\\web\\jasper\\service\\cobros\\impl\\JasperCobrosServiceImpl.java": [
+          {
+            "timestamp": "2026-11-03T11:55:10.126Z",
+            "fileName": "c:\\Workspace\\CILReports\\src\\main\\java\\cil\\web\\jasper\\service\\cobros\\impl\\JasperCobrosServiceImpl.java",
+            "fileType": ".java",
+            "linesAdded": 568,
+            "linesRemoved": 0,
+            "projectName": "CILReports (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "java"
+          }
+        ],
+        "c:\\Workspace\\CILReports\\src\\main\\java\\cil\\web\\jasper\\service\\recobros\\impl\\JasperRecoverServiceImpl.java": [
+          {
+            "timestamp": "2026-11-03T11:55:13.041Z",
+            "fileName": "c:\\Workspace\\CILReports\\src\\main\\java\\cil\\web\\jasper\\service\\recobros\\impl\\JasperRecoverServiceImpl.java",
+            "fileType": ".java",
+            "linesAdded": 913,
             "linesRemoved": 0,
             "projectName": "CILReports (Workspace)",
             "content": {
