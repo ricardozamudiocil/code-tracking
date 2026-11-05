@@ -2,9 +2,9 @@
   "date": "2026-11-05",
   "projects": {
     "CILApp": {
-      "totalLinesAdded": 1136,
-      "totalLinesRemoved": 0,
-      "totalActiveTime": 0,
+      "totalLinesAdded": 1203,
+      "totalLinesRemoved": 64,
+      "totalActiveTime": 1,
       "files": {
         "c:\\Users\\ricardo_zamudio\\output docpath y ejemplo de 1495 desglosado.txt": [
           {
@@ -20,6 +20,36 @@
             },
             "duration": 0,
             "language": "txt"
+          }
+        ],
+        "c:\\Users\\ricardo_zamudio\\_SELECT_MEDIO_PAGO_PED_COD_ARTICULO_DESC_ARTICULO_CD_TRATAMIENTO_202610061616.csv": [
+          {
+            "timestamp": "2026-11-05T11:14:14.811Z",
+            "fileName": "c:\\Users\\ricardo_zamudio\\_SELECT_MEDIO_PAGO_PED_COD_ARTICULO_DESC_ARTICULO_CD_TRATAMIENTO_202610061616.csv",
+            "fileType": ".csv",
+            "linesAdded": 67,
+            "linesRemoved": 0,
+            "projectName": "CILApp",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "csv"
+          },
+          {
+            "timestamp": "2026-11-05T11:14:16.673Z",
+            "fileName": "c:\\Users\\ricardo_zamudio\\_SELECT_MEDIO_PAGO_PED_COD_ARTICULO_DESC_ARTICULO_CD_TRATAMIENTO_202610061616.csv",
+            "fileType": ".csv",
+            "linesAdded": 0,
+            "linesRemoved": 64,
+            "projectName": "CILApp",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "csv"
           }
         ]
       },
