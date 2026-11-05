@@ -63,6 +63,102 @@
         "c:\\Users\\ricardo_zamudio\\output docpath y ejemplo de 1495 desglosado.txt"
       ],
       "averageChangeSize": 1136
+    },
+    "CILReports (Workspace)": {
+      "totalLinesAdded": 927,
+      "totalLinesRemoved": 36,
+      "totalActiveTime": 5,
+      "files": {
+        "c:\\Workspace\\CILReports\\src\\main\\java\\cil\\web\\jasper\\service\\distribution_documentation\\impl\\DistributionDocumentationServiceImpl.java": [
+          {
+            "timestamp": "2026-11-05T13:46:02.312Z",
+            "fileName": "c:\\Workspace\\CILReports\\src\\main\\java\\cil\\web\\jasper\\service\\distribution_documentation\\impl\\DistributionDocumentationServiceImpl.java",
+            "fileType": ".java",
+            "linesAdded": 854,
+            "linesRemoved": 0,
+            "projectName": "CILReports (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "java"
+          },
+          {
+            "timestamp": "2026-11-05T13:47:38.114Z",
+            "fileName": "c:\\Workspace\\CILReports\\src\\main\\java\\cil\\web\\jasper\\service\\distribution_documentation\\impl\\DistributionDocumentationServiceImpl.java",
+            "fileType": ".java",
+            "linesAdded": 0,
+            "linesRemoved": 33,
+            "projectName": "CILReports (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "java"
+          }
+        ],
+        "c:\\Workspace\\CILReports\\src\\main\\java\\cil\\web\\jasper\\service\\distribution_documentation\\DistributionDocumentationService.java": [
+          {
+            "timestamp": "2026-11-05T13:47:49.173Z",
+            "fileName": "c:\\Workspace\\CILReports\\src\\main\\java\\cil\\web\\jasper\\service\\distribution_documentation\\DistributionDocumentationService.java",
+            "fileType": ".java",
+            "linesAdded": 72,
+            "linesRemoved": 0,
+            "projectName": "CILReports (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "java"
+          },
+          {
+            "timestamp": "2026-11-05T13:47:49.227Z",
+            "fileName": "c:\\Workspace\\CILReports\\src\\main\\java\\cil\\web\\jasper\\service\\distribution_documentation\\DistributionDocumentationService.java",
+            "fileType": ".java",
+            "linesAdded": 0,
+            "linesRemoved": 3,
+            "projectName": "CILReports (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "java"
+          }
+        ],
+        "c:\\Workspace\\CILReports\\.git\\COMMIT_EDITMSG": [
+          {
+            "timestamp": "2026-11-05T13:48:25.171Z",
+            "fileName": "c:\\Workspace\\CILReports\\.git\\COMMIT_EDITMSG",
+            "fileType": "unknown",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "CILReports (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "unknown"
+          }
+        ]
+      },
+      "languageStats": {
+        "java": 4,
+        "unknown": 1
+      },
+      "changeFrequency": {
+        "14": 5
+      },
+      "topFiles": [
+        "c:\\Workspace\\CILReports\\src\\main\\java\\cil\\web\\jasper\\service\\distribution_documentation\\impl\\DistributionDocumentationServiceImpl.java",
+        "c:\\Workspace\\CILReports\\src\\main\\java\\cil\\web\\jasper\\service\\distribution_documentation\\DistributionDocumentationService.java",
+        "c:\\Workspace\\CILReports\\.git\\COMMIT_EDITMSG"
+      ],
+      "averageChangeSize": 192.6
     }
   },
   "totalActiveTime": 0,
