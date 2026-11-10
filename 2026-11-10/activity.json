@@ -35,7 +35,7 @@
       "averageChangeSize": 539
     },
     "Scripts": {
-      "totalLinesAdded": 153,
+      "totalLinesAdded": 163,
       "totalLinesRemoved": 0,
       "totalActiveTime": 0,
       "files": {
@@ -45,6 +45,20 @@
             "fileName": "c:\\Workspace\\Scripts\\home\\ciljava2\\oper1\\PEDIDOS_SEG_MES.sh",
             "fileType": ".sh",
             "linesAdded": 153,
+            "linesRemoved": 0,
+            "projectName": "Scripts",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "sh"
+          },
+          {
+            "timestamp": "2026-11-10T11:15:53.797Z",
+            "fileName": "c:\\Workspace\\Scripts\\home\\ciljava2\\oper1\\PEDIDOS_SEG_MES.sh",
+            "fileType": ".sh",
+            "linesAdded": 10,
             "linesRemoved": 0,
             "projectName": "Scripts",
             "content": {
