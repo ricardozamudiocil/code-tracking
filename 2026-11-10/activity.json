@@ -1,0 +1,47 @@
+{
+  "date": "2026-11-10",
+  "projects": {
+    "InformesDocPath": {
+      "totalLinesAdded": 539,
+      "totalLinesRemoved": 0,
+      "totalActiveTime": 0,
+      "files": {
+        "c:\\Workspace\\InformesDocPath\\ReportsV6\\POLONIA_TV.qdf": [
+          {
+            "timestamp": "2026-11-10T08:50:15.666Z",
+            "fileName": "c:\\Workspace\\InformesDocPath\\ReportsV6\\POLONIA_TV.qdf",
+            "fileType": ".qdf",
+            "linesAdded": 539,
+            "linesRemoved": 0,
+            "projectName": "InformesDocPath",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "qdf"
+          }
+        ]
+      },
+      "languageStats": {
+        "qdf": 0
+      },
+      "changeFrequency": {
+        "9": 0
+      },
+      "topFiles": [
+        "c:\\Workspace\\InformesDocPath\\ReportsV6\\POLONIA_TV.qdf"
+      ],
+      "averageChangeSize": 539
+    }
+  },
+  "totalActiveTime": 0,
+  "totalProjects": 1,
+  "totalFiles": 1,
+  "mostActiveHours": [
+    9
+  ],
+  "mostUsedLanguages": [
+    "qdf"
+  ]
+}
