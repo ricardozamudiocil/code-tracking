@@ -33,6 +33,39 @@
         "c:\\Workspace\\InformesDocPath\\ReportsV6\\POLONIA_TV.qdf"
       ],
       "averageChangeSize": 539
+    },
+    "Scripts": {
+      "totalLinesAdded": 153,
+      "totalLinesRemoved": 0,
+      "totalActiveTime": 0,
+      "files": {
+        "c:\\Workspace\\Scripts\\home\\ciljava2\\oper1\\PEDIDOS_SEG_MES.sh": [
+          {
+            "timestamp": "2026-11-10T10:41:17.169Z",
+            "fileName": "c:\\Workspace\\Scripts\\home\\ciljava2\\oper1\\PEDIDOS_SEG_MES.sh",
+            "fileType": ".sh",
+            "linesAdded": 153,
+            "linesRemoved": 0,
+            "projectName": "Scripts",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "sh"
+          }
+        ]
+      },
+      "languageStats": {
+        "sh": 0
+      },
+      "changeFrequency": {
+        "11": 0
+      },
+      "topFiles": [
+        "c:\\Workspace\\Scripts\\home\\ciljava2\\oper1\\PEDIDOS_SEG_MES.sh"
+      ],
+      "averageChangeSize": 153
     }
   },
   "totalActiveTime": 0,
