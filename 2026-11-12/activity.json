@@ -2,9 +2,9 @@
   "date": "2026-11-12",
   "projects": {
     "Scripts": {
-      "totalLinesAdded": 1,
-      "totalLinesRemoved": 0,
-      "totalActiveTime": 0,
+      "totalLinesAdded": 6,
+      "totalLinesRemoved": 2,
+      "totalActiveTime": 1,
       "files": {
         "c:\\Workspace\\Scripts\\home\\ciljava2\\oper1\\PEDIDOS_SEG_MES.sh": [
           {
@@ -20,6 +20,36 @@
             },
             "duration": 0,
             "language": "sh"
+          }
+        ],
+        "c:\\Users\\ricardo_zamudio\\RECUP_POLONIA_2346135.txt": [
+          {
+            "timestamp": "2026-11-12T07:53:42.639Z",
+            "fileName": "c:\\Users\\ricardo_zamudio\\RECUP_POLONIA_2346135.txt",
+            "fileType": ".txt",
+            "linesAdded": 5,
+            "linesRemoved": 0,
+            "projectName": "Scripts",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "txt"
+          },
+          {
+            "timestamp": "2026-11-12T07:54:18.569Z",
+            "fileName": "c:\\Users\\ricardo_zamudio\\RECUP_POLONIA_2346135.txt",
+            "fileType": ".txt",
+            "linesAdded": 0,
+            "linesRemoved": 2,
+            "projectName": "Scripts",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "txt"
           }
         ]
       },
