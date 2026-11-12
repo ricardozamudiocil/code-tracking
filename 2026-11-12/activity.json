@@ -252,6 +252,39 @@
         "c:\\CilAPPP\\CILApp\\src\\cil\\modulos\\distribucion\\BatchServer\\DocumentacionDRTV.java"
       ],
       "averageChangeSize": 1
+    },
+    "CILReports (Workspace)": {
+      "totalLinesAdded": 187,
+      "totalLinesRemoved": 0,
+      "totalActiveTime": 0,
+      "files": {
+        "c:\\Workspace\\CILReports\\src\\main\\resources\\jasper\\plantillas\\cobros\\COBROS_CARTAS_PT.jrxml": [
+          {
+            "timestamp": "2026-11-12T13:33:47.514Z",
+            "fileName": "c:\\Workspace\\CILReports\\src\\main\\resources\\jasper\\plantillas\\cobros\\COBROS_CARTAS_PT.jrxml",
+            "fileType": ".jrxml",
+            "linesAdded": 187,
+            "linesRemoved": 0,
+            "projectName": "CILReports (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "jrxml"
+          }
+        ]
+      },
+      "languageStats": {
+        "jrxml": 0
+      },
+      "changeFrequency": {
+        "14": 0
+      },
+      "topFiles": [
+        "c:\\Workspace\\CILReports\\src\\main\\resources\\jasper\\plantillas\\cobros\\COBROS_CARTAS_PT.jrxml"
+      ],
+      "averageChangeSize": 187
     }
   },
   "totalActiveTime": 0,
