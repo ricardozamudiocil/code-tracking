@@ -3,7 +3,7 @@
   "projects": {
     "Scripts": {
       "totalLinesAdded": 26,
-      "totalLinesRemoved": 11,
+      "totalLinesRemoved": 13,
       "totalActiveTime": 8,
       "files": {
         "c:\\Workspace\\Scripts\\home\\ciljava2\\oper1\\PEDIDOS_SEG_MES.sh": [
@@ -131,6 +131,20 @@
               "removed": []
             },
             "duration": 4,
+            "language": "sh"
+          },
+          {
+            "timestamp": "2026-11-12T11:02:16.789Z",
+            "fileName": "c:\\Workspace\\Scripts\\home\\ciljava2\\oper1\\PEDIDOS_SEG_MES.sh",
+            "fileType": ".sh",
+            "linesAdded": 0,
+            "linesRemoved": 2,
+            "projectName": "Scripts",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
             "language": "sh"
           }
         ],
