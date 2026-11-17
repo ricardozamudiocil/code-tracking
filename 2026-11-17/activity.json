@@ -51,9 +51,9 @@
       "averageChangeSize": 90
     },
     "CILApp": {
-      "totalLinesAdded": 205080,
-      "totalLinesRemoved": 31,
-      "totalActiveTime": 5,
+      "totalLinesAdded": 439479,
+      "totalLinesRemoved": 136077,
+      "totalActiveTime": 26,
       "files": {
         "c:\\CilAPPP\\CILApp\\src\\cil\\modulos\\asesoria\\BatchServer\\PresentacionMonitorios.java": [
           {
@@ -222,6 +222,106 @@
               "removed": []
             },
             "duration": 5,
+            "language": "txt"
+          }
+        ],
+        "c:\\Pruebas\\MASC\\PresentaMASC\\produccion\\17-11-2026\\backup\\Cartas_Asesoria_Resto2026-11-17.txt": [
+          {
+            "timestamp": "2026-11-17T16:36:51.516Z",
+            "fileName": "c:\\Pruebas\\MASC\\PresentaMASC\\produccion\\17-11-2026\\backup\\Cartas_Asesoria_Resto2026-11-17.txt",
+            "fileType": ".txt",
+            "linesAdded": 98353,
+            "linesRemoved": 0,
+            "projectName": "CILApp",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
+            "language": "txt"
+          },
+          {
+            "timestamp": "2026-11-17T16:39:43.575Z",
+            "fileName": "c:\\Pruebas\\MASC\\PresentaMASC\\produccion\\17-11-2026\\backup\\Cartas_Asesoria_Resto2026-11-17.txt",
+            "fileType": ".txt",
+            "linesAdded": 0,
+            "linesRemoved": 80532,
+            "projectName": "CILApp",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
+            "language": "txt"
+          },
+          {
+            "timestamp": "2026-11-17T16:39:45.597Z",
+            "fileName": "c:\\Pruebas\\MASC\\PresentaMASC\\produccion\\17-11-2026\\backup\\Cartas_Asesoria_Resto2026-11-17.txt",
+            "fileType": ".txt",
+            "linesAdded": 0,
+            "linesRemoved": 2231,
+            "projectName": "CILApp",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
+            "language": "txt"
+          },
+          {
+            "timestamp": "2026-11-17T16:39:41.662Z",
+            "fileName": "c:\\Pruebas\\MASC\\PresentaMASC\\produccion\\17-11-2026\\backup\\Cartas_Asesoria_Resto2026-11-17.txt",
+            "fileType": ".txt",
+            "linesAdded": 55514,
+            "linesRemoved": 0,
+            "projectName": "CILApp",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
+            "language": "txt"
+          },
+          {
+            "timestamp": "2026-11-17T16:39:42.770Z",
+            "fileName": "c:\\Pruebas\\MASC\\PresentaMASC\\produccion\\17-11-2026\\backup\\Cartas_Asesoria_Resto2026-11-17.txt",
+            "fileType": ".txt",
+            "linesAdded": 0,
+            "linesRemoved": 17756,
+            "projectName": "CILApp",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
+            "language": "txt"
+          },
+          {
+            "timestamp": "2026-11-17T16:39:46.053Z",
+            "fileName": "c:\\Pruebas\\MASC\\PresentaMASC\\produccion\\17-11-2026\\backup\\Cartas_Asesoria_Resto2026-11-17.txt",
+            "fileType": ".txt",
+            "linesAdded": 0,
+            "linesRemoved": 35527,
+            "projectName": "CILApp",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
+            "language": "txt"
+          },
+          {
+            "timestamp": "2026-11-17T16:39:46.406Z",
+            "fileName": "c:\\Pruebas\\MASC\\PresentaMASC\\produccion\\17-11-2026\\backup\\Cartas_Asesoria_Resto2026-11-17.txt",
+            "fileType": ".txt",
+            "linesAdded": 80532,
+            "linesRemoved": 0,
+            "projectName": "CILApp",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
             "language": "txt"
           }
         ]
