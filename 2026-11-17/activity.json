@@ -51,9 +51,9 @@
       "averageChangeSize": 90
     },
     "CILApp": {
-      "totalLinesAdded": 106727,
+      "totalLinesAdded": 205080,
       "totalLinesRemoved": 31,
-      "totalActiveTime": 0,
+      "totalActiveTime": 5,
       "files": {
         "c:\\CilAPPP\\CILApp\\src\\cil\\modulos\\asesoria\\BatchServer\\PresentacionMonitorios.java": [
           {
@@ -207,6 +207,22 @@
             },
             "duration": 0,
             "language": "backup"
+          }
+        ],
+        "c:\\Pruebas\\MASC\\PresentaMASC\\produccion\\17-11-2026\\backup\\Cartas_Asesoria_Abogado_Interno2026-11-17_1.txt": [
+          {
+            "timestamp": "2026-11-17T16:34:26.733Z",
+            "fileName": "c:\\Pruebas\\MASC\\PresentaMASC\\produccion\\17-11-2026\\backup\\Cartas_Asesoria_Abogado_Interno2026-11-17_1.txt",
+            "fileType": ".txt",
+            "linesAdded": 98353,
+            "linesRemoved": 0,
+            "projectName": "CILApp",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 5,
+            "language": "txt"
           }
         ]
       },
