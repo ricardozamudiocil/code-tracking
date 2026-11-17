@@ -35,7 +35,7 @@
       "averageChangeSize": 90
     },
     "CILApp": {
-      "totalLinesAdded": 8374,
+      "totalLinesAdded": 106727,
       "totalLinesRemoved": 31,
       "totalActiveTime": 0,
       "files": {
@@ -175,6 +175,22 @@
             },
             "duration": 0,
             "language": "json"
+          }
+        ],
+        "c:\\Pruebas\\MASC\\PresentaMASC\\produccion\\17-11-2026\\backup\\Cartas_Asesoria_Resto2026-11-17_2.backup": [
+          {
+            "timestamp": "2026-11-17T16:29:38.039Z",
+            "fileName": "c:\\Pruebas\\MASC\\PresentaMASC\\produccion\\17-11-2026\\backup\\Cartas_Asesoria_Resto2026-11-17_2.backup",
+            "fileType": ".backup",
+            "linesAdded": 98353,
+            "linesRemoved": 0,
+            "projectName": "CILApp",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "backup"
           }
         ]
       },
