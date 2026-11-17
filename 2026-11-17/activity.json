@@ -35,7 +35,7 @@
       "averageChangeSize": 90
     },
     "CILApp": {
-      "totalLinesAdded": 5716,
+      "totalLinesAdded": 8356,
       "totalLinesRemoved": 31,
       "totalActiveTime": 0,
       "files": {
@@ -135,6 +135,22 @@
             "fileName": "c:\\CilAPPP\\CILApp\\src\\cil\\modulos\\cobros\\BatchServer\\imprimir\\ImprReembolsos.java",
             "fileType": ".java",
             "linesAdded": 563,
+            "linesRemoved": 0,
+            "projectName": "CILApp",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "java"
+          }
+        ],
+        "c:\\CilAPPP\\CILApp\\src\\cil\\paneles\\cpt\\PanelCpPedidosMP.java": [
+          {
+            "timestamp": "2026-11-17T14:41:47.847Z",
+            "fileName": "c:\\CilAPPP\\CILApp\\src\\cil\\paneles\\cpt\\PanelCpPedidosMP.java",
+            "fileType": ".java",
+            "linesAdded": 2640,
             "linesRemoved": 0,
             "projectName": "CILApp",
             "content": {
