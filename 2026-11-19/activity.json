@@ -2,9 +2,9 @@
   "date": "2026-11-19",
   "projects": {
     "CILApp": {
-      "totalLinesAdded": 13216,
+      "totalLinesAdded": 14131,
       "totalLinesRemoved": 2,
-      "totalActiveTime": 4,
+      "totalActiveTime": 10,
       "files": {
         "c:\\CilAPPP\\CILApp\\src\\cil\\modulos\\asesoria\\BatchServer\\PresentacionMonitorios.java": [
           {
@@ -90,6 +90,20 @@
             },
             "duration": 0,
             "language": "java"
+          },
+          {
+            "timestamp": "2026-11-19T14:15:26.797Z",
+            "fileName": "c:\\CilAPPP\\CILApp\\src\\cil\\modulos\\asesoria\\BatchServer\\PresentacionMonitorios.java",
+            "fileType": ".java",
+            "linesAdded": 7,
+            "linesRemoved": 0,
+            "projectName": "CILApp",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
+            "language": "java"
           }
         ],
         "c:\\Pruebas\\MASC\\PresentaMASC\\produccion\\17-11-2026\\backup\\cartas_resto_2026-11-17_2.backup": [
@@ -137,6 +151,20 @@
               "removed": []
             },
             "duration": 0,
+            "language": "java"
+          },
+          {
+            "timestamp": "2026-11-19T14:15:26.845Z",
+            "fileName": "c:\\CilAPPP\\CILApp\\src\\cil\\modulos\\asesoria\\BatchServer\\ProcMonitorioToMASC.java",
+            "fileType": ".java",
+            "linesAdded": 908,
+            "linesRemoved": 0,
+            "projectName": "CILApp",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
             "language": "java"
           }
         ],
