@@ -4,14 +4,14 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 9621                                          |
+| **Lines Added** (➕)   | 13184                                          |
 | **Lines Removed** (➖) | 0                                        |
-| **Net Change** (↕)    | 9621                |
-| **Active Time** (⌚)   | 3 minutes |
+| **Net Change** (↕)    | 13184                |
+| **Active Time** (⌚)   | 4 minutes |
 
 
 ## Modified Files
-- **PresentacionMonitorios.java** (+7162, -0)
+- **PresentacionMonitorios.java** (+10725, -0)
 - **cartas_resto_2026-11-17_2.backup** (+51, -0)
 - **cartas_resto_2026-11-17_2.dat** (+51, -0)
 - **ProcMonitorioToMASC.java** (+931, -0)
@@ -24,7 +24,7 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".java" : 8093
+".java" : 11656
 ".backup" : 51
 ".dat" : 51
 ".json" : 1426
@@ -39,7 +39,8 @@ title Coding activity by hour (count of changes)
 "11h" : 2
 "12h" : 2
 "13h" : 1
+"14h" : 2
 ```
 
 
-> **Last Updated:** 11/19/2026, 1:04:09 PM
+> **Last Updated:** 11/19/2026, 2:49:08 PM
