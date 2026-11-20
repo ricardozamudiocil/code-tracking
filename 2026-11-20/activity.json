@@ -35,7 +35,7 @@
       "averageChangeSize": 136
     },
     "CILApp": {
-      "totalLinesAdded": 17,
+      "totalLinesAdded": 245862,
       "totalLinesRemoved": 0,
       "totalActiveTime": 0,
       "files": {
@@ -53,6 +53,22 @@
             },
             "duration": 0,
             "language": "java"
+          }
+        ],
+        "c:\\Users\\ricardo_zamudio\\20261119_164128.log": [
+          {
+            "timestamp": "2026-11-20T13:50:23.749Z",
+            "fileName": "c:\\Users\\ricardo_zamudio\\20261119_164128.log",
+            "fileType": ".log",
+            "linesAdded": 245845,
+            "linesRemoved": 0,
+            "projectName": "CILApp",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "log"
           }
         ]
       },
