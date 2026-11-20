@@ -33,6 +33,39 @@
         "c:\\Workspace\\CILReports\\src\\main\\java\\cil\\web\\jasper\\CilJasperReportApplication.java"
       ],
       "averageChangeSize": 136
+    },
+    "CILApp": {
+      "totalLinesAdded": 17,
+      "totalLinesRemoved": 0,
+      "totalActiveTime": 0,
+      "files": {
+        "c:\\CilAPPP\\CILApp\\src\\cil\\modulos\\asesoria\\BatchServer\\PresentacionMonitorios.java": [
+          {
+            "timestamp": "2026-11-20T12:36:09.397Z",
+            "fileName": "c:\\CilAPPP\\CILApp\\src\\cil\\modulos\\asesoria\\BatchServer\\PresentacionMonitorios.java",
+            "fileType": ".java",
+            "linesAdded": 17,
+            "linesRemoved": 0,
+            "projectName": "CILApp",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "java"
+          }
+        ]
+      },
+      "languageStats": {
+        "java": 0
+      },
+      "changeFrequency": {
+        "13": 0
+      },
+      "topFiles": [
+        "c:\\CilAPPP\\CILApp\\src\\cil\\modulos\\asesoria\\BatchServer\\PresentacionMonitorios.java"
+      ],
+      "averageChangeSize": 17
     }
   },
   "totalActiveTime": 0,
