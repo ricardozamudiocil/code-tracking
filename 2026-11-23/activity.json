@@ -117,6 +117,53 @@
         "c:\\Desarrollos\\2026\\Migracion Jasper\\Cobros\\FCSO\\EventCode FCSO.txt"
       ],
       "averageChangeSize": 1040
+    },
+    "InformesDocPath": {
+      "totalLinesAdded": 1480,
+      "totalLinesRemoved": 1472,
+      "totalActiveTime": 2,
+      "files": {
+        "c:\\Desarrollos\\2026\\Migracion Jasper\\Cobros\\COBROS_DOMICI_PT\\EventCode COBROS_DOMICI_PT.txt": [
+          {
+            "timestamp": "2026-11-23T13:24:47.840Z",
+            "fileName": "c:\\Desarrollos\\2026\\Migracion Jasper\\Cobros\\COBROS_DOMICI_PT\\EventCode COBROS_DOMICI_PT.txt",
+            "fileType": ".txt",
+            "linesAdded": 1480,
+            "linesRemoved": 0,
+            "projectName": "InformesDocPath",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "txt"
+          },
+          {
+            "timestamp": "2026-11-23T13:25:53.989Z",
+            "fileName": "c:\\Desarrollos\\2026\\Migracion Jasper\\Cobros\\COBROS_DOMICI_PT\\EventCode COBROS_DOMICI_PT.txt",
+            "fileType": ".txt",
+            "linesAdded": 0,
+            "linesRemoved": 1472,
+            "projectName": "InformesDocPath",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "txt"
+          }
+        ]
+      },
+      "languageStats": {
+        "txt": 2
+      },
+      "changeFrequency": {
+        "14": 2
+      },
+      "topFiles": [
+        "c:\\Desarrollos\\2026\\Migracion Jasper\\Cobros\\COBROS_DOMICI_PT\\EventCode COBROS_DOMICI_PT.txt"
+      ],
+      "averageChangeSize": 1476
     }
   },
   "totalActiveTime": 0,
