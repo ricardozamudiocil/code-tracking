@@ -119,7 +119,7 @@
       "averageChangeSize": 1040
     },
     "InformesDocPath": {
-      "totalLinesAdded": 1480,
+      "totalLinesAdded": 2795,
       "totalLinesRemoved": 1472,
       "totalActiveTime": 2,
       "files": {
@@ -150,6 +150,20 @@
               "removed": []
             },
             "duration": 2,
+            "language": "txt"
+          },
+          {
+            "timestamp": "2026-11-23T13:36:20.530Z",
+            "fileName": "c:\\Desarrollos\\2026\\Migracion Jasper\\Cobros\\COBROS_DOMICI_PT\\EventCode COBROS_DOMICI_PT.txt",
+            "fileType": ".txt",
+            "linesAdded": 1315,
+            "linesRemoved": 0,
+            "projectName": "InformesDocPath",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
             "language": "txt"
           }
         ]
