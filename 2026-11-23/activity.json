@@ -120,7 +120,7 @@
     },
     "InformesDocPath": {
       "totalLinesAdded": 7486,
-      "totalLinesRemoved": 2893,
+      "totalLinesRemoved": 3426,
       "totalActiveTime": 7,
       "files": {
         "c:\\Desarrollos\\2026\\Migracion Jasper\\Cobros\\COBROS_DOMICI_PT\\EventCode COBROS_DOMICI_PT.txt": [
@@ -246,6 +246,20 @@
             "fileType": ".txt",
             "linesAdded": 1130,
             "linesRemoved": 0,
+            "projectName": "InformesDocPath",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "txt"
+          },
+          {
+            "timestamp": "2026-11-23T17:21:10.330Z",
+            "fileName": "c:\\Desarrollos\\2026\\Migracion Jasper\\Cobros\\COBROS_CARTAS_PT\\EventCode COBROS_CARTAS_PT.txt",
+            "fileType": ".txt",
+            "linesAdded": 0,
+            "linesRemoved": 533,
             "projectName": "InformesDocPath",
             "content": {
               "added": [],
