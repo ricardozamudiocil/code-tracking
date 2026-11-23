@@ -119,7 +119,7 @@
       "averageChangeSize": 1040
     },
     "InformesDocPath": {
-      "totalLinesAdded": 3805,
+      "totalLinesAdded": 6138,
       "totalLinesRemoved": 1472,
       "totalActiveTime": 2,
       "files": {
@@ -171,6 +171,22 @@
             "fileName": "c:\\Desarrollos\\2026\\Migracion Jasper\\Cobros\\COBROS_DOMICI_PT\\EventCode COBROS_DOMICI_PT.txt",
             "fileType": ".txt",
             "linesAdded": 1010,
+            "linesRemoved": 0,
+            "projectName": "InformesDocPath",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "txt"
+          }
+        ],
+        "c:\\Desarrollos\\2026\\Migracion Jasper\\Cobros\\COBROS_TRIPTICO_PT\\EventCode COBROS_TRIPTICO_PT.txt": [
+          {
+            "timestamp": "2026-11-23T16:01:49.536Z",
+            "fileName": "c:\\Desarrollos\\2026\\Migracion Jasper\\Cobros\\COBROS_TRIPTICO_PT\\EventCode COBROS_TRIPTICO_PT.txt",
+            "fileType": ".txt",
+            "linesAdded": 2333,
             "linesRemoved": 0,
             "projectName": "InformesDocPath",
             "content": {
