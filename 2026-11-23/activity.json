@@ -119,7 +119,7 @@
       "averageChangeSize": 1040
     },
     "InformesDocPath": {
-      "totalLinesAdded": 6138,
+      "totalLinesAdded": 6248,
       "totalLinesRemoved": 2893,
       "totalActiveTime": 2,
       "files": {
@@ -202,6 +202,20 @@
             "fileType": ".txt",
             "linesAdded": 0,
             "linesRemoved": 1421,
+            "projectName": "InformesDocPath",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "txt"
+          },
+          {
+            "timestamp": "2026-11-23T16:44:05.227Z",
+            "fileName": "c:\\Desarrollos\\2026\\Migracion Jasper\\Cobros\\COBROS_TRIPTICO_PT\\EventCode COBROS_TRIPTICO_PT.txt",
+            "fileType": ".txt",
+            "linesAdded": 110,
+            "linesRemoved": 0,
             "projectName": "InformesDocPath",
             "content": {
               "added": [],
