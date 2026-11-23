@@ -119,7 +119,7 @@
       "averageChangeSize": 1040
     },
     "InformesDocPath": {
-      "totalLinesAdded": 6356,
+      "totalLinesAdded": 7486,
       "totalLinesRemoved": 2893,
       "totalActiveTime": 7,
       "files": {
@@ -236,6 +236,22 @@
               "removed": []
             },
             "duration": 5,
+            "language": "txt"
+          }
+        ],
+        "c:\\Desarrollos\\2026\\Migracion Jasper\\Cobros\\COBROS_CARTAS_PT\\EventCode COBROS_CARTAS_PT.txt": [
+          {
+            "timestamp": "2026-11-23T17:07:09.624Z",
+            "fileName": "c:\\Desarrollos\\2026\\Migracion Jasper\\Cobros\\COBROS_CARTAS_PT\\EventCode COBROS_CARTAS_PT.txt",
+            "fileType": ".txt",
+            "linesAdded": 1130,
+            "linesRemoved": 0,
+            "projectName": "InformesDocPath",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
             "language": "txt"
           }
         ]
