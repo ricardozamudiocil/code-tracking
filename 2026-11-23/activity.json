@@ -208,6 +208,57 @@
         "c:\\Desarrollos\\2026\\Migracion Jasper\\Cobros\\COBROS_DOMICI_PT\\EventCode COBROS_DOMICI_PT.txt"
       ],
       "averageChangeSize": 1476
+    },
+    "CILReports (Workspace)": {
+      "totalLinesAdded": 764,
+      "totalLinesRemoved": 0,
+      "totalActiveTime": 1,
+      "files": {
+        "c:\\Workspace\\CILReports\\src\\main\\java\\cil\\web\\jasper\\util\\recobro\\RenewalFieldsUtil.java": [
+          {
+            "timestamp": "2026-11-23T16:25:31.345Z",
+            "fileName": "c:\\Workspace\\CILReports\\src\\main\\java\\cil\\web\\jasper\\util\\recobro\\RenewalFieldsUtil.java",
+            "fileType": ".java",
+            "linesAdded": 319,
+            "linesRemoved": 0,
+            "projectName": "CILReports (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "java"
+          }
+        ],
+        "c:\\Workspace\\CILReports\\src\\main\\resources\\jasper\\plantillas\\IF7\\IF7_renewal.jrxml": [
+          {
+            "timestamp": "2026-11-23T16:25:33.489Z",
+            "fileName": "c:\\Workspace\\CILReports\\src\\main\\resources\\jasper\\plantillas\\IF7\\IF7_renewal.jrxml",
+            "fileType": ".jrxml",
+            "linesAdded": 445,
+            "linesRemoved": 0,
+            "projectName": "CILReports (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "jrxml"
+          }
+        ]
+      },
+      "languageStats": {
+        "java": 0,
+        "jrxml": 1
+      },
+      "changeFrequency": {
+        "17": 1
+      },
+      "topFiles": [
+        "c:\\Workspace\\CILReports\\src\\main\\java\\cil\\web\\jasper\\util\\recobro\\RenewalFieldsUtil.java",
+        "c:\\Workspace\\CILReports\\src\\main\\resources\\jasper\\plantillas\\IF7\\IF7_renewal.jrxml"
+      ],
+      "averageChangeSize": 382
     }
   },
   "totalActiveTime": 0,
