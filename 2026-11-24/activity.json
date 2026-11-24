@@ -154,6 +154,39 @@
         "c:\\CilAPPP\\CILApp\\src\\cil\\modulos\\asesoria\\BatchServer\\PresentacionMonitorios.java"
       ],
       "averageChangeSize": 2
+    },
+    "CILReports (Workspace)": {
+      "totalLinesAdded": 630,
+      "totalLinesRemoved": 0,
+      "totalActiveTime": 0,
+      "files": {
+        "c:\\Workspace\\CILReports\\src\\main\\resources\\jasper\\plantillas\\cobros\\COBROS_RECLA_PT.jrxml": [
+          {
+            "timestamp": "2026-11-24T14:11:54.695Z",
+            "fileName": "c:\\Workspace\\CILReports\\src\\main\\resources\\jasper\\plantillas\\cobros\\COBROS_RECLA_PT.jrxml",
+            "fileType": ".jrxml",
+            "linesAdded": 630,
+            "linesRemoved": 0,
+            "projectName": "CILReports (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "jrxml"
+          }
+        ]
+      },
+      "languageStats": {
+        "jrxml": 0
+      },
+      "changeFrequency": {
+        "15": 0
+      },
+      "topFiles": [
+        "c:\\Workspace\\CILReports\\src\\main\\resources\\jasper\\plantillas\\cobros\\COBROS_RECLA_PT.jrxml"
+      ],
+      "averageChangeSize": 630
     }
   },
   "totalActiveTime": 0,
