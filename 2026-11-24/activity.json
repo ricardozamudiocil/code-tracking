@@ -65,9 +65,9 @@
       "averageChangeSize": 245845
     },
     "CILApp": {
-      "totalLinesAdded": 0,
+      "totalLinesAdded": 6,
       "totalLinesRemoved": 2,
-      "totalActiveTime": 0,
+      "totalActiveTime": 5,
       "files": {
         "c:\\CilAPPP\\CILApp\\src\\cil\\modulos\\asesoria\\BatchServer\\PresentacionMonitorios.java": [
           {
@@ -82,6 +82,20 @@
               "removed": []
             },
             "duration": 0,
+            "language": "java"
+          },
+          {
+            "timestamp": "2026-11-24T14:00:22.605Z",
+            "fileName": "c:\\CilAPPP\\CILApp\\src\\cil\\modulos\\asesoria\\BatchServer\\PresentacionMonitorios.java",
+            "fileType": ".java",
+            "linesAdded": 6,
+            "linesRemoved": 0,
+            "projectName": "CILApp",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 5,
             "language": "java"
           }
         ]
