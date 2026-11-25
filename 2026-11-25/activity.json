@@ -2,7 +2,7 @@
   "date": "2026-11-25",
   "projects": {
     "InformesDocPath": {
-      "totalLinesAdded": 48,
+      "totalLinesAdded": 1528,
       "totalLinesRemoved": 0,
       "totalActiveTime": 0,
       "files": {
@@ -20,6 +20,22 @@
             },
             "duration": 0,
             "language": "backup"
+          }
+        ],
+        "c:\\Desarrollos\\2026\\Migracion Jasper\\Cobros\\FCBR\\EventCode FCBR.txt": [
+          {
+            "timestamp": "2026-11-25T12:51:35.304Z",
+            "fileName": "c:\\Desarrollos\\2026\\Migracion Jasper\\Cobros\\FCBR\\EventCode FCBR.txt",
+            "fileType": ".txt",
+            "linesAdded": 1480,
+            "linesRemoved": 0,
+            "projectName": "InformesDocPath",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "txt"
           }
         ]
       },
