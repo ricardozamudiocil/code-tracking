@@ -1,0 +1,47 @@
+{
+  "date": "2026-11-25",
+  "projects": {
+    "InformesDocPath": {
+      "totalLinesAdded": 48,
+      "totalLinesRemoved": 0,
+      "totalActiveTime": 0,
+      "files": {
+        "c:\\Pruebas\\MASC\\PresentaMASC\\produccion\\17-11-2026\\backup\\facturas_resto_2026-11-17_1968.backup": [
+          {
+            "timestamp": "2026-11-25T08:08:53.805Z",
+            "fileName": "c:\\Pruebas\\MASC\\PresentaMASC\\produccion\\17-11-2026\\backup\\facturas_resto_2026-11-17_1968.backup",
+            "fileType": ".backup",
+            "linesAdded": 48,
+            "linesRemoved": 0,
+            "projectName": "InformesDocPath",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "backup"
+          }
+        ]
+      },
+      "languageStats": {
+        "backup": 0
+      },
+      "changeFrequency": {
+        "9": 0
+      },
+      "topFiles": [
+        "c:\\Pruebas\\MASC\\PresentaMASC\\produccion\\17-11-2026\\backup\\facturas_resto_2026-11-17_1968.backup"
+      ],
+      "averageChangeSize": 48
+    }
+  },
+  "totalActiveTime": 0,
+  "totalProjects": 1,
+  "totalFiles": 1,
+  "mostActiveHours": [
+    9
+  ],
+  "mostUsedLanguages": [
+    "backup"
+  ]
+}
