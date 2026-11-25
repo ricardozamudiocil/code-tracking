@@ -2,9 +2,9 @@
   "date": "2026-11-25",
   "projects": {
     "InformesDocPath": {
-      "totalLinesAdded": 3216,
+      "totalLinesAdded": 3261,
       "totalLinesRemoved": 971,
-      "totalActiveTime": 9,
+      "totalActiveTime": 14,
       "files": {
         "c:\\Pruebas\\MASC\\PresentaMASC\\produccion\\17-11-2026\\backup\\facturas_resto_2026-11-17_1968.backup": [
           {
@@ -135,6 +135,34 @@
               "removed": []
             },
             "duration": 4,
+            "language": "txt"
+          },
+          {
+            "timestamp": "2026-11-25T13:59:57.237Z",
+            "fileName": "c:\\Desarrollos\\2026\\Migracion Jasper\\Cobros\\FCBR\\EventCode FCBR_PT.txt",
+            "fileType": ".txt",
+            "linesAdded": 19,
+            "linesRemoved": 0,
+            "projectName": "InformesDocPath",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 4,
+            "language": "txt"
+          },
+          {
+            "timestamp": "2026-11-25T14:00:06.469Z",
+            "fileName": "c:\\Desarrollos\\2026\\Migracion Jasper\\Cobros\\FCBR\\EventCode FCBR_PT.txt",
+            "fileType": ".txt",
+            "linesAdded": 26,
+            "linesRemoved": 0,
+            "projectName": "InformesDocPath",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
             "language": "txt"
           }
         ]
