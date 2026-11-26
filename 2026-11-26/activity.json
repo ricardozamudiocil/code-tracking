@@ -3,7 +3,7 @@
   "projects": {
     "CILReports (Workspace)": {
       "totalLinesAdded": 1119,
-      "totalLinesRemoved": 0,
+      "totalLinesRemoved": 393,
       "totalActiveTime": 0,
       "files": {
         "c:\\Workspace\\CILReports\\src\\main\\java\\cil\\web\\jasper\\constants\\if2\\ConstantsJasperIF2Documentation.java": [
@@ -73,6 +73,20 @@
             "fileType": ".java",
             "linesAdded": 961,
             "linesRemoved": 0,
+            "projectName": "CILReports (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "java"
+          },
+          {
+            "timestamp": "2026-11-26T15:39:16.358Z",
+            "fileName": "c:\\Workspace\\CILReports\\src\\main\\java\\cil\\web\\jasper\\service\\cobros\\impl\\JasperCobrosServiceImpl.java",
+            "fileType": ".java",
+            "linesAdded": 0,
+            "linesRemoved": 393,
             "projectName": "CILReports (Workspace)",
             "content": {
               "added": [],
