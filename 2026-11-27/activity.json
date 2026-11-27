@@ -79,7 +79,7 @@
       "averageChangeSize": 116
     },
     "CILWebCustomerComunication": {
-      "totalLinesAdded": 81,
+      "totalLinesAdded": 82,
       "totalLinesRemoved": 0,
       "totalActiveTime": 0,
       "files": {
@@ -89,6 +89,20 @@
             "fileName": "c:\\Desarrollos\\2026\\Migracion Jasper\\Cobros\\RV__Cartas_en_Jasper\\Ejemplos\\INSERT_dot_cuerpos_fcbr.sql",
             "fileType": ".sql",
             "linesAdded": 81,
+            "linesRemoved": 0,
+            "projectName": "CILWebCustomerComunication",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "sql"
+          },
+          {
+            "timestamp": "2026-11-27T13:19:13.290Z",
+            "fileName": "c:\\Desarrollos\\2026\\Migracion Jasper\\Cobros\\RV__Cartas_en_Jasper\\Ejemplos\\INSERT_dot_cuerpos_fcbr.sql",
+            "fileType": ".sql",
+            "linesAdded": 1,
             "linesRemoved": 0,
             "projectName": "CILWebCustomerComunication",
             "content": {
