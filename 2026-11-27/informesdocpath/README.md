@@ -4,15 +4,15 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 328                                          |
+| **Lines Added** (➕)   | 451                                          |
 | **Lines Removed** (➖) | 0                                        |
-| **Net Change** (↕)    | 328                |
-| **Active Time** (⌚)   | 0 minute |
+| **Net Change** (↕)    | 451                |
+| **Active Time** (⌚)   | 4 minutes |
 
 
 ## Modified Files
-- **INSERT_dot_cuerpos_tri_recla_fcso.sql** (+116, -0)
-- **INSERT_dot_cuerpos_fcbr.sql** (+212, -0)
+- **INSERT_dot_cuerpos_tri_recla_fcso.sql** (+158, -0)
+- **INSERT_dot_cuerpos_fcbr.sql** (+293, -0)
 
 ## Visualizations
 
@@ -21,7 +21,7 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".sql" : 328
+".sql" : 451
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -29,8 +29,8 @@ title Lines changed by file type
 ```mermaid
 pie showData
 title Coding activity by hour (count of changes)
-"13h" : 2
+"13h" : 4
 ```
 
 
-> **Last Updated:** 11/27/2026, 1:46:44 PM
+> **Last Updated:** 11/27/2026, 1:56:44 PM
