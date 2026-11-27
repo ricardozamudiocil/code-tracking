@@ -1,0 +1,47 @@
+{
+  "date": "2026-11-27",
+  "projects": {
+    "InformesDocPath": {
+      "totalLinesAdded": 116,
+      "totalLinesRemoved": 0,
+      "totalActiveTime": 0,
+      "files": {
+        "c:\\Desarrollos\\2026\\Migracion Jasper\\Cobros\\RV__Cartas_en_Jasper\\Ejemplos\\INSERT_dot_cuerpos_tri_recla_fcso.sql": [
+          {
+            "timestamp": "2026-11-27T12:32:01.237Z",
+            "fileName": "c:\\Desarrollos\\2026\\Migracion Jasper\\Cobros\\RV__Cartas_en_Jasper\\Ejemplos\\INSERT_dot_cuerpos_tri_recla_fcso.sql",
+            "fileType": ".sql",
+            "linesAdded": 116,
+            "linesRemoved": 0,
+            "projectName": "InformesDocPath",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "sql"
+          }
+        ]
+      },
+      "languageStats": {
+        "sql": 0
+      },
+      "changeFrequency": {
+        "13": 0
+      },
+      "topFiles": [
+        "c:\\Desarrollos\\2026\\Migracion Jasper\\Cobros\\RV__Cartas_en_Jasper\\Ejemplos\\INSERT_dot_cuerpos_tri_recla_fcso.sql"
+      ],
+      "averageChangeSize": 116
+    }
+  },
+  "totalActiveTime": 0,
+  "totalProjects": 1,
+  "totalFiles": 1,
+  "mostActiveHours": [
+    13
+  ],
+  "mostUsedLanguages": [
+    "sql"
+  ]
+}
